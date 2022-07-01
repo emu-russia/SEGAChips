@@ -238,3 +238,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 Используется совместно с `cgi2a` для создания компаратора.
 
 Выход ора подаётся на инвертирующий вход `a` генератора переноса.
+
+## Ячейка 31 - fa (Full Adder)
+|![image](https://user-images.githubusercontent.com/15833655/176933993-0a10b5c2-3a52-4f07-830a-99adbdbb33cc.png)|![image](https://user-images.githubusercontent.com/15833655/176934035-dfe53bc6-13c0-446d-bd76-b02c21975ee9.png)|![image](https://user-images.githubusercontent.com/15833655/176934076-3de32881-2f26-47d9-9354-0c3e7b3aa58a.png)|
+|---|---|---|
