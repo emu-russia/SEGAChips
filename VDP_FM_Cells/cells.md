@@ -39,8 +39,8 @@
 
 ## Ячейка 5 - dlatch
 
-|![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/5828819/176176744-37845b69-c7ca-467a-ad32-f080a0a57765.png)|![image](https://user-images.githubusercontent.com/5828819/176163672-2ecf4a9a-1797-4467-aa3d-549cbe394303.png)|
-|---|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/15833655/176936749-4491ecec-201f-4cd7-80fd-d0e0f71aadcb.png)|![image](https://user-images.githubusercontent.com/5828819/176176744-37845b69-c7ca-467a-ad32-f080a0a57765.png)|![image](https://user-images.githubusercontent.com/5828819/176163672-2ecf4a9a-1797-4467-aa3d-549cbe394303.png)|
+|---|---|---|---|
 
 Комплементарный Enable вход.
 
