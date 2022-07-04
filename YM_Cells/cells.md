@@ -30,12 +30,13 @@
 
 ## Ячейка 4 - nand3
 
-|![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)|![image](https://user-images.githubusercontent.com/5828819/176125415-f76623ef-382e-403c-807a-b7bc2bb4f5f4.png)|![image](https://user-images.githubusercontent.com/5828819/176121734-2aa7369c-96d0-4490-bcc4-e194179e0b00.png)|
-|---|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/175828193-f8cd0cd6-c3d2-421a-b0d5-5c432deee133.png)|![image](https://user-images.githubusercontent.com/15833655/177208868-076b9049-44f7-4b22-8b39-bd4d6cb366fc.png)|![image](https://user-images.githubusercontent.com/5828819/176125415-f76623ef-382e-403c-807a-b7bc2bb4f5f4.png)|![image](https://user-images.githubusercontent.com/5828819/176121734-2aa7369c-96d0-4490-bcc4-e194179e0b00.png)|
+|---|---|---|---|
 
 ## Ячейка 28 - nor3
 
-![image](https://user-images.githubusercontent.com/5828819/176855640-fa3a37fb-7dd7-49b3-ace7-43ead58bf308.png)
+|![image](https://user-images.githubusercontent.com/5828819/176855640-fa3a37fb-7dd7-49b3-ace7-43ead58bf308.png)|![image](https://user-images.githubusercontent.com/15833655/177050076-217f4ec8-f78a-4ec6-b135-1ac2856e7cdd.png)|
+|---|---|
 
 ## Ячейка 5 - dlatch
 
@@ -220,8 +221,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Значение хранится на затворе выходного инвертора. Вход `Enable` в комплементарной логике ("dual-rails").
 
-|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176599985-a0ec3b48-4fee-41c8-ab0e-1f3a0ea49c29.png)|
-|---|---|---|
+|![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/15833655/177209646-38150c10-8b96-4497-a0d4-f14530e69f67.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176599985-a0ec3b48-4fee-41c8-ab0e-1f3a0ea49c29.png)|
+|---|---|---|---|
 
 В единственном экземпляре, по середине ряда `H`.
 
@@ -262,8 +263,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ![image](https://user-images.githubusercontent.com/15833655/177043825-732ce980-5427-4895-b130-b0ea10df8861.png)
 
 ## Ячейка 34
-|![image](https://user-images.githubusercontent.com/15833655/177043894-f7f59653-5823-4741-8651-60464f30e954.png)|![image](https://user-images.githubusercontent.com/15833655/177050308-37253a97-b2e8-4ca0-9ddb-cb7cfbb0e110.png)|![image](https://user-images.githubusercontent.com/15833655/177051302-2227d4a4-ce10-417a-9df5-9e1be1ebda5b.png)|![image](https://user-images.githubusercontent.com/15833655/177208111-4cb79f70-1135-4643-99ec-54f74a765d03.png)|
-|---|---|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177043894-f7f59653-5823-4741-8651-60464f30e954.png)|![image](https://user-images.githubusercontent.com/15833655/177050308-37253a97-b2e8-4ca0-9ddb-cb7cfbb0e110.png)|![image](https://user-images.githubusercontent.com/15833655/177051302-2227d4a4-ce10-417a-9df5-9e1be1ebda5b.png)|![image](https://user-images.githubusercontent.com/15833655/177208111-4cb79f70-1135-4643-99ec-54f74a765d03.png)|![image](https://user-images.githubusercontent.com/15833655/177209035-110e6935-7d91-4dfc-9d9d-60d0c76e94b2.png)|![image](https://user-images.githubusercontent.com/15833655/177209765-12239bb7-4509-4b96-8f1b-cc50a13758c4.png)|![image](https://user-images.githubusercontent.com/15833655/177210693-e190f27d-9537-407f-8719-53f73074eecd.png)|
+|---|---|---|---|---|---|---|
 
 ## Ячейка 35
 ![image](https://user-images.githubusercontent.com/15833655/177044042-da49c5d3-f669-48fd-9878-672c309d1e0c.png)
@@ -271,55 +272,55 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 36
 ![image](https://user-images.githubusercontent.com/15833655/177044357-20aa28e5-e819-46dd-9f19-fcefd5f2a7d8.png)
 
-## Ячейка 53
+## Ячейка 37
 ![image](https://user-images.githubusercontent.com/15833655/177207653-145e07b4-cf84-4186-ae8f-c81a91a602b0.png)
 
-## Ячейка 37
+## Ячейка 38
 ![image](https://user-images.githubusercontent.com/15833655/177044420-957d12d1-6a27-4746-bbc6-76e7a36c9320.png)
 
-## Ячейка 38
+## Ячейка 39
 ![image](https://user-images.githubusercontent.com/15833655/177044500-06811ce8-2e0c-4a22-8706-e2397600a572.png)
 
-## Ячейка 39
+## Ячейка 40
 ![image](https://user-images.githubusercontent.com/15833655/177044591-a7df3a45-b6b5-487f-b942-1cce9f96e692.png)
 
-## Ячейка 40
+## Ячейка 41
 ![image](https://user-images.githubusercontent.com/15833655/177049818-11fffd64-499e-44d3-837d-edd170372525.png)
 
-## Ячейка 41
-![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)
-
 ## Ячейка 42
-![image](https://user-images.githubusercontent.com/15833655/177049999-be23771b-09de-4807-bc76-e7468b9ba411.png)
+![image](https://user-images.githubusercontent.com/15833655/177211765-894395e7-c8d3-49a6-ac09-90090b4b6e7c.png)
 
 ## Ячейка 43
-![image](https://user-images.githubusercontent.com/15833655/177050076-217f4ec8-f78a-4ec6-b135-1ac2856e7cdd.png)
+![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)
 
 ## Ячейка 44
-![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)
+![image](https://user-images.githubusercontent.com/15833655/177049999-be23771b-09de-4807-bc76-e7468b9ba411.png)
 
 ## Ячейка 45
-![image](https://user-images.githubusercontent.com/15833655/177050628-dc30593d-4edc-4740-9477-993aa690ed98.png)
+![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)
 
 ## Ячейка 46
-![image](https://user-images.githubusercontent.com/15833655/177050721-f3f3ae9e-0786-454c-97f3-baeb0e5ac46b.png)
+![image](https://user-images.githubusercontent.com/15833655/177050628-dc30593d-4edc-4740-9477-993aa690ed98.png)
 
 ## Ячейка 47
-![image](https://user-images.githubusercontent.com/15833655/177050802-6a3b6726-fd3d-4ce3-9d6a-5b790f520568.png)
+![image](https://user-images.githubusercontent.com/15833655/177050721-f3f3ae9e-0786-454c-97f3-baeb0e5ac46b.png)
 
 ## Ячейка 48
-![image](https://user-images.githubusercontent.com/15833655/177050899-c8dea0ef-3783-4412-9fff-cc909c7d14d1.png)
+![image](https://user-images.githubusercontent.com/15833655/177050802-6a3b6726-fd3d-4ce3-9d6a-5b790f520568.png)
 
 ## Ячейка 49
-![image](https://user-images.githubusercontent.com/15833655/177050941-e9b54348-8909-43fa-ba21-0b4a2387e780.png)
+![image](https://user-images.githubusercontent.com/15833655/177050899-c8dea0ef-3783-4412-9fff-cc909c7d14d1.png)
 
 ## Ячейка 50
-![image](https://user-images.githubusercontent.com/15833655/177051241-f6e79fe7-0406-4f9b-baa6-fd9cbcf65e98.png)
+![image](https://user-images.githubusercontent.com/15833655/177050941-e9b54348-8909-43fa-ba21-0b4a2387e780.png)
 
 ## Ячейка 51
-![image](https://user-images.githubusercontent.com/15833655/177051266-ed19c5a5-3b47-45f9-a2ce-f390d4a3a172.png)
+![image](https://user-images.githubusercontent.com/15833655/177051241-f6e79fe7-0406-4f9b-baa6-fd9cbcf65e98.png)
 
 ## Ячейка 52
+![image](https://user-images.githubusercontent.com/15833655/177051266-ed19c5a5-3b47-45f9-a2ce-f390d4a3a172.png)
+
+## Ячейка 53
 ![image](https://user-images.githubusercontent.com/15833655/177206849-7ef0d021-1ff9-440f-ab77-b4994fad75de.png)
 
 ## Ячейкв 54
@@ -332,3 +333,32 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ![image](https://user-images.githubusercontent.com/15833655/177208253-18ba99f7-9550-41bf-9c1c-b744aebb9ad8.png)
 
 ## Ячейка 57
+![image](https://user-images.githubusercontent.com/15833655/177209136-46d5f32c-1361-426c-8c3c-bf89d78d6985.png)
+
+## Ячейка 58
+![image](https://user-images.githubusercontent.com/15833655/177209199-5fadab92-fd77-4ef0-a0db-c66059751ec4.png)
+
+## Ячейка 59
+![image](https://user-images.githubusercontent.com/15833655/177209469-2d8639a8-4974-4920-b30c-734d2f8eeb9e.png)
+
+## Ячейка 60
+![image](https://user-images.githubusercontent.com/15833655/177210033-a57ffe7f-13c1-4641-9c98-baff1b8309ec.png)
+
+## Ячейка 61
+![image](https://user-images.githubusercontent.com/15833655/177210153-e5a97626-909f-4018-b2e7-78241350480b.png)
+
+## Ячейка 62
+![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)
+
+## Ячейка 63
+![image](https://user-images.githubusercontent.com/15833655/177211381-246204cb-e012-4a1b-912b-7a585ca62c68.png)
+
+## Ячейка 64
+![image](https://user-images.githubusercontent.com/15833655/177211577-5ca314d9-3f5e-494f-94f2-08cb614aed64.png)
+
+## Ячейка 65
+![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)
+
+## Ячейка 66
+![image](https://user-images.githubusercontent.com/15833655/177212200-64a26137-2798-46eb-82ea-b2cacb99c370.png)
+
