@@ -49,7 +49,7 @@
 |WTF_2|  |
 |CELLS_20| |
 |WTF_3| Command FIFO ? |
-|**Верхняя часть**||
+|**Нижняя часть**||
 |RGB_DAC| |
 |VID_OUT| DAC logic |
 |MUX| Combines planes and sprite layers |
