@@ -26,7 +26,7 @@
 
 |Модуль|Назначение|
 |---|---|
-|Верхняя часть||
+|**Верхняя часть**||
 |SRAM_1| Sprite linebuffer |
 |SRAM_2| Sprite linebuffer |
 |SRAM_3| Sprite attribution table |
@@ -49,7 +49,7 @@
 |WTF_2|  |
 |CELLS_20| |
 |WTF_3| Command FIFO ? |
-|Нижняя часть||
+|**Верхняя часть**||
 |RGB_DAC| |
 |VID_OUT| DAC logic |
 |MUX| Combines planes and sprite layers |
