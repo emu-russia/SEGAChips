@@ -6,13 +6,17 @@
 
 Маркировка VDP: первый был YM7101 (YAMAHA) потом FC1001 (тоже ямаха, они где то с 1990 чипы по другому обзывать начали).
 
-https://console5.com/wiki/315-5313
-
 ## Терминалы
 
 Схема терминалов:
 
 ![image](https://user-images.githubusercontent.com/5828819/176869971-76b85399-3c73-4903-aa8d-abc61f7090d7.png)
+
+![image](https://user-images.githubusercontent.com/5828819/177406986-9a2b6f3f-5a02-48d1-b163-743e570924fd.png)
+
+![image](https://user-images.githubusercontent.com/5828819/177406997-17cb162e-d11b-4455-9056-1bba7c365446.png)
+
+(https://console5.com/wiki/315-5313)
 
 ## Модули
 
