@@ -701,4 +701,23 @@
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
   </Entity>
+  <Entity>
+    <Label>RGB_DAC</Label>
+    <LambdaWidth>37</LambdaWidth>
+    <LambdaHeight>112</LambdaHeight>
+    <LambdaX>24.445961</LambdaX>
+    <LambdaY>543.8759</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+  </Entity>
 </ArrayOfEntity>
