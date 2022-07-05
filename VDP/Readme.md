@@ -22,36 +22,36 @@ nukeykt — Сегодня, в 11:49
 |Модуль|Назначение|
 |---|---|
 |Верхняя часть||
-|SRAM_1| |
-|SRAM_2| |
-|SRAM_3| |
-|SRAM_4| |
-|SRAM_5| |
-|SRAM_6| |
-|CELLS_0| |
-|CELLS_1| |
-|CELLS_2| |
-|CELLS_3| |
-|CELLS_4| |
-|CELLS_5| |
-|CELLS_6| |
-|CELLS_7| |
-|CELLS_8| |
-|WTF_1| |
+|SRAM_1| Sprite linebuffer |
+|SRAM_2| Sprite linebuffer |
+|SRAM_3| Sprite attribution table |
+|SRAM_4| Sprite attribution table |
+|SRAM_5| Current line sprites attributes |
+|SRAM_6| Current line sprites attributes |
+|CELLS_0| Sprite logic |
+|CELLS_1| Sprite logic |
+|CELLS_2| Current line sprites list |
+|CELLS_3| Sprite logic |
+|CELLS_4| Sprite logic |
+|CELLS_5| Sprite logic |
+|CELLS_6| Sprite logic |
+|CELLS_7| Sprite logic |
+|CELLS_8| Collects all sprites in line |
+|WTF_1| Clock |
 |PSG_DAC| |
 |PSG| |
-|CELLS_10| |
-|WTF_2| |
+|CELLS_10| Registers logic, DMA logic, etc |
+|WTF_2|  |
 |CELLS_20| |
-|WTF_3| |
+|WTF_3| Command FIFO ? |
 |Нижняя часть||
 |RGB_DAC| |
-|CELLS_30| |
-|CELLS_31| |
-|CELLS_32| |
-|CELLS_33| |
-|SRAM_11| |
-|SRAM_12| |
+|CELLS_30| DAC logic |
+|CELLS_31| Combines planes and sprite layers |
+|CELLS_32| Plane rendering |
+|CELLS_33| Plane rendering |
+|SRAM_11| Color RAM |
+|SRAM_12| Vertical Scroll RAM |
 |CLKGEN| |
 |FSM_1| |
 |FSM_2| |
