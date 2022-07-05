@@ -50,6 +50,7 @@ nukeykt — Сегодня, в 11:49
 |CELLS_31| Combines planes and sprite layers |
 |CELLS_32| Plane rendering |
 |CELLS_33| Plane rendering |
+|SRAM_10| VRAM logic |
 |SRAM_11| Color RAM |
 |SRAM_12| Vertical Scroll RAM |
 |CLKGEN| |
