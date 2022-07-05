@@ -13,11 +13,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>SRAM_5</Label>
@@ -32,11 +34,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>SRAM_4</Label>
@@ -51,11 +55,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>SRAM_3</Label>
@@ -70,11 +76,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>SRAM_1</Label>
@@ -89,11 +97,13 @@
     <FontOverride>Microsoft Sans Serif; 48pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>SRAM_2</Label>
@@ -108,11 +118,13 @@
     <FontOverride>Microsoft Sans Serif; 48pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>PSG_DAC</Label>
@@ -127,11 +139,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>PSG</Label>
@@ -146,11 +160,13 @@
     <FontOverride>Microsoft Sans Serif; 36pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_10</Label>
@@ -165,11 +181,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>WTF_2</Label>
@@ -184,11 +202,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_20</Label>
@@ -203,11 +223,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>WTF_3</Label>
@@ -222,11 +244,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>FSM_2</Label>
@@ -241,11 +265,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>PLA_1</Label>
@@ -260,11 +286,13 @@
     <FontOverride>Microsoft Sans Serif; 24pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>PLA_2</Label>
@@ -279,11 +307,13 @@
     <FontOverride>Microsoft Sans Serif; 24pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>PLA_3</Label>
@@ -298,11 +328,13 @@
     <FontOverride>Microsoft Sans Serif; 24pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>FSM_1</Label>
@@ -317,11 +349,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>SRAM_12</Label>
@@ -336,11 +370,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CLKGEN</Label>
@@ -355,11 +391,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_32</Label>
@@ -374,11 +412,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label />
@@ -392,11 +432,13 @@
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_33</Label>
@@ -411,11 +453,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label />
@@ -429,14 +473,16 @@
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>SRAM_11</Label>
+    <Label>CRAM</Label>
     <LambdaWidth>50.66668</LambdaWidth>
     <LambdaHeight>78.5</LambdaHeight>
     <LambdaX>121.3619</LambdaX>
@@ -448,14 +494,16 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>CELLS_31</Label>
+    <Label>MUX</Label>
     <LambdaWidth>44.6000061</LambdaWidth>
     <LambdaHeight>72.20001</LambdaHeight>
     <LambdaX>121.49826</LambdaX>
@@ -467,14 +515,16 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>CELLS_30</Label>
+    <Label>VID_OUT</Label>
     <LambdaWidth>32.66667</LambdaWidth>
     <LambdaHeight>157.999969</LambdaHeight>
     <LambdaX>83.6350861</LambdaX>
@@ -483,17 +533,19 @@
     <LambdaEndY>1</LambdaEndY>
     <Type>UnitCustom</Type>
     <ColorOverride>Black</ColorOverride>
-    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <FontOverride>Microsoft Sans Serif; 26,25pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>SRAM_10</Label>
+    <Label>CELLS_34</Label>
     <LambdaWidth>60.8889</LambdaWidth>
     <LambdaHeight>63.3333435</LambdaHeight>
     <LambdaX>83.1125</LambdaX>
@@ -505,14 +557,16 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>WTF_1</Label>
+    <Label>CLK_PUSH_PULL</Label>
     <LambdaWidth>66.00001</LambdaWidth>
     <LambdaHeight>34</LambdaHeight>
     <LambdaX>65.61767</LambdaX>
@@ -521,14 +575,16 @@
     <LambdaEndY>1</LambdaEndY>
     <Type>UnitCustom</Type>
     <ColorOverride>Black</ColorOverride>
-    <FontOverride>Microsoft Sans Serif; 36pt</FontOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_3</Label>
@@ -543,11 +599,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_4</Label>
@@ -562,11 +620,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_5</Label>
@@ -581,11 +641,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_6</Label>
@@ -600,11 +662,13 @@
     <FontOverride>Microsoft Sans Serif; 21,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_7</Label>
@@ -619,11 +683,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_8</Label>
@@ -638,11 +704,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_0</Label>
@@ -657,11 +725,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_1</Label>
@@ -676,11 +746,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>CELLS_2</Label>
@@ -695,11 +767,13 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
   <Entity>
     <Label>RGB_DAC</Label>
@@ -714,10 +788,12 @@
     <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
+    <PathPoints />
     <WidthOverride>0</WidthOverride>
     <Children />
     <Visible>true</Visible>
     <WireLengthLambda>0</WireLengthLambda>
     <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
   </Entity>
 </ArrayOfEntity>
