@@ -53,11 +53,11 @@
 |RGB_DAC| |
 |VID_OUT| DAC logic |
 |MUX| Combines planes and sprite layers |
-|CELLS_32| Plane rendering |
-|CELLS_33| Plane rendering |
-|CELLS_34| VRAM logic |
+|BG_1| Plane rendering |
+|BG_2| Plane rendering |
+|VRAM_CTRL| VRAM logic |
 |CRAM| Color RAM |
-|SRAM_12| Vertical Scroll RAM |
+|VSRAM| Vertical Scroll RAM |
 |CLKGEN| |
 |FSM_1| |
 |FSM_2| |
