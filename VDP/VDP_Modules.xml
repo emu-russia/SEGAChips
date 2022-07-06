@@ -358,7 +358,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>SRAM_12</Label>
+    <Label>VSRAM</Label>
     <LambdaWidth>60.42856</LambdaWidth>
     <LambdaHeight>51.4285278</LambdaHeight>
     <LambdaX>374.43573</LambdaX>
@@ -400,7 +400,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>CELLS_32</Label>
+    <Label>BG_1</Label>
     <LambdaWidth>163</LambdaWidth>
     <LambdaHeight>155</LambdaHeight>
     <LambdaX>203.221436</LambdaX>
@@ -441,7 +441,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>CELLS_33</Label>
+    <Label>BG_2</Label>
     <LambdaWidth>29.75</LambdaWidth>
     <LambdaHeight>100.25</LambdaHeight>
     <LambdaX>417.221436</LambdaX>
@@ -545,7 +545,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>CELLS_34</Label>
+    <Label>VRAM_CTRL</Label>
     <LambdaWidth>60.8889</LambdaWidth>
     <LambdaHeight>63.3333435</LambdaHeight>
     <LambdaX>83.1125</LambdaX>
