@@ -43,15 +43,15 @@
 |CELLS_7| Sprite logic |
 |CELLS_8| Collects all sprites in line |
 |CLK_PUSH_PULL| Clock |
-|PSG_DAC| |
-|PSG| |
+|PSG_DAC|ЦАП|
+|PSG|Тональный генератор (всем известный)|
 |CELLS_10| Registers logic, DMA logic, etc |
 |WTF_2|  |
 |CELLS_20| |
 |WTF_3| Command FIFO ? |
 |**Нижняя часть**||
-|RGB_DAC| |
-|VID_OUT| DAC logic |
+|RGB_DAC|Видео ЦАП|
+|RGB| DAC logic |
 |MUX| Combines planes and sprite layers |
 |BG_1| Plane rendering |
 |BG_2| Plane rendering |

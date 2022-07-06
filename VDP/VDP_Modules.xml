@@ -524,7 +524,7 @@
     <TraverseBlackList />
   </Entity>
   <Entity>
-    <Label>VID_OUT</Label>
+    <Label>RGB</Label>
     <LambdaWidth>32.66667</LambdaWidth>
     <LambdaHeight>157.999969</LambdaHeight>
     <LambdaX>83.6350861</LambdaX>
@@ -533,7 +533,7 @@
     <LambdaEndY>1</LambdaEndY>
     <Type>UnitCustom</Type>
     <ColorOverride>Black</ColorOverride>
-    <FontOverride>Microsoft Sans Serif; 26,25pt</FontOverride>
+    <FontOverride>Microsoft Sans Serif; 36pt</FontOverride>
     <LabelAlignment>GlobalSettings</LabelAlignment>
     <Priority>1</Priority>
     <PathPoints />
