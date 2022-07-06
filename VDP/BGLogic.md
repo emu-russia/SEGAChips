@@ -10,3 +10,6 @@
 - BG_2: 5 рядов ячеек, причём крайний правый ряд обособлен и очень мелкий
 
 Гипотеза: BG_2 используется совместно с DMA-контроллером для VSRAM DMA
+
+Датасеты на BGLogic:
+- https://drive.google.com/drive/folders/1idVUJeA8T91NmNupsR51k6BdenX1Rmiz
