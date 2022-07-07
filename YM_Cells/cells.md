@@ -308,7 +308,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 
 ## Ячейка 44
-![image](https://user-images.githubusercontent.com/15833655/177049999-be23771b-09de-4807-bc76-e7468b9ba411.png)
+|![image](https://user-images.githubusercontent.com/15833655/177049999-be23771b-09de-4807-bc76-e7468b9ba411.png)|![image](https://user-images.githubusercontent.com/15833655/177768603-e3601243-c04a-40cf-82a0-18c7e7cbe555.png)|
+|---|---|
 
 ## Ячейка 45
 ![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)
