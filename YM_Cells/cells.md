@@ -296,16 +296,16 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 
 ## Ячейка 41
-|![image](https://user-images.githubusercontent.com/15833655/177301631-06b264a5-7361-41df-8722-dca496941b3e.png)|![image](https://user-images.githubusercontent.com/15833655/177049818-11fffd64-499e-44d3-837d-edd170372525.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177301631-06b264a5-7361-41df-8722-dca496941b3e.png)|![image](https://user-images.githubusercontent.com/15833655/177049818-11fffd64-499e-44d3-837d-edd170372525.png)|![image](https://user-images.githubusercontent.com/15833655/177764892-7cfb45fe-ba90-45a6-bd3f-de675d506078.png)|
+|---|---|---|
 
 ## Ячейка 42
-|![image](https://user-images.githubusercontent.com/15833655/177301630-ca6a2701-4004-4514-8b35-4def6f7555a6.png)|![image](https://user-images.githubusercontent.com/15833655/177211765-894395e7-c8d3-49a6-ac09-90090b4b6e7c.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177301630-ca6a2701-4004-4514-8b35-4def6f7555a6.png)|![image](https://user-images.githubusercontent.com/15833655/177211765-894395e7-c8d3-49a6-ac09-90090b4b6e7c.png)|![image](https://user-images.githubusercontent.com/15833655/177765145-7bd2855c-f19b-4419-ba10-abcfe3dcaedd.png)|
+|---|---|---|
 
 ## Ячейка 43
-|![image](https://user-images.githubusercontent.com/15833655/177300931-df448325-417f-4f5b-94a6-7814e6c43cfc.png)|![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177300931-df448325-417f-4f5b-94a6-7814e6c43cfc.png)|![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)|![image](https://user-images.githubusercontent.com/15833655/177766024-4ff490df-c9c5-4cc2-94ae-9d462608a530.png)|
+|---|---|---|
 
 ## Ячейка 44
 ![image](https://user-images.githubusercontent.com/15833655/177049999-be23771b-09de-4807-bc76-e7468b9ba411.png)
