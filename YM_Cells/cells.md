@@ -360,8 +360,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|
 
 ## Ячейка 57
-|![image](https://user-images.githubusercontent.com/15833655/177209136-46d5f32c-1361-426c-8c3c-bf89d78d6985.png)|![image](https://user-images.githubusercontent.com/15833655/177800980-108c1d90-efb5-49a6-b4ef-c5fbb11b181b.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177321529-d7177202-93f2-47fe-a5d9-0719a9a6feb0.png)|![image](https://user-images.githubusercontent.com/15833655/177209136-46d5f32c-1361-426c-8c3c-bf89d78d6985.png)|![image](https://user-images.githubusercontent.com/15833655/177800980-108c1d90-efb5-49a6-b4ef-c5fbb11b181b.png)|
+|---|---|---|
 
 ## Ячейка 58
 |![image](https://user-images.githubusercontent.com/15833655/177209199-5fadab92-fd77-4ef0-a0db-c66059751ec4.png)|![image](https://user-images.githubusercontent.com/15833655/177807035-0d6776c0-7038-43cf-afd8-eae39a859b2b.png)|
@@ -392,7 +392,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|
 
 ## Ячейка 65
-|![image](https://user-images.githubusercontent.com/15833655/177322139-d770276c-57e0-4251-8bd6-e1d394d67a8a.png)|![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|
+|![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|![image](https://user-images.githubusercontent.com/15833655/177827902-a10e1ec4-50f5-4882-9c32-b9f998aaba51.png)|
 |---|---|
 
 ## Ячейка 66
@@ -432,7 +432,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ![image](https://user-images.githubusercontent.com/15833655/177318303-f221ec4a-e295-4a5f-95d0-5b6f365cf3d4.png)
 
 ## Ячейка 77
-![image](https://user-images.githubusercontent.com/15833655/177321529-d7177202-93f2-47fe-a5d9-0719a9a6feb0.png)
+![image](https://user-images.githubusercontent.com/15833655/177322139-d770276c-57e0-4251-8bd6-e1d394d67a8a.png)
 
 ## Ячейка 78
 ![image](https://user-images.githubusercontent.com/15833655/177321830-cf7efa81-5868-43cc-b9e6-696a1d87a445.png)
