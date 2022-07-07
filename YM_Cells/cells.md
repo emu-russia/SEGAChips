@@ -356,10 +356,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 
 ## Ячейка 56
-![image](https://user-images.githubusercontent.com/15833655/177208253-18ba99f7-9550-41bf-9c1c-b744aebb9ad8.png)
+|![image](https://user-images.githubusercontent.com/15833655/177208253-18ba99f7-9550-41bf-9c1c-b744aebb9ad8.png)|![image](https://user-images.githubusercontent.com/15833655/177799748-fe6a625f-9538-43f5-9a22-e7b49f6f726a.png)|
+|---|---|
 
 ## Ячейка 57
-![image](https://user-images.githubusercontent.com/15833655/177209136-46d5f32c-1361-426c-8c3c-bf89d78d6985.png)
+|![image](https://user-images.githubusercontent.com/15833655/177209136-46d5f32c-1361-426c-8c3c-bf89d78d6985.png)|![image](https://user-images.githubusercontent.com/15833655/177800980-108c1d90-efb5-49a6-b4ef-c5fbb11b181b.png)|
+|---|---|
 
 ## Ячейка 58
 ![image](https://user-images.githubusercontent.com/15833655/177209199-5fadab92-fd77-4ef0-a0db-c66059751ec4.png)
