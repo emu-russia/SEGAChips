@@ -320,12 +320,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|
 
 ## Ячейка 47
-|![image](https://user-images.githubusercontent.com/15833655/177300653-26a7dc67-ab84-4aa7-b2ee-805faf8fcf86.png)|![image](https://user-images.githubusercontent.com/15833655/177050721-f3f3ae9e-0786-454c-97f3-baeb0e5ac46b.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177300653-26a7dc67-ab84-4aa7-b2ee-805faf8fcf86.png)|![image](https://user-images.githubusercontent.com/15833655/177050721-f3f3ae9e-0786-454c-97f3-baeb0e5ac46b.png)|![image](https://user-images.githubusercontent.com/15833655/177771484-9277d383-930e-4ba7-954e-e05b74505bd5.png)|
+|---|---|---|
 
 ## Ячейка 48
-|![image](https://user-images.githubusercontent.com/15833655/177314974-ab445095-90e9-4340-99a4-3b755fc07ac9.png)|![image](https://user-images.githubusercontent.com/15833655/177050802-6a3b6726-fd3d-4ce3-9d6a-5b790f520568.png)|
-|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177314974-ab445095-90e9-4340-99a4-3b755fc07ac9.png)|![image](https://user-images.githubusercontent.com/15833655/177050802-6a3b6726-fd3d-4ce3-9d6a-5b790f520568.png)|![image](https://user-images.githubusercontent.com/15833655/177772331-6de54a7f-86d3-427a-be2b-ff195cf8aef8.png)|
+|---|---|---|
 
 ## Ячейка 49
 ![image](https://user-images.githubusercontent.com/15833655/177050899-c8dea0ef-3783-4412-9fff-cc909c7d14d1.png)
