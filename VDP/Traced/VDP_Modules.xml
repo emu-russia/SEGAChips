@@ -1,0 +1,799 @@
+<?xml version="1.0"?>
+<ArrayOfEntity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entity>
+    <Label>SRAM_6</Label>
+    <LambdaWidth>37.57141</LambdaWidth>
+    <LambdaHeight>66.42856</LambdaHeight>
+    <LambdaX>310.495239</LambdaX>
+    <LambdaY>312.861969</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitMemory</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>SRAM_5</Label>
+    <LambdaWidth>37.57144</LambdaWidth>
+    <LambdaHeight>64.57144</LambdaHeight>
+    <LambdaX>310.361877</LambdaX>
+    <LambdaY>242.280914</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitMemory</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>SRAM_4</Label>
+    <LambdaWidth>58.1428528</LambdaWidth>
+    <LambdaHeight>92.71428</LambdaHeight>
+    <LambdaX>391.066742</LambdaX>
+    <LambdaY>169.290512</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitMemory</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>SRAM_3</Label>
+    <LambdaWidth>55.7142944</LambdaWidth>
+    <LambdaHeight>85.42857</LambdaHeight>
+    <LambdaX>392.0668</LambdaX>
+    <LambdaY>80.1476746</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitMemory</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>SRAM_1</Label>
+    <LambdaWidth>58</LambdaWidth>
+    <LambdaHeight>115.000008</LambdaHeight>
+    <LambdaX>77.20975</LambdaX>
+    <LambdaY>81.00478</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitMemory</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 48pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>SRAM_2</Label>
+    <LambdaWidth>57.71428</LambdaWidth>
+    <LambdaHeight>115.571426</LambdaHeight>
+    <LambdaX>77.78117</LambdaX>
+    <LambdaY>200.576187</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitMemory</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 48pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>PSG_DAC</Label>
+    <LambdaWidth>120.666687</LambdaWidth>
+    <LambdaHeight>34.33333</LambdaHeight>
+    <LambdaX>586.785339</LambdaX>
+    <LambdaY>81.92044</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>PSG</Label>
+    <LambdaWidth>142.666687</LambdaWidth>
+    <LambdaHeight>52.4999847</LambdaHeight>
+    <LambdaX>524.898743</LambdaX>
+    <LambdaY>134.127762</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 36pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_10</Label>
+    <LambdaWidth>110.285706</LambdaWidth>
+    <LambdaHeight>175.428574</LambdaHeight>
+    <LambdaX>534.684265</LambdaX>
+    <LambdaY>189.318314</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>WTF_2</Label>
+    <LambdaWidth>110</LambdaWidth>
+    <LambdaHeight>42.833313</LambdaHeight>
+    <LambdaX>535.075867</LambdaX>
+    <LambdaY>368.914764</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_20</Label>
+    <LambdaWidth>110</LambdaWidth>
+    <LambdaHeight>39.1666565</LambdaHeight>
+    <LambdaX>534.757446</LambdaX>
+    <LambdaY>414.251862</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>WTF_3</Label>
+    <LambdaWidth>111</LambdaWidth>
+    <LambdaHeight>52</LambdaHeight>
+    <LambdaX>533.757446</LambdaX>
+    <LambdaY>456.418518</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>FSM_2</Label>
+    <LambdaWidth>51.833313</LambdaWidth>
+    <LambdaHeight>21.166687</LambdaHeight>
+    <LambdaX>552.075867</LambdaX>
+    <LambdaY>630.414551</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>PLA_1</Label>
+    <LambdaWidth>27.5</LambdaWidth>
+    <LambdaHeight>38</LambdaHeight>
+    <LambdaX>633.590759</LambdaX>
+    <LambdaY>523.4189</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 24pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>PLA_2</Label>
+    <LambdaWidth>27.833313</LambdaWidth>
+    <LambdaHeight>32.166687</LambdaHeight>
+    <LambdaX>633.9241</LambdaX>
+    <LambdaY>569.4189</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 24pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>PLA_3</Label>
+    <LambdaWidth>38</LambdaWidth>
+    <LambdaHeight>23.166687</LambdaHeight>
+    <LambdaX>609.742554</LambdaX>
+    <LambdaY>628.0811</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 24pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>FSM_1</Label>
+    <LambdaWidth>77.83331</LambdaWidth>
+    <LambdaHeight>85</LambdaHeight>
+    <LambdaX>537.2425</LambdaX>
+    <LambdaY>536.247742</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>VSRAM</Label>
+    <LambdaWidth>60.42856</LambdaWidth>
+    <LambdaHeight>51.4285278</LambdaHeight>
+    <LambdaX>374.43573</LambdaX>
+    <LambdaY>579.511963</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CLKGEN</Label>
+    <LambdaWidth>120.142883</LambdaWidth>
+    <LambdaHeight>16.5714111</LambdaHeight>
+    <LambdaX>330.292847</LambdaX>
+    <LambdaY>642.0834</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>BG_1</Label>
+    <LambdaWidth>163</LambdaWidth>
+    <LambdaHeight>155</LambdaHeight>
+    <LambdaX>203.221436</LambdaX>
+    <LambdaY>472.9762</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>51.5</LambdaWidth>
+    <LambdaHeight>100.25</LambdaHeight>
+    <LambdaX>363.471466</LambdaX>
+    <LambdaY>473.1762</LambdaY>
+    <LambdaEndX>1.50000012</LambdaEndX>
+    <LambdaEndY>1.2</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>BG_2</Label>
+    <LambdaWidth>29.75</LambdaWidth>
+    <LambdaHeight>100.25</LambdaHeight>
+    <LambdaX>417.221436</LambdaX>
+    <LambdaY>474.2262</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label />
+    <LambdaWidth>8</LambdaWidth>
+    <LambdaHeight>60.5</LambdaHeight>
+    <LambdaX>438.471436</LambdaX>
+    <LambdaY>570.2262</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CRAM</Label>
+    <LambdaWidth>50.66668</LambdaWidth>
+    <LambdaHeight>78.5</LambdaHeight>
+    <LambdaX>121.3619</LambdaX>
+    <LambdaY>582.7383</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>MUX</Label>
+    <LambdaWidth>44.6000061</LambdaWidth>
+    <LambdaHeight>72.20001</LambdaHeight>
+    <LambdaX>121.49826</LambdaX>
+    <LambdaY>505.112427</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>RGB</Label>
+    <LambdaWidth>32.66667</LambdaWidth>
+    <LambdaHeight>157.999969</LambdaHeight>
+    <LambdaX>83.6350861</LambdaX>
+    <LambdaY>504.287567</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 36pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>VRAM_CTRL</Label>
+    <LambdaWidth>60.8889</LambdaWidth>
+    <LambdaHeight>63.3333435</LambdaHeight>
+    <LambdaX>83.1125</LambdaX>
+    <LambdaY>397.944244</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CLK_PUSH_PULL</Label>
+    <LambdaWidth>66.00001</LambdaWidth>
+    <LambdaHeight>34</LambdaHeight>
+    <LambdaX>65.61767</LambdaX>
+    <LambdaY>340.723969</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_3</Label>
+    <LambdaWidth>40.2222137</LambdaWidth>
+    <LambdaHeight>143.111115</LambdaHeight>
+    <LambdaX>144.354553</LambdaX>
+    <LambdaY>242.403015</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_4</Label>
+    <LambdaWidth>39.77777</LambdaWidth>
+    <LambdaHeight>149.777771</LambdaHeight>
+    <LambdaX>206.132339</LambdaX>
+    <LambdaY>237.2919</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_5</Label>
+    <LambdaWidth>33</LambdaWidth>
+    <LambdaHeight>198.75</LambdaHeight>
+    <LambdaX>249.3399</LambdaX>
+    <LambdaY>188.652557</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_6</Label>
+    <LambdaWidth>13.75</LambdaWidth>
+    <LambdaHeight>198.75</LambdaHeight>
+    <LambdaX>290.0899</LambdaX>
+    <LambdaY>188.152557</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 21,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_7</Label>
+    <LambdaWidth>44.75</LambdaWidth>
+    <LambdaHeight>49.25</LambdaHeight>
+    <LambdaX>312.1601</LambdaX>
+    <LambdaY>188.097443</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_8</Label>
+    <LambdaWidth>69.75</LambdaWidth>
+    <LambdaHeight>108</LambdaHeight>
+    <LambdaX>384.0899</LambdaX>
+    <LambdaY>275.152557</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_0</Label>
+    <LambdaWidth>34.66667</LambdaWidth>
+    <LambdaHeight>151.666672</LambdaHeight>
+    <LambdaX>146.029129</LambdaX>
+    <LambdaY>78.1093</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_1</Label>
+    <LambdaWidth>43.66667</LambdaWidth>
+    <LambdaHeight>136.666672</LambdaHeight>
+    <LambdaX>187.6958</LambdaX>
+    <LambdaY>77.1093</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>CELLS_2</Label>
+    <LambdaWidth>125.25</LambdaWidth>
+    <LambdaHeight>84.00001</LambdaHeight>
+    <LambdaX>234.112457</LambdaX>
+    <LambdaY>78.13311</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+  <Entity>
+    <Label>RGB_DAC</Label>
+    <LambdaWidth>37</LambdaWidth>
+    <LambdaHeight>112</LambdaHeight>
+    <LambdaX>24.445961</LambdaX>
+    <LambdaY>543.8759</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>UnitCustom</Type>
+    <ColorOverride>Black</ColorOverride>
+    <FontOverride>Microsoft Sans Serif; 27,75pt</FontOverride>
+    <LabelAlignment>GlobalSettings</LabelAlignment>
+    <Priority>1</Priority>
+    <PathPoints />
+    <WidthOverride>0</WidthOverride>
+    <Children />
+    <Visible>true</Visible>
+    <WireLengthLambda>0</WireLengthLambda>
+    <WireTangent>NaN</WireTangent>
+    <TraverseBlackList />
+  </Entity>
+</ArrayOfEntity>

@@ -22,7 +22,7 @@
 
 Пока ещё не известны назначения всех модулей.
 
-![VDP_Modules](VDP_Modules_Image_annotated.jpg)
+![VDP_Modules](Images/VDP_Modules_Image_annotated.jpg)
 
 |Модуль|Назначение|
 |---|---|
