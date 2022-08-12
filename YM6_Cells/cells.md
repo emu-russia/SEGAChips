@@ -6,6 +6,9 @@
 |![image](https://user-images.githubusercontent.com/15833655/182607433-4e6bb029-bc75-4973-b146-d9d9d1e9903f.png)|![image](https://user-images.githubusercontent.com/15833655/184317369-599b106f-cbff-48b6-b519-f40d85914190.png)|![image](https://user-images.githubusercontent.com/15833655/184318357-b22093a0-f18f-49b5-acf0-d9e453932c0e.png)|
 |---|---|---|
 
+![image](https://user-images.githubusercontent.com/5828819/184408028-733fcfab-6943-47bf-83ae-e8bdc3755f3a.png)
+(и ещё 20 мемов про две полоски)
+
 # Ячейка 2
 ![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)
 
