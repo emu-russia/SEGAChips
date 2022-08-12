@@ -11,7 +11,7 @@
 # Можно не переименовывать ячейки, а просто писать рядом комментарий, когда станет известно что за ячейка.
 # Тогда не придётся возиться с уже сделанными .wrk
 
-pattern cell1, CellOther, 6.0, 1, 1, "ArbCells/cell1.jpg"
+pattern not, CellNot, 6.0, 1, 1, "ArbCells/not.jpg"
 
 pattern cell2, CellOther, 6.0, 7, 7, "ArbCells/cell2.jpg"
 
