@@ -39,4 +39,20 @@
 
 # Ячейка 12
 |![image](https://user-images.githubusercontent.com/15833655/184318071-bf3fea1d-3d39-428e-a801-d0a62f9739ef.png)|![image](https://user-images.githubusercontent.com/15833655/184318523-de571af4-4c31-45e1-a910-c7aeb3ede0c5.png)|
+|---|---|
 
+# Ячейка
+|![image](https://user-images.githubusercontent.com/15833655/184319151-45780f2d-199f-4b65-8082-b00d8641a896.png)|![image](https://user-images.githubusercontent.com/15833655/184319214-d64b1fb3-517c-43ba-a048-3197100873aa.png)|
+|---|---|
+
+# Ячейка
+|![image](https://user-images.githubusercontent.com/15833655/184319343-b16bcc82-2556-4d51-95eb-3f658d542f9c.png)|![image](https://user-images.githubusercontent.com/15833655/184319403-c0b85047-6af1-4d01-b318-c85a2e697104.png)|
+|---|---|
+
+# Ячейка
+|![image](https://user-images.githubusercontent.com/15833655/184319629-c1870c50-d5e2-49e4-afb0-1ebe33dd79f9.png)|![image](https://user-images.githubusercontent.com/15833655/184319668-1a4040fe-4173-44e5-9816-1c9f8fff976f.png)|
+|---|---|
+
+# Ячейка - VDD
+|![image](https://user-images.githubusercontent.com/15833655/184319875-d99db17b-69a2-45e4-a24a-ef2c31b937b6.png)|![image](https://user-images.githubusercontent.com/15833655/184319934-dcebb8a7-4217-4fdf-b46e-29ace9bf4d7d.png)|
+|---|---|
