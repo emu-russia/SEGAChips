@@ -4,11 +4,11 @@ TBD: Информация будет уточняться по мере разб
 
 ## Ряды 1/2 ("Верхняя пристройка")
 
-![/imgstore/Part1_Map.jpg](/imgstore/Part1_Map.jpg)
+![/Arbiter/imgstore/Part1_Map.jpg](/Arbiter/imgstore/Part1_Map.jpg)
 
 ## Ряды 3-6 (средняя часть)
 
-![/imgstore/Part2_Map.jpg](/imgstore/Part2_Map.jpg)
+![/Arbiter/imgstore/Part2_Map.jpg](/Arbiter/imgstore/Part2_Map.jpg)
 
 ## Ряд 7
 
