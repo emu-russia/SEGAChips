@@ -71,6 +71,8 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/184403877-7030dda6-43c3-41a6-b067-e03959254496.png)
 
+(CLK тут на картинке - это на самом деле ld = Load)
+
 ![image](https://user-images.githubusercontent.com/5828819/184403918-0c92854d-67c9-4196-a727-2ea3ecc96662.png)
 
 (часть инверторов на логической схеме элиминирована и вошла в состав mux).
