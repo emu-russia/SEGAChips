@@ -22,3 +22,5 @@ pattern cell4, CellOther, 6.0, 20, 20, "ArbCells/cell4.jpg"
 pattern cell5, CellOther, 6.0, 23, 22, "ArbCells/cell5.jpg"
 
 pattern cell6, CellOther, 6.0, 28, 28, "ArbCells/cell6.jpg"
+
+pattern or, CellLogic, 6.0, 4, 3, "ArbCells/or.jpg"
