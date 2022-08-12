@@ -11,14 +11,14 @@
 # Можно не переименовывать ячейки, а просто писать рядом комментарий, когда станет известно что за ячейка.
 # Тогда не придётся возиться с уже сделанными .wrk
 
-pattern cell1, CellOther, 6.0, 0, 0, "ArbCells/cell1.jpg"
+pattern cell1, CellOther, 6.0, 1, 1, "ArbCells/cell1.jpg"
 
-pattern cell2, CellOther, 6.0, 0, 0, "ArbCells/cell2.jpg"
+pattern cell2, CellOther, 6.0, 7, 7, "ArbCells/cell2.jpg"
 
-pattern cell3, CellOther, 6.0, 0, 0, "ArbCells/cell3.jpg"
+pattern cell3, CellOther, 6.0, 2, 2, "ArbCells/cell3.jpg"
 
-pattern cell4, CellOther, 6.0, 0, 0, "ArbCells/cell4.jpg"
+pattern cell4, CellOther, 6.0, 20, 20, "ArbCells/cell4.jpg"
 
-pattern cell5, CellOther, 6.0, 0, 0, "ArbCells/cell5.jpg"
+pattern cell5, CellOther, 6.0, 23, 22, "ArbCells/cell5.jpg"
 
-pattern cell6, CellOther, 6.0, 0, 0, "ArbCells/cell6.jpg"
+pattern cell6, CellOther, 6.0, 28, 28, "ArbCells/cell6.jpg"
