@@ -80,3 +80,9 @@
 Конструкция слева с участием входного carry и старого значения - это извращенный xnor:
 
 ![image](https://user-images.githubusercontent.com/5828819/184405807-556524ae-b3b9-4e6e-a6f7-1e72b8c96b19.png)
+
+# Ячейка - or
+
+![image](https://user-images.githubusercontent.com/5828819/184311167-6b559844-81f6-4e45-8809-32476795e035.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)
