@@ -76,3 +76,7 @@
 ![image](https://user-images.githubusercontent.com/5828819/184403918-0c92854d-67c9-4196-a727-2ea3ecc96662.png)
 
 (часть инверторов на логической схеме элиминирована и вошла в состав mux).
+
+Конструкция слева с участием входного carry и старого значения - это извращенный xnor:
+
+![image](https://user-images.githubusercontent.com/5828819/184405807-556524ae-b3b9-4e6e-a6f7-1e72b8c96b19.png)
