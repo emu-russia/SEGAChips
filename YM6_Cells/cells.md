@@ -61,6 +61,22 @@
 |![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
 |---|---|
 
-# Ячейка
+# Ячейка - cnt_bit
 |![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
 |---|---|
+
+Разряд синхронного счётчика.
+
+![image](https://user-images.githubusercontent.com/5828819/184404000-3f57504e-c909-41b8-80d0-2fd1b5ef63c2.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184403877-7030dda6-43c3-41a6-b067-e03959254496.png)
+
+(CLK тут на картинке - это на самом деле ld = Load)
+
+![image](https://user-images.githubusercontent.com/5828819/184403918-0c92854d-67c9-4196-a727-2ea3ecc96662.png)
+
+(часть инверторов на логической схеме элиминирована и вошла в состав mux).
+
+Конструкция слева с участием входного carry и старого значения - это извращенный xnor:
+
+![image](https://user-images.githubusercontent.com/5828819/184405807-556524ae-b3b9-4e6e-a6f7-1e72b8c96b19.png)
