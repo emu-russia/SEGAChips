@@ -89,3 +89,12 @@
 ![image](https://user-images.githubusercontent.com/5828819/184311167-6b559844-81f6-4e45-8809-32476795e035.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)
+
+# Ячейка - dlatch
+
+|![image](https://user-images.githubusercontent.com/5828819/184475390-c6940328-e545-48b9-a852-bd31bc6426a3.png)|![image](https://user-images.githubusercontent.com/5828819/184475423-b52f0ff1-fa69-48f7-9622-d8ff0f24766e.png)|![image](https://user-images.githubusercontent.com/5828819/184475433-0f44b057-1d27-4f5f-9e24-5e04f6579225.png)|
+|---|---|---|
+
+![image](https://user-images.githubusercontent.com/5828819/184475397-d93999e8-68ab-404c-ba0d-5e03da69477a.png)
+
+С инверсным разрешением (ne = 0: разрешает). Во время загрузки нового значение - на выходе будет старое.
