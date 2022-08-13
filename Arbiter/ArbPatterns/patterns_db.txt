@@ -26,7 +26,7 @@ pattern cnt_bit, CellAdder, 6.0, 28, 28, "ArbCells/cnt_bit.jpg"
 pattern or, CellLogic, 6.0, 4, 3, "ArbCells/or.jpg"
 
 # DFF по нарастающему фронту (posedge)
-pattern dffpos, CellLatch, 6.0, 15, 15, "ArbCells/dffpos.jpg"
+pattern dffpos, CellFlipFlop, 6.0, 15, 15, "ArbCells/dffpos.jpg"
 vias dffpos, d, 31.24, 28.75, ViasInput, 0
 vias dffpos, clk, 34.95, 64.28, ViasInput, 0
 vias dffpos, q, 14.72, 66.03, ViasOutput, 0
