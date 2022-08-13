@@ -31,3 +31,11 @@ vias dffpos, d, 31.24, 28.75, ViasInput, 0
 vias dffpos, clk, 34.95, 64.28, ViasInput, 0
 vias dffpos, q, 14.72, 66.03, ViasOutput, 0
 vias dffpos, nq, 4.66, 66.09, ViasOutput, 0
+
+# DFF по нарастающему фронту (posedge) с инверсным сбросом (#RES)
+pattern dffrpos, CellFlipFlop, 6.0, 15, 15, "ArbCells/dffrpos.jpg"
+vias dffrpos, d, 34.36, 25.70, ViasInput, 0
+vias dffrpos, clk, 40.75, 26.40, ViasInput, 0
+vias dffrpos, nres, 28.11, 65.08, ViasInput, 0
+vias dffrpos, q, 11.58, 67.62, ViasOutput, 0
+vias dffrpos, nq, 5.02, 59.18, ViasOutput, 0
