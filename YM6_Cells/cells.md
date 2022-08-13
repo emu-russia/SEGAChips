@@ -90,11 +90,11 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)
 
-# Ячейка - dlatch
+# Ячейка - dffpos
 
-|![image](https://user-images.githubusercontent.com/5828819/184475390-c6940328-e545-48b9-a852-bd31bc6426a3.png)|![image](https://user-images.githubusercontent.com/5828819/184475423-b52f0ff1-fa69-48f7-9622-d8ff0f24766e.png)|![image](https://user-images.githubusercontent.com/5828819/184475433-0f44b057-1d27-4f5f-9e24-5e04f6579225.png)|
+DFF по нарастающему фронту (posedge).
+
+|![image](https://user-images.githubusercontent.com/5828819/184475390-c6940328-e545-48b9-a852-bd31bc6426a3.png)|![image](https://user-images.githubusercontent.com/5828819/184475423-b52f0ff1-fa69-48f7-9622-d8ff0f24766e.png)|![image](https://user-images.githubusercontent.com/5828819/184478466-1d73d25f-4ac1-4907-b320-e2d36364fc7d.png)|
 |---|---|---|
 
-![image](https://user-images.githubusercontent.com/5828819/184475397-d93999e8-68ab-404c-ba0d-5e03da69477a.png)
-
-С инверсным разрешением (ne = 0: разрешает). Во время загрузки нового значение - на выходе будет старое.
+![image](https://user-images.githubusercontent.com/5828819/184478491-fe77cd24-9d61-44d8-9775-713cbf296368.png)
