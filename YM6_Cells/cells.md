@@ -90,9 +90,9 @@
 
 ![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)
 
-# Ячейка - dffneg
+# Ячейка - dffpos
 
-DFF по переднему фронту (negedge).
+DFF по нарастающему фронту (posedge).
 
 |![image](https://user-images.githubusercontent.com/5828819/184475390-c6940328-e545-48b9-a852-bd31bc6426a3.png)|![image](https://user-images.githubusercontent.com/5828819/184475423-b52f0ff1-fa69-48f7-9622-d8ff0f24766e.png)|![image](https://user-images.githubusercontent.com/5828819/184478466-1d73d25f-4ac1-4907-b320-e2d36364fc7d.png)|
 |---|---|---|
