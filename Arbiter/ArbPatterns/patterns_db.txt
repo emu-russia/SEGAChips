@@ -24,3 +24,9 @@ pattern cell5, CellOther, 6.0, 23, 22, "ArbCells/cell5.jpg"
 pattern cnt_bit, CellAdder, 6.0, 28, 28, "ArbCells/cnt_bit.jpg"
 
 pattern or, CellLogic, 6.0, 4, 3, "ArbCells/or.jpg"
+
+pattern dlatch, CellLatch, 6.0, 15, 15, "ArbCells/dlatch.jpg"
+vias dlatch, d, 31.24, 28.75, ViasInput, 0
+vias dlatch, ne, 34.95, 64.28, ViasInput, 0
+vias dlatch, q, 14.72, 66.03, ViasOutput, 0
+vias dlatch, nq, 4.66, 66.09, ViasOutput, 0
