@@ -58,7 +58,7 @@
     <a name="simulationFrequency" val="256.0"/>
     <comp lib="0" loc="(120,40)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="ne"/>
+      <a name="label" val="clk"/>
     </comp>
     <comp lib="0" loc="(140,210)" name="Pin">
       <a name="appearance" val="NewPins"/>

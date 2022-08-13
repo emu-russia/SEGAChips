@@ -1457,7 +1457,7 @@
     <Priority>1</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1770.666626</LambdaX>
@@ -1483,7 +1483,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1805.616577</LambdaX>
@@ -1522,7 +1522,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1632.666626</LambdaX>
@@ -1548,7 +1548,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1637.383301</LambdaX>
@@ -1587,7 +1587,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1570.000000</LambdaX>
@@ -1613,7 +1613,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1574.716675</LambdaX>
@@ -1652,7 +1652,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1382.666626</LambdaX>
@@ -1678,7 +1678,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1387.383301</LambdaX>
@@ -1717,7 +1717,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1221.833374</LambdaX>
@@ -1743,7 +1743,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1256.783325</LambdaX>
@@ -1782,7 +1782,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1084.333374</LambdaX>
@@ -1808,7 +1808,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1119.283325</LambdaX>
@@ -1847,7 +1847,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1021.666687</LambdaX>
@@ -1873,7 +1873,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1026.383301</LambdaX>
@@ -1912,7 +1912,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>735.833313</LambdaX>
@@ -1938,7 +1938,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>770.783325</LambdaX>
@@ -1990,7 +1990,7 @@
     <Priority>1</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1461.833374</LambdaX>
@@ -2016,7 +2016,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1466.550049</LambdaX>
@@ -2055,7 +2055,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1500.833374</LambdaX>
@@ -2081,7 +2081,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1505.550049</LambdaX>
@@ -2120,7 +2120,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1554.000000</LambdaX>
@@ -2146,7 +2146,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1588.949951</LambdaX>
@@ -2185,7 +2185,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1593.500000</LambdaX>
@@ -2211,7 +2211,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1598.216675</LambdaX>
@@ -2250,7 +2250,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1642.666626</LambdaX>
@@ -2276,7 +2276,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1647.383301</LambdaX>
@@ -2315,7 +2315,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1731.333374</LambdaX>
@@ -2341,7 +2341,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1766.283325</LambdaX>
@@ -2380,7 +2380,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1784.000000</LambdaX>
@@ -2406,7 +2406,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1788.716675</LambdaX>
@@ -2445,7 +2445,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1593.666626</LambdaX>
@@ -2471,7 +2471,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1628.616577</LambdaX>
@@ -2510,7 +2510,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1530.666626</LambdaX>
@@ -2536,7 +2536,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1535.383301</LambdaX>
@@ -2575,7 +2575,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>1491.500000</LambdaX>
@@ -2601,7 +2601,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>1526.449951</LambdaX>
@@ -2640,7 +2640,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>260.166656</LambdaX>
@@ -2666,7 +2666,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>295.116669</LambdaX>
@@ -2705,7 +2705,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>299.666656</LambdaX>
@@ -2731,7 +2731,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>304.383331</LambdaX>
@@ -2770,7 +2770,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>dlatch</Label>
+    <Label>dffpos</Label>
     <LambdaWidth>39.666668</LambdaWidth>
     <LambdaHeight>87.333336</LambdaHeight>
     <LambdaX>377.666656</LambdaX>
@@ -2796,7 +2796,7 @@
     <Priority>3</Priority>
   </Entity>
   <Entity>
-    <Label>ne</Label>
+    <Label>clk</Label>
     <LambdaWidth>1</LambdaWidth>
     <LambdaHeight>1</LambdaHeight>
     <LambdaX>412.616669</LambdaX>
