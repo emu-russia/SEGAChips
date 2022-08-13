@@ -1464,7 +1464,7 @@
     <LambdaY>77.833336</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -1529,7 +1529,7 @@
     <LambdaY>77.666664</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -1594,7 +1594,7 @@
     <LambdaY>77.666664</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -1659,7 +1659,7 @@
     <LambdaY>78.000000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -1724,7 +1724,7 @@
     <LambdaY>78.166664</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -1789,7 +1789,7 @@
     <LambdaY>78.000000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -1854,7 +1854,7 @@
     <LambdaY>78.500000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -1919,7 +1919,7 @@
     <LambdaY>79.166664</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -1997,7 +1997,7 @@
     <LambdaY>251.666672</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2062,7 +2062,7 @@
     <LambdaY>251.666672</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2127,7 +2127,7 @@
     <LambdaY>251.666672</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -2192,7 +2192,7 @@
     <LambdaY>251.500000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2257,7 +2257,7 @@
     <LambdaY>251.333328</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2322,7 +2322,7 @@
     <LambdaY>251.666672</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -2387,7 +2387,7 @@
     <LambdaY>251.166672</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2452,7 +2452,7 @@
     <LambdaY>405.666656</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -2517,7 +2517,7 @@
     <LambdaY>405.666656</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2582,7 +2582,7 @@
     <LambdaY>405.666656</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -2647,7 +2647,7 @@
     <LambdaY>407.000000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -2712,7 +2712,7 @@
     <LambdaY>407.000000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
@@ -2777,7 +2777,7 @@
     <LambdaY>407.000000</LambdaY>
     <LambdaEndX>1</LambdaEndX>
     <LambdaEndY>1</LambdaEndY>
-    <Type>CellLatch</Type>
+    <Type>CellFlipFlop</Type>
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
@@ -2885,5 +2885,1279 @@
     <ColorOverride>Black</ColorOverride>
     <LabelAlignment>TopRight</LabelAlignment>
     <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>or</Label>
+    <LambdaWidth>13.833333</LambdaWidth>
+    <LambdaHeight>87.833336</LambdaHeight>
+    <LambdaX>808.000000</LambdaX>
+    <LambdaY>252.666672</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellLogic</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>not</Label>
+    <LambdaWidth>9.833333</LambdaWidth>
+    <LambdaHeight>88.000000</LambdaHeight>
+    <LambdaX>821.666687</LambdaX>
+    <LambdaY>406.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellNot</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1149.333374</LambdaX>
+    <LambdaY>79.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1183.693359</LambdaX>
+    <LambdaY>105.199997</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1190.083374</LambdaX>
+    <LambdaY>105.900002</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1177.443359</LambdaX>
+    <LambdaY>144.580002</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1160.913330</LambdaX>
+    <LambdaY>147.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1154.353394</LambdaX>
+    <LambdaY>138.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>922.833313</LambdaX>
+    <LambdaY>79.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>934.806641</LambdaX>
+    <LambdaY>105.199997</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>928.416626</LambdaX>
+    <LambdaY>105.900002</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>941.056641</LambdaX>
+    <LambdaY>144.580002</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>957.586670</LambdaX>
+    <LambdaY>147.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>964.146667</LambdaX>
+    <LambdaY>138.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>877.333313</LambdaX>
+    <LambdaY>79.166664</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>911.693298</LambdaX>
+    <LambdaY>104.866669</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>918.083313</LambdaX>
+    <LambdaY>105.566666</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>905.443298</LambdaX>
+    <LambdaY>144.246674</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>888.913330</LambdaX>
+    <LambdaY>146.786667</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>882.353333</LambdaX>
+    <LambdaY>138.346664</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>581.500000</LambdaX>
+    <LambdaY>79.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>615.859985</LambdaX>
+    <LambdaY>105.199997</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>622.250000</LambdaX>
+    <LambdaY>105.900002</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>609.609985</LambdaX>
+    <LambdaY>144.580002</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>593.080017</LambdaX>
+    <LambdaY>147.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>586.520020</LambdaX>
+    <LambdaY>138.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffpos</Label>
+    <LambdaWidth>39.666668</LambdaWidth>
+    <LambdaHeight>87.333336</LambdaHeight>
+    <LambdaX>460.000000</LambdaX>
+    <LambdaY>78.333336</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>491.239990</LambdaX>
+    <LambdaY>107.083336</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>494.950012</LambdaX>
+    <LambdaY>142.613342</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>474.720001</LambdaX>
+    <LambdaY>144.363342</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>464.660004</LambdaX>
+    <LambdaY>144.423340</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1068.166626</LambdaX>
+    <LambdaY>253.000000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1102.526611</LambdaX>
+    <LambdaY>278.700012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1108.916626</LambdaX>
+    <LambdaY>279.399994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1096.276611</LambdaX>
+    <LambdaY>318.080017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1079.746582</LambdaX>
+    <LambdaY>320.619995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1073.186646</LambdaX>
+    <LambdaY>312.179993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1652.500000</LambdaX>
+    <LambdaY>406.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1686.859985</LambdaX>
+    <LambdaY>432.200012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1693.250000</LambdaX>
+    <LambdaY>432.899994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1680.609985</LambdaX>
+    <LambdaY>471.580017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1664.079956</LambdaX>
+    <LambdaY>474.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1657.520020</LambdaX>
+    <LambdaY>465.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1370.000000</LambdaX>
+    <LambdaY>406.833344</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1404.359985</LambdaX>
+    <LambdaY>432.533356</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1410.750000</LambdaX>
+    <LambdaY>433.233337</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1398.109985</LambdaX>
+    <LambdaY>471.913330</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1381.579956</LambdaX>
+    <LambdaY>474.453339</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1375.020020</LambdaX>
+    <LambdaY>466.013336</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1310.500000</LambdaX>
+    <LambdaY>407.000000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1322.473389</LambdaX>
+    <LambdaY>432.700012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1316.083374</LambdaX>
+    <LambdaY>433.399994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1328.723389</LambdaX>
+    <LambdaY>472.080017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1345.253296</LambdaX>
+    <LambdaY>474.619995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1351.813354</LambdaX>
+    <LambdaY>466.179993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1264.833374</LambdaX>
+    <LambdaY>407.000000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1299.193359</LambdaX>
+    <LambdaY>432.700012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1305.583374</LambdaX>
+    <LambdaY>433.399994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1292.943359</LambdaX>
+    <LambdaY>472.080017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1276.413330</LambdaX>
+    <LambdaY>474.619995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1269.853394</LambdaX>
+    <LambdaY>466.179993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1205.833374</LambdaX>
+    <LambdaY>407.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1217.806763</LambdaX>
+    <LambdaY>433.200012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1211.416748</LambdaX>
+    <LambdaY>433.899994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1224.056763</LambdaX>
+    <LambdaY>472.580017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1240.586670</LambdaX>
+    <LambdaY>475.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1247.146729</LambdaX>
+    <LambdaY>466.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>878.000000</LambdaX>
+    <LambdaY>407.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>912.359985</LambdaX>
+    <LambdaY>433.200012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>918.750000</LambdaX>
+    <LambdaY>433.899994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>906.109985</LambdaX>
+    <LambdaY>472.580017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>889.580017</LambdaX>
+    <LambdaY>475.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>883.020020</LambdaX>
+    <LambdaY>466.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>831.500000</LambdaX>
+    <LambdaY>407.500000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>843.473328</LambdaX>
+    <LambdaY>433.200012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>837.083313</LambdaX>
+    <LambdaY>433.899994</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>849.723328</LambdaX>
+    <LambdaY>472.580017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>866.253357</LambdaX>
+    <LambdaY>475.119995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>872.813354</LambdaX>
+    <LambdaY>466.679993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>480.000000</LambdaX>
+    <LambdaY>407.666656</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>491.973328</LambdaX>
+    <LambdaY>433.366669</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>485.583344</LambdaX>
+    <LambdaY>434.066650</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>498.223328</LambdaX>
+    <LambdaY>472.746643</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>514.753357</LambdaX>
+    <LambdaY>475.286652</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>521.313354</LambdaX>
+    <LambdaY>466.846649</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>not</Label>
+    <LambdaWidth>9.833333</LambdaWidth>
+    <LambdaHeight>88.000000</LambdaHeight>
+    <LambdaX>457.166656</LambdaX>
+    <LambdaY>406.666656</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellNot</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>463.833344</LambdaX>
+    <LambdaY>575.000000</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>498.193359</LambdaX>
+    <LambdaY>600.700012</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>504.583344</LambdaX>
+    <LambdaY>601.400024</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>491.943359</LambdaX>
+    <LambdaY>640.080017</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>475.413330</LambdaX>
+    <LambdaY>642.619995</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>468.853333</LambdaX>
+    <LambdaY>634.179993</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>dffrpos</Label>
+    <LambdaWidth>46.333332</LambdaWidth>
+    <LambdaHeight>86.166664</LambdaHeight>
+    <LambdaX>1236.000000</LambdaX>
+    <LambdaY>574.666687</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellFlipFlop</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>d</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1270.359985</LambdaX>
+    <LambdaY>600.366699</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>clk</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1276.750000</LambdaX>
+    <LambdaY>601.066711</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nres</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1264.109985</LambdaX>
+    <LambdaY>639.746704</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>q</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1247.579956</LambdaX>
+    <LambdaY>642.286682</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>nq</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>1241.020020</LambdaX>
+    <LambdaY>633.846680</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
   </Entity>
 </ArrayOfEntity>
