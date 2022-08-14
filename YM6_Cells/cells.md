@@ -41,7 +41,7 @@
 |![image](https://user-images.githubusercontent.com/15833655/184317169-7c8d80fa-8ba6-45b5-b495-189c3ae24e89.png)|![image](https://user-images.githubusercontent.com/15833655/184318239-28b83c93-3b7a-42ff-8fb9-0e7a1c6988cd.png)|
 |---|---|
 
-## Ячейка 12
+## Ячейка 12 - and
 |![image](https://user-images.githubusercontent.com/15833655/184318071-bf3fea1d-3d39-428e-a801-d0a62f9739ef.png)|![image](https://user-images.githubusercontent.com/15833655/184318523-de571af4-4c31-45e1-a910-c7aeb3ede0c5.png)|
 |---|---|
 
@@ -110,3 +110,11 @@ DFF по нарастающему фронту (posedge) с инверсным �
 ![image](https://user-images.githubusercontent.com/5828819/184492897-6eb53838-e553-49e4-ab01-41d6ade5fd27.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/184492894-5cb18e88-aa32-4b8c-9e9f-80ea89db0508.png)
+
+## Ячейка - 8-разрядный регистр (?)
+
+![image](https://user-images.githubusercontent.com/5828819/184526234-22d5a275-7be7-45ce-a2af-b0c22d31a989.png)
+
+Встречается в арбитре в единственном экземпляре тут:
+
+![image](https://user-images.githubusercontent.com/5828819/184526253-3dae632e-5e67-4e79-b0ee-a6bb79ebba10.png)
