@@ -195,4 +195,56 @@
     <LabelAlignment>TopLeft</LabelAlignment>
     <Priority>1</Priority>
   </Entity>
+  <Entity>
+    <Label>and</Label>
+    <LambdaWidth>12.833333</LambdaWidth>
+    <LambdaHeight>86.666664</LambdaHeight>
+    <LambdaX>293.500000</LambdaX>
+    <LambdaY>95.333336</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>CellLogic</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopLeft</LabelAlignment>
+    <Priority>1</Priority>
+  </Entity>
+  <Entity>
+    <Label>a</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>304.489990</LambdaX>
+    <LambdaY>112.783340</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>b</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>301.269989</LambdaX>
+    <LambdaY>118.853333</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasInput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
+  <Entity>
+    <Label>x</Label>
+    <LambdaWidth>1</LambdaWidth>
+    <LambdaHeight>1</LambdaHeight>
+    <LambdaX>298.500000</LambdaX>
+    <LambdaY>155.253326</LambdaY>
+    <LambdaEndX>1</LambdaEndX>
+    <LambdaEndY>1</LambdaEndY>
+    <Type>ViasOutput</Type>
+    <ColorOverride>Black</ColorOverride>
+    <LabelAlignment>TopRight</LabelAlignment>
+    <Priority>3</Priority>
+  </Entity>
 </ArrayOfEntity>
