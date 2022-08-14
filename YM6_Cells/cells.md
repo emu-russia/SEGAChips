@@ -45,7 +45,7 @@
 |![image](https://user-images.githubusercontent.com/15833655/184318071-bf3fea1d-3d39-428e-a801-d0a62f9739ef.png)|![image](https://user-images.githubusercontent.com/15833655/184318523-de571af4-4c31-45e1-a910-c7aeb3ede0c5.png)|
 |---|---|
 
-## Ячейка
+## Ячейка 13 - NAND
 |![image](https://user-images.githubusercontent.com/15833655/184319151-45780f2d-199f-4b65-8082-b00d8641a896.png)|![image](https://user-images.githubusercontent.com/15833655/184319214-d64b1fb3-517c-43ba-a048-3197100873aa.png)|
 |---|---|
 
