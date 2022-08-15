@@ -34,3 +34,14 @@
 |VA2|Yamaha FQ8007| |FQ8007 также встречался в Sega Pico и различных клонах|
 
 ## Misc
+
+|Ревизия|Чипсет|Фото|Примечания|
+|---|---|---|---|
+|Sega CDX/Multi-Mega|Yamaha FC1004| |Комбайн Mega Drive и Sega CD|
+|Sega/Victor Wondermega|Yamaha FC1004| |Комбайн Mega Drive и Sega CD|
+|Sega/Victor Wondermega 2|Yamaha FC1004| |Комбайн Mega Drive и Sega CD|
+|Sega MegaJet|Yamaha FC1004?| |Полупортативный Mega Drive|
+|Sega Nomad|Yamaha FF1004| |Портативный Mega Drive|
+|Sega Teradrive|Yamaha YM7101, YM6045С?, YM6046, YM3438| |Комбайн Mega Drive и 286 компа. Единственный MD с дискретным YM3438. 128k видеопамяти вместо 64k|
+|Pioneer LaserActive|Yamaha FC1004| |Комбайн Mega Drive и Sega CD для LaserActive|
+|Amstrad Mega PC|Yamaha FC1004| |Комбайн Mega Drive и 386 компа|
