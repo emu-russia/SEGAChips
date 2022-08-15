@@ -46,3 +46,4 @@
 |Pioneer LaserActive|Yamaha FC1004| |Комбайн Mega Drive и Sega CD для LaserActive|
 |Amstrad Mega PC|Yamaha FC1004| |Комбайн Mega Drive и 386 компа|
 |Aiwa Mega CD|Yamaha FC1004| |Комбайн Mega Drive и Sega CD|
+|Tianli Educational VCD|Yamaha FJ3002| |Китайский плеер с Mega Drive|
