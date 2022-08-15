@@ -9,9 +9,10 @@
 |VA2|Yamaha YM7101, YM6045B, YM6046, YM2612| |Генератор EDCLK: 315-5345|
 |VA3|Yamaha YM7101, YM6045С, YM6046, YM2612| |Генератор EDCLK интегрирован в арбитр|
 |VA4|Yamaha YM7101/FC1001, YM6045С, YM6046, YM2612| |FC1001 это YM7101 на более тонком процессе|
-|VA5|Yamaha YM7101/FC1001, YM2612, Sega 315-5402(Arbiter+IO)| |Арбитр и IO интегрированы в один ULA чип|
+|VA5|Yamaha YM7101/FC1001, YM2612, Sega 315-5402(Arbiter+IO+Broken TMSS(?))| |Арбитр и IO интегрированы в один ULA чип, поломанный TMSS(?)|
 |VA6|Yamaha YM7101/FC1001, YM2612, Sega 315-5433(Arbiter+IO+TMSS)| |Добавлен TMSS|
 |VA6.5|Yamaha YM7101/FC1001, YM2612, Sega 315-5433| | |
+|VA6.8|Yamaha YM7101/FC1001, YM2612, Sega 315-5433| | |
 |VA7|Yamaha FC1004(VDP+Arbiter+IO+FM+TMSS)| |Интеграция всех кастомных чипов в один кристал, YM2612 заменена на YM3438|
 
 ## Mega Drive 2
