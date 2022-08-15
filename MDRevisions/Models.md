@@ -45,3 +45,4 @@
 |Sega Teradrive|Yamaha YM7101, YM6045С?, YM6046, YM3438| |Комбайн Mega Drive и 286 компа. Единственный MD с дискретным YM3438. 128k видеопамяти вместо 64k|
 |Pioneer LaserActive|Yamaha FC1004| |Комбайн Mega Drive и Sega CD для LaserActive|
 |Amstrad Mega PC|Yamaha FC1004| |Комбайн Mega Drive и 386 компа|
+|Aiwa Mega CD|Yamaha FC1004| |Комбайн Mega Drive и Sega CD|
