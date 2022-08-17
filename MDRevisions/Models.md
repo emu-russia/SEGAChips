@@ -21,10 +21,10 @@
 |---|---|---|---|
 |VA0|Yamaha FC1004|![/MDRevisions/Photo/md2va0.jpg](/MDRevisions/Photo/md2va0.jpg)| |
 |VA1|Yamaha FC1004| |Один чип ОЗУ вместо двух|
-|VA1.8|Yamaha FC1004| | |
+|VA1.8|Yamaha FC1004/FF1004| |FF1004 возможно является FC1004 на более тонком техпроцессе|
 |VA2|Toshiba T9N13BF(VDP+Arbiter+IO+TMSS), Yamaha YM2612| |Главный чип выпускался Toshiba, а не партнерами Yamaha, поэтому FM чип отдельный| 
 |VA2.3|Toshiba T9N13BF/TC6158AF, Yamaha YM2612| |Битый режим shadow/highlight в TC6158AF|
-|VA3|Yamaha FC1004/FF1004| |Первая ревизия на уменьшенной материнской плате. FF1004 возможно является FC1004 на более тонком техпроцессе|
+|VA3|Yamaha FC1004/FF1004| |Первая ревизия на уменьшенной материнской плате|
 |VA4|Yamaha FJ3002|![/MDRevisions/Photo/md2va4.jpg](/MDRevisions/Photo/md2va4.jpg)|Интеграция M68k, Z80 и его ОЗУ в главный чип|
 
 ## Genesis 3
