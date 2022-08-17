@@ -19,7 +19,7 @@
 
 |Ревизия|Чипсет|Фото|Примечания|
 |---|---|---|---|
-|VA0|Yamaha FC1004| | |
+|VA0|Yamaha FC1004|![/MDRevisions/Photo/md2va0.jpg](/MDRevisions/Photo/md2va0.jpg)| |
 |VA1|Yamaha FC1004| |Один чип ОЗУ вместо двух|
 |VA1.8|Yamaha FC1004| | |
 |VA2|Toshiba T9N13BF(VDP+Arbiter+IO+TMSS), Yamaha YM2612| |Главный чип выпускался Toshiba, а не партнерами Yamaha, поэтому FM чип отдельный| 
