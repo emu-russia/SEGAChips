@@ -21,7 +21,7 @@
 |---|---|---|---|
 |VA0|Yamaha FC1004|![/MDRevisions/Photo/md2va0.jpg](/MDRevisions/Photo/md2va0.jpg)| |
 |VA1|Yamaha FC1004| |Один чип ОЗУ вместо двух|
-|VA1.8|Yamaha FC1004/FF1004| |FF1004 возможно является FC1004 на более тонком техпроцессе|
+|VA1.8|Yamaha FC1004/FF1004|![image](https://user-images.githubusercontent.com/15833655/188282136-1385078b-09c8-46cf-aefe-67ba9025c504.png)|FF1004 возможно является FC1004 на более тонком техпроцессе|
 |VA2|Toshiba T9N13BF(VDP+Arbiter+IO+TMSS), Yamaha YM2612| |Главный чип выпускался Toshiba, а не партнерами Yamaha, поэтому FM чип отдельный| 
 |VA2.3|Toshiba T9N13BF/TC6158AF, Yamaha YM2612| |Битый режим shadow/highlight в TC6158AF|
 |VA3|Yamaha FC1004/FF1004| |Первая ревизия на уменьшенной материнской плате|
