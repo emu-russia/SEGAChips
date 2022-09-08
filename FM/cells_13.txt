@@ -1,0 +1,4 @@
+dlatch dlatch sr_bit sr_bit sr_bit sr_bit sr_bit cell35 dlatch sr_bit sr_bit sr_bit dlatch cell35 sr_bit dlatch cell38 sr_bit sr_bit sr_bit cell38 dlatch comp_weak
+cell34e sr_bit ha not aoi21 not and or and nor or sr_bit and nor3 cell34e sr_bit
+cell57 cell58 cell57 cell58 cell58 cell58 cell58 cell58 cell57 cell58 cell57 cell58 cell57 nand aon2222 and not
+nand nand nand not cell48 nand not nand not xor not nand xor not cell59 xor cell48 cell47 cell39 cell43 cell57 nand xor not xor not
