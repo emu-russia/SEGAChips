@@ -1,0 +1,4 @@
+sr_bit comp_strong sr_bit nor sr_bit sr_bit nor sr_bit sr_bit nor sr_bit sr_bit nor sr_bit sr_bit nor nor nor
+fa fa fa fa fa nor nor nor nor nor
+sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit
+fa fa fa fa fa sr_bit sr_bit sr_bit
