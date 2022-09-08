@@ -1,0 +1,22 @@
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+and not buf buf not buf not cell41 and cell41 and cell41 and cell41 and cell41 and not and
+and not buf not buf not and and and and and not not and and and and buf buf not not and
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+cell43 nor cell34h aon22 cell34h nor cell43
+and not and not not cell64 not and and comp_strong sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit and not cell40 cell40
