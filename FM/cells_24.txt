@@ -1,0 +1,2 @@
+cell82 cell82 cell82 cell82 cell82 cell82 cell82 cell82 buf sr_bit dlatch buf sr_bit cell49 nor cell49 dlatch not and not not aoi21 sr_bit not cell49 not_strong not not_strong cnt_bit cnt_bit cnt_bit cnt_bit cnt_bit cell49 cell49 cell49 cell49 cell49 cell49 cell49 cell49 buf
+not and not not dlatch cell70 cell71 not and not not dlatch cell70 cell71 cell42 or and3 not not not not cell63 not not not nand3 not not_strong nand not nand not_strong not_strong dlatch dlatch dlatch dlatch dlatch dlatch dlatch dlatch dlatch not
