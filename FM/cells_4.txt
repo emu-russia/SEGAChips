@@ -1,0 +1,6 @@
+cell44 cell43 cell44 nand cell54 nand cell55 cell55 cell55
+cell44 nand cell54 nand cell55 cell55 cell55
+sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit
+comp_strong cell34d cell34d cell34d cell34d cell34d
+cell34d cell34d cell34d cell34d cell34d
+not buf not buf not buf not buf
