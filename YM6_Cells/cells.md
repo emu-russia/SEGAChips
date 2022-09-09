@@ -63,7 +63,7 @@
 |![image](https://user-images.githubusercontent.com/15833655/184319875-d99db17b-69a2-45e4-a24a-ef2c31b937b6.png)|![image](https://user-images.githubusercontent.com/15833655/184319934-dcebb8a7-4217-4fdf-b46e-29ace9bf4d7d.png)|
 |---|---|
 
-## Ячейка
+## Ячейка 16
 |![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
 |---|---|
 
@@ -113,7 +113,7 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ![image](https://user-images.githubusercontent.com/5828819/184492894-5cb18e88-aa32-4b8c-9e9f-80ea89db0508.png)
 
-## Ячейка - 8-разрядный регистр (?)
+## Ячейка 17 - 8-разрядный регистр (?)
 
 ![image](https://user-images.githubusercontent.com/5828819/184526359-5c46d861-f421-47cb-a2f4-63940846f926.png)
 
