@@ -1,0 +1,9 @@
+# YM3438 Cells Library (lambda = 5.0)
+
+# Pattern Syntax:
+# pattern name, type, source_lambda, pcount, ncount, image_path
+# Pattern types: CellNot, CellBuffer, CellMux, CellLogic, CellAdder, CellBusSupp, CellFlipFlop, CellLatch, CellOther
+
+# Vias Syntax:
+# vias pattern_name, vias_name, offset_x, offset_y, type, reserved
+# Vias types: ViasInput, ViasOutput, ViasInout
