@@ -465,3 +465,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 83
 ![image](https://user-images.githubusercontent.com/15833655/189172587-83ba36d0-0972-4c37-8b32-33af6260fc87.png)
 
+## Ячейка 84
+
+|![84](https://user-images.githubusercontent.com/93550076/191217671-cc8febfb-4275-4ac0-8c03-75cdeabc02d9.PNG)|![log84](https://user-images.githubusercontent.com/93550076/191217704-7e84b166-ee7e-498e-8c85-852046e78074.png)|
