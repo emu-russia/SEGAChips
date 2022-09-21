@@ -400,7 +400,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177829127-75954206-3ddc-4702-8262-7a3a350123dc.png)|
 |---|---|---|
 
-## Ячейка 67
+## Ячейка 67 - OR8
 |![image](https://user-images.githubusercontent.com/15833655/177318872-58145f01-b7c6-4bfe-81c7-fff5415975d6.png)|![image](https://user-images.githubusercontent.com/15833655/177213147-0e1e9544-4163-4d1b-9d58-07450e058096.png)|![image](https://user-images.githubusercontent.com/15833655/177829825-ab6ef94a-b65c-4635-b753-c2ea98228d07.png)|
 |---|---|---|
 
