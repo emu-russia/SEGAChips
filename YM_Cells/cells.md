@@ -295,6 +295,11 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177316074-13357947-2e6b-4639-a1f8-35c37f0dfe2b.png)|![image](https://user-images.githubusercontent.com/15833655/177044591-a7df3a45-b6b5-487f-b942-1cce9f96e692.png)|![image](https://user-images.githubusercontent.com/15833655/177764507-35344c09-ba75-44ea-b0e4-7af4efeb38dd.png)|
 |---|---|---|
 
+## Ячейка 85 - 5OR
+|![image](https://user-images.githubusercontent.com/93550076/191535972-efd6e433-1e63-46c8-a8f7-f1b3a7a6ed7c.png)
+|![image](https://user-images.githubusercontent.com/93550076/191536187-32a8e4ce-9a5d-49f3-bd74-c871c0aafd6c.png)
+|---|---|---|
+
 ## Ячейка 41 - 4OR
 |![image](https://user-images.githubusercontent.com/15833655/177301631-06b264a5-7361-41df-8722-dca496941b3e.png)|![image](https://user-images.githubusercontent.com/15833655/177049818-11fffd64-499e-44d3-837d-edd170372525.png)|![image](https://user-images.githubusercontent.com/15833655/177764892-7cfb45fe-ba90-45a6-bd3f-de675d506078.png)|
 |---|---|---|
