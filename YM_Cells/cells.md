@@ -356,7 +356,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177207913-dc4f4640-4faf-45f8-97c6-9f551d4d4dcb.png)|![image](https://user-images.githubusercontent.com/15833655/177784167-bc48502f-e4fb-4147-ae9d-90f7d723bea9.png)|
 |---|---|
 
-## Ячейка 55
+## Ячейка 55 - AON22222222
 |![image](https://user-images.githubusercontent.com/15833655/177320472-905241a9-f6df-4a2d-828b-621489985fee.png)|![image](https://user-images.githubusercontent.com/15833655/177207973-aea5895c-9515-453b-8e58-ed9176eab010.png)|![image](https://user-images.githubusercontent.com/15833655/177797699-54a3135e-928e-4d21-87e2-3450b3c9139e.png)|
 |---|---|---|
 
