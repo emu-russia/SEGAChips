@@ -428,8 +428,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177298561-c68a9c59-e39e-480d-a0fe-185fde3e82e4.png)|![image](https://user-images.githubusercontent.com/15833655/177834904-977d23f7-1d70-4341-bed6-b516cf25b447.png)|![image](https://user-images.githubusercontent.com/15833655/177835041-a12cfee7-5d9e-490c-9a5c-42e292ca8a1d.png)|
 |---|---|---|
 
-## Ячейка 73
+## Ячейка 73 - OAI211
 |![image](https://user-images.githubusercontent.com/15833655/177299764-d9c6c6ee-9f16-4240-9a2d-eb1e4ac4a01a.png)|![image](https://user-images.githubusercontent.com/15833655/177836543-737a7af4-b748-4929-a71b-24fc61aa9dd9.png)|
+![image](https://user-images.githubusercontent.com/93550076/192620188-0becddf1-af0f-40bd-aceb-c0c3080c8160.png)|
 |---|---|
 
 ## Ячейка 74 - BUFIF0
