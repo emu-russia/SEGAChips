@@ -10,9 +10,11 @@
 
 ![logo](imgstore/logo.jpg)
 
+## Сеть VDD/GND
+
 ![z80_topo_sm](imgstore/z80_topo_sm.jpg)
 
-# Карманы
+## Карманы
 
 Карманы P-типа (спасибо за подсказку).
 
