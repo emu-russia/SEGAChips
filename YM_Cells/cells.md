@@ -474,3 +474,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 |![84](https://user-images.githubusercontent.com/93550076/191217671-cc8febfb-4275-4ac0-8c03-75cdeabc02d9.PNG)|![84 poly](https://user-images.githubusercontent.com/93550076/191220437-172d2739-a417-4b38-a551-bc59f8b6ac21.png)
 |![log84](https://user-images.githubusercontent.com/93550076/191217704-7e84b166-ee7e-498e-8c85-852046e78074.png)|
+
+## Ячейка 85 АОI31
+
+|![85](https://user-images.githubusercontent.com/93550076/192897238-fbdbe800-6b3f-4002-bc5c-809e459a4aa9.jpg)
+|![85tran](https://user-images.githubusercontent.com/93550076/192897292-99b9f09a-0a8f-4027-b0c5-985f798fffd1.JPG)
+|![aoi31](https://user-images.githubusercontent.com/93550076/192897315-ce318a51-f1ec-43ab-8e3d-99eb990ea7f8.png)|
