@@ -1,12 +1,12 @@
 # Межсоединения
 
-## Соединения между Декодером и Верхней Логикой
+## Верхние Соединения
 
 ![locator_rails1](imgstore/locator_rails1.jpg)
 
 ![rails1](imgstore/rails1.jpg)
 
-## Соединения между Верхней Логикой и Низом
+## Нижние Соединения
 
 ![locator_rails2](imgstore/locator_rails2.jpg)
 
