@@ -19,3 +19,9 @@
 Карманы P-типа (спасибо за подсказку).
 
 ![pockets](imgstore/pockets.jpg)
+
+## Сосисочные виасы
+
+Некоторые виасы сделаны как длинные сосиски:
+
+![sausage_vias](imgstore/sausage_vias.jpg)
