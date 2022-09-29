@@ -1,20 +1,13 @@
+// Z80 terminal logic
 
-module pad_inout ( read, vout_from_core, vin_to_core, pad );
+module pad_inout ( read_enable, vout_from_core, vin_to_core, pad );
 
-	input read;
+	input read_enable;
 	input vout_from_core;
 	output vin_to_core;
 	inout pad;
 
-	wire set_zero;
-	wire n_set_one;
-	wire vin_from_pad;
-
-	assign set_zero = ~read & ~vout_from_core;
-	assign n_set_one = read | ~vout_from_core;
-
-	// TBD: pad
-
-	assign vin_to_core = vin_from_pad;
+	bufif0 (pad, vout_from_core, read_enable);
+	assign vin_to_core = pad;
 
 endmodule // pad_inout

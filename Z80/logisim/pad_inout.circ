@@ -86,6 +86,18 @@
       <a name="label" val="vin_to_core"/>
       <a name="output" val="true"/>
     </comp>
+    <comp lib="0" loc="(690,260)" name="Ground"/>
+    <comp lib="0" loc="(690,320)" name="Power"/>
+    <comp lib="0" loc="(730,260)" name="Transistor">
+      <a name="type" val="n"/>
+    </comp>
+    <comp lib="0" loc="(730,320)" name="Transistor"/>
+    <comp lib="0" loc="(760,290)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="west"/>
+      <a name="label" val="pad"/>
+      <a name="output" val="true"/>
+    </comp>
     <comp lib="1" loc="(340,180)" name="NOT Gate">
       <a name="size" val="20"/>
     </comp>
@@ -139,7 +151,18 @@
     <wire from="(460,250)" to="(480,250)"/>
     <wire from="(460,310)" to="(480,310)"/>
     <wire from="(470,380)" to="(540,380)"/>
-    <wire from="(500,250)" to="(540,250)"/>
-    <wire from="(500,310)" to="(540,310)"/>
+    <wire from="(500,250)" to="(530,250)"/>
+    <wire from="(500,310)" to="(530,310)"/>
+    <wire from="(530,210)" to="(530,250)"/>
+    <wire from="(530,210)" to="(710,210)"/>
+    <wire from="(530,250)" to="(540,250)"/>
+    <wire from="(530,280)" to="(530,310)"/>
+    <wire from="(530,280)" to="(710,280)"/>
+    <wire from="(530,310)" to="(540,310)"/>
+    <wire from="(710,210)" to="(710,240)"/>
+    <wire from="(710,280)" to="(710,300)"/>
+    <wire from="(730,260)" to="(730,290)"/>
+    <wire from="(730,290)" to="(730,320)"/>
+    <wire from="(730,290)" to="(760,290)"/>
   </circuit>
 </project>

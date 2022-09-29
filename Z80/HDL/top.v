@@ -19,4 +19,6 @@ module Z80 (CLK, A, D, n_RFSH, n_M1, n_RESET, n_BUSACK, n_BUSREQ, n_WAIT, n_RD, 
 	input n_NMI;
 	input n_INT;
 
+	pad_inout DataPads [7:0] ();
+
 endmodule // Z80
