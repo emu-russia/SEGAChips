@@ -15,3 +15,8 @@
 Судя по всему для `inout` и `output` используется одинаковая схема.
 
 ![pad_out](imgstore/pad_out.jpg)
+
+|![pad_inout_tran](imgstore/modules/pad_inout_tran.jpg)|![pad_inout](imgstore/modules/pad_inout.png)|
+|---|---|
+
+(Контактная площадка на схеме пока не показана).
