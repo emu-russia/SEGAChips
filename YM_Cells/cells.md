@@ -384,8 +384,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177323884-68e87d91-bfa9-448d-8219-cd9e795e17d3.png)|![image](https://user-images.githubusercontent.com/15833655/177210153-e5a97626-909f-4018-b2e7-78241350480b.png)|![image](https://user-images.githubusercontent.com/15833655/177812199-9c01e675-2ef0-433a-baed-5079e99a067c.png)|
 |---|---|---|
 
-## Ячейка 62
-|![image](https://user-images.githubusercontent.com/15833655/177315303-330298eb-42f8-49dd-9d38-06eb0ccc6233.png)|![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)|![image](https://user-images.githubusercontent.com/15833655/177814690-79e51fff-d158-460d-ae83-2671ba90abe5.png)|
+## Ячейка 62 - AOI221
+|![image](https://user-images.githubusercontent.com/15833655/177315303-330298eb-42f8-49dd-9d38-06eb0ccc6233.png)|![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)|![622](https://user-images.githubusercontent.com/93550076/193424721-f88cabd9-eae5-4345-91a0-fe1e39094feb.JPG)|
 |---|---|---|
 
 ## Ячейка 63
