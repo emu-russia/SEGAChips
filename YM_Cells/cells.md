@@ -480,3 +480,10 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![85](https://user-images.githubusercontent.com/93550076/192897238-fbdbe800-6b3f-4002-bc5c-809e459a4aa9.jpg)
 |![85tran](https://user-images.githubusercontent.com/93550076/192897292-99b9f09a-0a8f-4027-b0c5-985f798fffd1.JPG)
 |![aoi31](https://user-images.githubusercontent.com/93550076/192897315-ce318a51-f1ec-43ab-8e3d-99eb990ea7f8.png)|
+
+## Ячейка 86 COMB1
+
+|![86](https://user-images.githubusercontent.com/93550076/193420963-f3373066-13e0-4b03-a99f-ca509092a053.JPG)
+|![86tran](https://user-images.githubusercontent.com/93550076/193420974-866d34b6-b6de-4338-b92f-be7a0ca158e0.jpg)
+|![86log](https://user-images.githubusercontent.com/93550076/193420983-0285cdb2-fbc5-4613-a976-86375cbfb85d.png)
+|
