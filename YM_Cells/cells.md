@@ -440,7 +440,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 75 - DLATCH_R
 
 D-Latch с асинхронным сбросом
-|![image](https://user-images.githubusercontent.com/15833655/177304570-22e76d34-fcce-4b82-ad67-e79e3aa5c193.png)|![image](https://user-images.githubusercontent.com/15833655/177840452-0a27e065-b6c1-4da0-9baa-142bddf2b3af.png)|![75log](https://user-images.githubusercontent.com/93550076/193522586-5ae88dab-cf05-44e8-bd5d-e9604c060b78.PNG)|
+
+|![image](https://user-images.githubusercontent.com/15833655/177304570-22e76d34-fcce-4b82-ad67-e79e3aa5c193.png)|![75log](https://user-images.githubusercontent.com/93550076/193522586-5ae88dab-cf05-44e8-bd5d-e9604c060b78.PNG)|
 |---|---|
 
 ## Ячейка 76
