@@ -119,7 +119,7 @@
 ## Ячейка 13 - NOT  
 
 Мощный буферизированный инвертор.
-|![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/15833655/177044108-bb5f4bed-3e30-4576-b1b4-f59ccbe979e0.png)|![image](https://user-images.githubusercontent.com/15833655/189172989-644a145d-8568-410c-bd89-81082cba960e.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![image](https://user-images.githubusercontent.com/5828819/176180754-899c75fa-0af2-42f9-a165-b9d24792c974.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/15833655/177044108-bb5f4bed-3e30-4576-b1b4-f59ccbe979e0.png)|![image](https://user-images.githubusercontent.com/15833655/189172989-644a145d-8568-410c-bd89-81082cba960e.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![notstr](https://user-images.githubusercontent.com/93550076/194051132-aef9f54f-430c-42bf-8d04-47ea5820aa17.PNG)|
 |---|---|---|---|---|
 
 ## Ячейка 14+15 - clkgen
