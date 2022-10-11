@@ -344,7 +344,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177051241-f6e79fe7-0406-4f9b-baa6-fd9cbcf65e98.png)|![image](https://user-images.githubusercontent.com/15833655/177777321-68dfc871-2d49-4de5-bb68-ee8f95d326a0.png)|
 |---|---|
 
-## Ячейка 52
+## Ячейка 52 - cnt_bit_load
+
+счетчик со входом для загрузки значения V и комлементарным входом для разрешения загрузки LOAD L, /L
 |![image](https://user-images.githubusercontent.com/15833655/177316825-9ab591c5-1d5a-4c26-9c97-a710d92115c4.png)|![image](https://user-images.githubusercontent.com/15833655/177051266-ed19c5a5-3b47-45f9-a2ce-f390d4a3a172.png)|![image](https://user-images.githubusercontent.com/15833655/177778327-cf7b8c90-dd72-4f33-b569-b8d921b1ae16.png)|![image](https://user-images.githubusercontent.com/15833655/177778468-a0a5f2b1-8eb7-4c13-9203-62d993595042.png)|
 |---|---|---|---|
 
