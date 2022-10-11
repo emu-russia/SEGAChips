@@ -510,7 +510,7 @@ D-Latch с асинхронным сбросом
 |
 |
 
-## Ячейка 89 - ?
+## Ячейка 89 - NOR12
 
 |![89](https://user-images.githubusercontent.com/93550076/195129194-55b99584-cc3a-4bee-83bd-1d585a54ff09.PNG)
 |
