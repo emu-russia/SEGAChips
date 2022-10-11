@@ -390,7 +390,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177315303-330298eb-42f8-49dd-9d38-06eb0ccc6233.png)|![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)|![622](https://user-images.githubusercontent.com/93550076/193424721-f88cabd9-eae5-4345-91a0-fe1e39094feb.JPG)|
 |---|---|---|
 
-## Ячейка 63
+## Ячейка 63 - NAND5
 |![image](https://user-images.githubusercontent.com/15833655/177211381-246204cb-e012-4a1b-912b-7a585ca62c68.png)|![image](https://user-images.githubusercontent.com/15833655/177824791-3570da6e-be6b-410c-8ffd-d9560f5c3db8.png)|
 |---|---|
 
