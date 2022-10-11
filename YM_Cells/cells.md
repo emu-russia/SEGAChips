@@ -462,10 +462,10 @@ D-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/15833655/177322920-5c869958-3421-4aae-ac8b-e340c6dbbad4.png)|![image](https://user-images.githubusercontent.com/15833655/177850240-9f8d2ac7-7ba1-48cb-9ee1-1abf6f9d4012.png)|
 |---|---|
 
-## Ячейка 90 - OR9
+## Ячейка 90 - AND9
 
-|![or9](https://user-images.githubusercontent.com/93550076/195129504-eae5bd51-240c-4d1a-a99b-25be0841304c.png)
-|![or9log](https://user-images.githubusercontent.com/93550076/195129557-735055a8-1ad9-4a0f-b6aa-78b2fd98ebaa.PNG)
+|![and9](https://user-images.githubusercontent.com/93550076/195130809-b3e6faba-83c7-4d84-9456-f9980d426ec2.PNG)
+|![and9log](https://user-images.githubusercontent.com/93550076/195130835-554c50c5-d759-47c0-90b9-12b67150b166.PNG)
 |
 
 ## Ячейка 80
