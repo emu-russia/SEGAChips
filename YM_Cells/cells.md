@@ -458,9 +458,15 @@ D-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/15833655/177321830-cf7efa81-5868-43cc-b9e6-696a1d87a445.png)|![image](https://user-images.githubusercontent.com/15833655/177846206-cfdabdaf-3834-466e-b287-1f37f3ce930a.png)|
 |---|---|
 
-## Ячейка 79
+## Ячейка 79 - OR9
 |![image](https://user-images.githubusercontent.com/15833655/177322920-5c869958-3421-4aae-ac8b-e340c6dbbad4.png)|![image](https://user-images.githubusercontent.com/15833655/177850240-9f8d2ac7-7ba1-48cb-9ee1-1abf6f9d4012.png)|
 |---|---|
+
+## Ячейка 90 - OR9
+
+|![or9](https://user-images.githubusercontent.com/93550076/195129504-eae5bd51-240c-4d1a-a99b-25be0841304c.png)
+|![or9log](https://user-images.githubusercontent.com/93550076/195129557-735055a8-1ad9-4a0f-b6aa-78b2fd98ebaa.PNG)
+|
 
 ## Ячейка 80
 |![image](https://user-images.githubusercontent.com/15833655/177324566-d0927d41-c7d2-4d92-ba32-4c327b96585c.png)|![image](https://user-images.githubusercontent.com/15833655/177851174-2e1d3591-ca8d-4303-a928-9f0868b727b5.png)|
@@ -501,5 +507,11 @@ D-Latch с асинхронным сбросом
 ## Ячейка 88 - ?
 
 |![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)
+|
+|
+
+## Ячейка 89 - ?
+
+|![89](https://user-images.githubusercontent.com/93550076/195129194-55b99584-cc3a-4bee-83bd-1d585a54ff09.PNG)
 |
 |
