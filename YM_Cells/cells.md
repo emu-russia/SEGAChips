@@ -382,8 +382,10 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177210033-a57ffe7f-13c1-4641-9c98-baff1b8309ec.png)|![image](https://user-images.githubusercontent.com/15833655/177809896-aff1320a-243d-45bd-8fe2-1d564e220ea5.png)|
 |---|---|
 
-## Ячейка 61
-|![image](https://user-images.githubusercontent.com/15833655/177323884-68e87d91-bfa9-448d-8219-cd9e795e17d3.png)|![image](https://user-images.githubusercontent.com/15833655/177210153-e5a97626-909f-4018-b2e7-78241350480b.png)|![image](https://user-images.githubusercontent.com/15833655/177812199-9c01e675-2ef0-433a-baed-5079e99a067c.png)|
+## Ячейка 61 - AON21SR
+
+Комбинация из AON21 и разряда сдвигового регистра.
+|![image](https:/user-images.githubusercontent.com/15833655/177323884-68e87d91-bfa9-448d-8219-cd9e795e17d3.png)|![image](https://user-images.githubusercontent.com/15833655/177210153-e5a97626-909f-4018-b2e7-78241350480b.png)|![image](https://user-images.githubusercontent.com/15833655/177812199-9c01e675-2ef0-433a-baed-5079e99a067c.png)|
 |---|---|---|
 
 ## Ячейка 62 - AOI221
