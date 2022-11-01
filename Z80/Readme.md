@@ -7,3 +7,5 @@
 ![z80_block](imgstore/z80_block.jpg)
 
 ![Z80_m2_Fused_sm](imgstore/Z80_m2_Fused_sm.jpg)
+
+Названия сигналов НЕ будут меняться. Живите с этим!
