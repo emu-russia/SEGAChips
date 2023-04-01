@@ -466,65 +466,65 @@ D-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/15833655/177322920-5c869958-3421-4aae-ac8b-e340c6dbbad4.png)|![image](https://user-images.githubusercontent.com/15833655/177850240-9f8d2ac7-7ba1-48cb-9ee1-1abf6f9d4012.png)|
 |---|---|
 
-## Ячейка 90 - AND9
+## Ячейка 80 - AND9
 
 |![and9](https://user-images.githubusercontent.com/93550076/195130809-b3e6faba-83c7-4d84-9456-f9980d426ec2.PNG)
 |![and9log](https://user-images.githubusercontent.com/93550076/195130835-554c50c5-d759-47c0-90b9-12b67150b166.PNG)
 |
 
-## Ячейка 80 - NOR8
+## Ячейка 81 - NOR8
 |![image](https://user-images.githubusercontent.com/15833655/177324566-d0927d41-c7d2-4d92-ba32-4c327b96585c.png)|![image](https://user-images.githubusercontent.com/15833655/177851174-2e1d3591-ca8d-4303-a928-9f0868b727b5.png)|
 |---|---|
 
-## Ячейка 81
+## Ячейка 82
 ![image](https://user-images.githubusercontent.com/15833655/181067813-af40b77f-7b86-4dc0-9cb3-1e2321e626ab.png)
 
-## Ячейка 82
+## Ячейка 83
 ![image](https://user-images.githubusercontent.com/15833655/189172728-5a0e4f22-d875-47e4-a247-8e8c52ce7737.png)
 
-## Ячейка 83
+## Ячейка 84
 ![image](https://user-images.githubusercontent.com/15833655/189172587-83ba36d0-0972-4c37-8b32-33af6260fc87.png)
 
-## Ячейка 84 - 2А3ОI
+## Ячейка 85 - 2А3ОI
 
 |![84](https://user-images.githubusercontent.com/93550076/191217671-cc8febfb-4275-4ac0-8c03-75cdeabc02d9.PNG)|![84 poly](https://user-images.githubusercontent.com/93550076/191220437-172d2739-a417-4b38-a551-bc59f8b6ac21.png)
 |![log84](https://user-images.githubusercontent.com/93550076/191217704-7e84b166-ee7e-498e-8c85-852046e78074.png)|
 
-## Ячейка 85 - АОI31
+## Ячейка 86 - АОI31
 
 |![85](https://user-images.githubusercontent.com/93550076/192897238-fbdbe800-6b3f-4002-bc5c-809e459a4aa9.jpg)
 |![85tran](https://user-images.githubusercontent.com/93550076/192897292-99b9f09a-0a8f-4027-b0c5-985f798fffd1.JPG)
 |![aoi31](https://user-images.githubusercontent.com/93550076/192897315-ce318a51-f1ec-43ab-8e3d-99eb990ea7f8.png)|
 
-## Ячейка 86 - COMB1
+## Ячейка 87 - COMB1
 
 |![86](https://user-images.githubusercontent.com/93550076/193420963-f3373066-13e0-4b03-a99f-ca509092a053.JPG)
 |![86tran](https://user-images.githubusercontent.com/93550076/193420974-866d34b6-b6de-4338-b92f-be7a0ca158e0.jpg)
 |![86log](https://user-images.githubusercontent.com/93550076/193420983-0285cdb2-fbc5-4613-a976-86375cbfb85d.png)|
 
-## Ячейка 87 - DDLATCH
+## Ячейка 88 - DDLATCH
 
 |![87tran](https://user-images.githubusercontent.com/93550076/193691039-ef7d618e-7bfd-4ba4-953f-fe3475e32a55.JPG)
 |![87tr](https://user-images.githubusercontent.com/93550076/193691072-60a047be-72f4-46e8-bad5-511e4dc931c8.png)
 |
 
-## Ячейка 88 - ?
+## Ячейка 89 - ?
 
 |![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)
 |
 |
 
-## Ячейка 89 - NOR12
+## Ячейка 90 - NOR12
 
 |![89](https://user-images.githubusercontent.com/93550076/195129194-55b99584-cc3a-4bee-83bd-1d585a54ff09.PNG)
 |
 |
 
-## Ячейка 90 - XNOR
+## Ячейка 91 - XNOR
 |![image](https://user-images.githubusercontent.com/15833655/229275809-15a009cf-0f3d-4e68-976d-107f7475c2a5.png)
 |![XNOR](https://user-images.githubusercontent.com/93550076/229280978-ebb6a7f9-c3c6-459e-82a8-fbd5913e5afa.JPG)
 |
 
-## Ячейка 91 - neg-edge dff
+## Ячейка 92 - neg-edge dff
 ![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)
 
