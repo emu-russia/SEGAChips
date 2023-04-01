@@ -428,7 +428,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177214228-b4c2b3eb-3c39-49e3-856d-35afdbda91ea.png)|![image](https://user-images.githubusercontent.com/15833655/177834691-a2523fed-292c-4714-a0ef-9b8ed12963bf.png)|![image](https://user-images.githubusercontent.com/15833655/177834608-ab5bf750-d1fd-4a67-a53e-36be40b45c05.png)|
 |---|---|---|
 
-## Ячейка 72 - dff
+## Ячейка 72 - pos-edge dff
 |![image](https://user-images.githubusercontent.com/15833655/177298561-c68a9c59-e39e-480d-a0fe-185fde3e82e4.png)|![image](https://user-images.githubusercontent.com/15833655/177834904-977d23f7-1d70-4341-bed6-b516cf25b447.png)|![image](https://user-images.githubusercontent.com/15833655/177835041-a12cfee7-5d9e-490c-9a5c-42e292ca8a1d.png)|
 |---|---|---|
 
@@ -522,3 +522,7 @@ D-Latch с асинхронным сбросом
 
 ## Ячейка 90 - XNOR
 ![image](https://user-images.githubusercontent.com/15833655/229275809-15a009cf-0f3d-4e68-976d-107f7475c2a5.png)
+
+## Ячейка 91 - neg-edge dff
+![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)
+
