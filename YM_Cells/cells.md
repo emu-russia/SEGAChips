@@ -409,8 +409,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|
 
 ## Ячейка 67 - OR8
-|![image](https://user-images.githubusercontent.com/15833655/177318872-58145f01-b7c6-4bfe-81c7-fff5415975d6.png)|![image](https://user-images.githubusercontent.com/15833655/177213147-0e1e9544-4163-4d1b-9d58-07450e058096.png)|![image](https://user-images.githubusercontent.com/15833655/177829825-ab6ef94a-b65c-4635-b753-c2ea98228d07.png)|
-|---|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177318872-58145f01-b7c6-4bfe-81c7-fff5415975d6.png)|![image](https://user-images.githubusercontent.com/15833655/177213147-0e1e9544-4163-4d1b-9d58-07450e058096.png)|![image](https://user-images.githubusercontent.com/15833655/229513183-fb0f081d-6467-4bb4-8232-85bb3695744e.png)|![image](https://user-images.githubusercontent.com/15833655/177829825-ab6ef94a-b65c-4635-b753-c2ea98228d07.png)|
+|---|---|---|---|
 
 ## Ячейка 68 - OR7
 |![image](https://user-images.githubusercontent.com/15833655/177318549-f5ed5663-cf16-4b43-b6b0-55d986d22644.png)|![image](https://user-images.githubusercontent.com/15833655/177213414-2b506fe9-6c8d-4850-9a55-860c605dfbcc.png)|![image](https://user-images.githubusercontent.com/15833655/177830456-08e08936-f02f-46de-bfe8-57ec9cc911bd.png)|
@@ -545,6 +545,6 @@ D-Latch с асинхронным сбросом
 
 ![image](https://user-images.githubusercontent.com/15833655/229510834-b4189650-75d5-43b2-bd25-2cc93f833089.png)
 
-## Ячейка 98 - AND8
-![image](https://user-images.githubusercontent.com/15833655/229513183-fb0f081d-6467-4bb4-8232-85bb3695744e.png)
+## Ячейка 98 - NOR8(?)
+![image](https://user-images.githubusercontent.com/15833655/229514308-2a15d185-592e-407f-b472-692950f66ec9.png)
 
