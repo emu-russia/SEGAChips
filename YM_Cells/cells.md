@@ -544,3 +544,7 @@ D-Latch с асинхронным сбросом
 Похожа на ячейку 49
 
 ![image](https://user-images.githubusercontent.com/15833655/229510834-b4189650-75d5-43b2-bd25-2cc93f833089.png)
+
+## Ячейка 98 - AND8
+![image](https://user-images.githubusercontent.com/15833655/229513183-fb0f081d-6467-4bb4-8232-85bb3695744e.png)
+
