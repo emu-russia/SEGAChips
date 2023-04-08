@@ -553,7 +553,10 @@ D-Latch с асинхронным сбросом
 ## Ячейка 98 - NOR8(?)
 ![image](https://user-images.githubusercontent.com/15833655/229514308-2a15d185-592e-407f-b472-692950f66ec9.png)
 
-## Ячейка 99 - comb
+## Ячейка 99 - NOT+NOR3
+
+Состоит из двух независимых частей, инвертора и 3 или-не
+
 |![99tr](https://user-images.githubusercontent.com/93550076/230733316-bf40eaf5-cd81-4a5c-8189-aae124b4b5c8.PNG)
 |![99](https://user-images.githubusercontent.com/93550076/230733321-d411e760-207e-46be-916e-48b42e7c4356.JPG)
 |---|
