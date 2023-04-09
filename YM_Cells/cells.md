@@ -448,9 +448,13 @@ D-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/15833655/177304570-22e76d34-fcce-4b82-ad67-e79e3aa5c193.png)|![75log](https://user-images.githubusercontent.com/93550076/193522586-5ae88dab-cf05-44e8-bd5d-e9604c060b78.PNG)|
 |---|---|
 
-## Ячейка 76
+## Ячейка 76 - T-trigger
+
+Похож на примитив TFF из библиотеки Квартуса.
+
 |![image](https://user-images.githubusercontent.com/15833655/177318303-f221ec4a-e295-4a5f-95d0-5b6f365cf3d4.png)|![image](https://user-images.githubusercontent.com/15833655/177842944-4ada51a2-81b4-4b98-a9fd-7f3ed96c6a15.png)|
-|---|---|
+|![76 log](https://user-images.githubusercontent.com/93550076/230763009-9792798c-ad5e-4330-860c-54b2817d26e7.png)
+|---|
 
 ## Ячейка 77 - cnt_bit_rev
 
