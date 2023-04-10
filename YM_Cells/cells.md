@@ -156,7 +156,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 30 - oai21
 
 |![image](https://user-images.githubusercontent.com/5828819/176858461-752080b4-4bb8-45dd-83af-3c506128ef38.png)|![image](https://user-images.githubusercontent.com/15833655/176938592-fc952b5f-fa83-44c2-ae6d-1a6ba3cd8ad0.png)|
-|---|---|
+|![oai21](https://user-images.githubusercontent.com/93550076/230901762-4019156c-962b-4f0c-bf6a-3a27db510ba2.JPG)
+|---|
 
 ## Ячейка 17 - and3
 
