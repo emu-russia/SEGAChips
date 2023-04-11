@@ -66,7 +66,7 @@
 
 Управляемый инвертор с инверсным управлением.
 
-|![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)|![image](https://user-images.githubusercontent.com/5828819/176018237-bffd9aed-79f7-4be7-835f-edf27a565b64.png)|![image](https://user-images.githubusercontent.com/5828819/176018267-0b7643de-d56e-43f9-88f1-686f33d86382.png)|![NOT IF 0](https://user-images.githubusercontent.com/93550076/231200141-af9500ec-7d86-4873-ade8-b6a6eba0b01a.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)|![image](https://user-images.githubusercontent.com/5828819/176018237-bffd9aed-79f7-4be7-835f-edf27a565b64.png)|![NOT IF 0](https://user-images.githubusercontent.com/93550076/231200141-af9500ec-7d86-4873-ade8-b6a6eba0b01a.png)|
 |---|---|---|---|
 
 ## Ячейка 9 - cgi2a (Генератор переноса инвертирующий с одним инверсным входом)
