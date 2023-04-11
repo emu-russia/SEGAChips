@@ -215,12 +215,14 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Встречается в ряду `G`.
 
-## Ячейка 22 - xor
+## Ячейка 22 - XOR
 
 |![image](https://user-images.githubusercontent.com/5828819/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](https://user-images.githubusercontent.com/15833655/177051174-354f2c77-3467-42e5-a538-084929d4dfee.png)|![image](https://user-images.githubusercontent.com/5828819/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|![Cell22_topo](/imgstore/Cell22_topo.png)|![image](https://user-images.githubusercontent.com/5828819/176373559-127b9114-b944-4a54-af8c-263289dfe1b4.png)|![image](https://user-images.githubusercontent.com/5828819/176373596-dae9d4c7-592c-4829-99ff-055d552ea4be.png)|
 |---|---|---|---|---|---|
 
-В единственном экземпляре, по середине ряда `G`.
+## Ячейка 91 - XNOR
+|![image](https://user-images.githubusercontent.com/15833655/229275809-15a009cf-0f3d-4e68-976d-107f7475c2a5.png)|![XNOR](https://user-images.githubusercontent.com/93550076/229280978-ebb6a7f9-c3c6-459e-82a8-fbd5913e5afa.JPG)|
+|---|---|
 
 ## Ячейка 23 - slatch_inv (Статическая защёлка инвертирующая)
 
@@ -300,16 +302,15 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177316074-13357947-2e6b-4639-a1f8-35c37f0dfe2b.png)|![image](https://user-images.githubusercontent.com/15833655/177044591-a7df3a45-b6b5-487f-b942-1cce9f96e692.png)|![image](https://user-images.githubusercontent.com/15833655/177764507-35344c09-ba75-44ea-b0e4-7af4efeb38dd.png)|
 |---|---|---|
 
-## Ячейка 85 - 5OR
-|![image](https://user-images.githubusercontent.com/93550076/191535972-efd6e433-1e63-46c8-a8f7-f1b3a7a6ed7c.png)
-|![image](https://user-images.githubusercontent.com/93550076/191536187-32a8e4ce-9a5d-49f3-bd74-c871c0aafd6c.png)
-|---|---|---|
+## Ячейка 41 - 5OR
+|![image](https://user-images.githubusercontent.com/93550076/191535972-efd6e433-1e63-46c8-a8f7-f1b3a7a6ed7c.png)|![image](https://user-images.githubusercontent.com/93550076/191536187-32a8e4ce-9a5d-49f3-bd74-c871c0aafd6c.png)|
+|---|---|
 
-## Ячейка 41 - 4OR
+## Ячейка 42 - 4OR
 |![image](https://user-images.githubusercontent.com/15833655/177301631-06b264a5-7361-41df-8722-dca496941b3e.png)|![image](https://user-images.githubusercontent.com/15833655/177049818-11fffd64-499e-44d3-837d-edd170372525.png)|![image](https://user-images.githubusercontent.com/15833655/177764892-7cfb45fe-ba90-45a6-bd3f-de675d506078.png)|
 |---|---|---|
 
-## Ячейка 42 - 4AND
+## Ячейка 43 - 4AND
 |![image](https://user-images.githubusercontent.com/15833655/177301630-ca6a2701-4004-4514-8b35-4def6f7555a6.png)|![image](https://user-images.githubusercontent.com/15833655/177211765-894395e7-c8d3-49a6-ac09-90090b4b6e7c.png)|![image](https://user-images.githubusercontent.com/15833655/177765145-7bd2855c-f19b-4419-ba10-abcfe3dcaedd.png)|
 |---|---|---|
 
@@ -526,12 +527,12 @@ D-Latch с асинхронным сбросом
 |
 
 ## Ячейка 91 - XNOR
-|![image](https://user-images.githubusercontent.com/15833655/229275809-15a009cf-0f3d-4e68-976d-107f7475c2a5.png)
-|![XNOR](https://user-images.githubusercontent.com/93550076/229280978-ebb6a7f9-c3c6-459e-82a8-fbd5913e5afa.JPG)
-|
+|![image](https://user-images.githubusercontent.com/15833655/229275809-15a009cf-0f3d-4e68-976d-107f7475c2a5.png)|![XNOR](https://user-images.githubusercontent.com/93550076/229280978-ebb6a7f9-c3c6-459e-82a8-fbd5913e5afa.JPG)|
+|---|---|
 
 ## Ячейка 92 - neg-edge dff
-![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)
+|![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)|
+|---|
 
 ## Ячейка 93
 |![image](https://user-images.githubusercontent.com/15833655/229506922-7e0be65f-4894-481f-8def-f20a4b88bc0c.png)|![image](https://user-images.githubusercontent.com/15833655/230457203-590468c8-95a6-4d1e-b1d1-2b662d8d5768.png)|
@@ -556,7 +557,8 @@ D-Latch с асинхронным сбросом
 |---|---|
 
 ## Ячейка 98 - NOR8(?)
-![image](https://user-images.githubusercontent.com/15833655/229514308-2a15d185-592e-407f-b472-692950f66ec9.png)
+|![image](https://user-images.githubusercontent.com/15833655/229514308-2a15d185-592e-407f-b472-692950f66ec9.png)|
+|---|
 
 ## Ячейка 99 - NOT+NOR3
 
