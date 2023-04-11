@@ -67,7 +67,7 @@
 Управляемый инвертор с инверсным управлением.
 
 |![image](https://user-images.githubusercontent.com/5828819/175957964-541661c6-e339-40c5-a8da-9e1b2a712aab.png)|![image](https://user-images.githubusercontent.com/5828819/176018237-bffd9aed-79f7-4be7-835f-edf27a565b64.png)|![NOT IF 0](https://user-images.githubusercontent.com/93550076/231200141-af9500ec-7d86-4873-ade8-b6a6eba0b01a.png)|
-|---|---|---|---|
+|---|---|---|
 
 ## Ячейка 9 - cgi2a (Генератор переноса инвертирующий с одним инверсным входом)
 
@@ -155,9 +155,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ## Ячейка 30 - oai21
 
-|![image](https://user-images.githubusercontent.com/5828819/176858461-752080b4-4bb8-45dd-83af-3c506128ef38.png)|![image](https://user-images.githubusercontent.com/15833655/176938592-fc952b5f-fa83-44c2-ae6d-1a6ba3cd8ad0.png)|
-|![oai21](https://user-images.githubusercontent.com/93550076/230901762-4019156c-962b-4f0c-bf6a-3a27db510ba2.JPG)
-|---|
+|![image](https://user-images.githubusercontent.com/5828819/176858461-752080b4-4bb8-45dd-83af-3c506128ef38.png)|![image](https://user-images.githubusercontent.com/15833655/176938592-fc952b5f-fa83-44c2-ae6d-1a6ba3cd8ad0.png)|![oai21](https://user-images.githubusercontent.com/93550076/230901762-4019156c-962b-4f0c-bf6a-3a27db510ba2.JPG)|
+|---|---|---|
 
 ## Ячейка 17 - and3
 
@@ -498,9 +497,8 @@ D-Latch с асинхронным сбросом
 
 ## Ячейка 86 - АОI31
 
-|![85](https://user-images.githubusercontent.com/93550076/192897238-fbdbe800-6b3f-4002-bc5c-809e459a4aa9.jpg)
-|![85tran](https://user-images.githubusercontent.com/93550076/192897292-99b9f09a-0a8f-4027-b0c5-985f798fffd1.JPG)
-|![aoi31](https://user-images.githubusercontent.com/93550076/192897315-ce318a51-f1ec-43ab-8e3d-99eb990ea7f8.png)|
+|![85](https://user-images.githubusercontent.com/93550076/192897238-fbdbe800-6b3f-4002-bc5c-809e459a4aa9.jpg)|![85tran](https://user-images.githubusercontent.com/93550076/192897292-99b9f09a-0a8f-4027-b0c5-985f798fffd1.JPG)|![aoi31](https://user-images.githubusercontent.com/93550076/192897315-ce318a51-f1ec-43ab-8e3d-99eb990ea7f8.png)|
+|---|---|---|
 
 ## Ячейка 87 - COMB1
 
