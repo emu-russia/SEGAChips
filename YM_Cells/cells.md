@@ -193,7 +193,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)|![image](https://user-images.githubusercontent.com/15833655/177050254-32e238dd-f082-4c2e-9fb1-1f1aa2835628.png)|![image](https://user-images.githubusercontent.com/5828819/176203046-43f896aa-574d-455b-9ce8-fea1b477f5df.png)|![image](https://user-images.githubusercontent.com/5828819/176493556-22f22cd5-7162-4f5b-9157-7b250db0d791.png)|![image](https://user-images.githubusercontent.com/5828819/176493595-0aa1802e-6ba5-40de-8548-4152e04746db.png)|
 |---|---|---|---|---|
 
-В единственном экземпляре в правом нижнем углу.
+## Ячейка 43 - AOI22
+|![image](https://user-images.githubusercontent.com/15833655/177300931-df448325-417f-4f5b-94a6-7814e6c43cfc.png)|![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)|![image](https://user-images.githubusercontent.com/15833655/177766024-4ff490df-c9c5-4cc2-94ae-9d462608a530.png)|![aoi22](https://user-images.githubusercontent.com/93550076/231237223-cd7dca77-d123-4185-b56b-8d229a9b1b4f.png)|
+|---|---|
 
 ## Ячейка 20 - not_strong (Мощный инвертер)
 
@@ -308,9 +310,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 42 - 4AND
 |![image](https://user-images.githubusercontent.com/15833655/177301630-ca6a2701-4004-4514-8b35-4def6f7555a6.png)|![image](https://user-images.githubusercontent.com/15833655/177211765-894395e7-c8d3-49a6-ac09-90090b4b6e7c.png)|![image](https://user-images.githubusercontent.com/15833655/177765145-7bd2855c-f19b-4419-ba10-abcfe3dcaedd.png)|
 |---|---|---|
-
-## Ячейка 43 - AOI22
-|![image](https://user-images.githubusercontent.com/15833655/177300931-df448325-417f-4f5b-94a6-7814e6c43cfc.png)|![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)|![image](https://user-images.githubusercontent.com/15833655/177766024-4ff490df-c9c5-4cc2-94ae-9d462608a530.png)|![aoi22](https://user-images.githubusercontent.com/93550076/231237223-cd7dca77-d123-4185-b56b-8d229a9b1b4f.png)|---|---|
 
 ## Ячейка 44 - AOI2222
 |![image](https://user-images.githubusercontent.com/15833655/177049999-be23771b-09de-4807-bc76-e7468b9ba411.png)|![image](https://user-images.githubusercontent.com/15833655/177768603-e3601243-c04a-40cf-82a0-18c7e7cbe555.png)|
