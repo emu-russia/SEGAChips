@@ -195,7 +195,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|---|---|
 
 ## Ячейка 43 - AOI22
-|![image](https://user-images.githubusercontent.com/15833655/177300931-df448325-417f-4f5b-94a6-7814e6c43cfc.png)|![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)|![aoi22](https://user-images.githubusercontent.com/93550076/231237223-cd7dca77-d123-4185-b56b-8d229a9b1b4f.png)|![image](https://user-images.githubusercontent.com/15833655/177766024-4ff490df-c9c5-4cc2-94ae-9d462608a530.png)|
+|![image](https://user-images.githubusercontent.com/15833655/177300931-df448325-417f-4f5b-94a6-7814e6c43cfc.png)|![image](https://user-images.githubusercontent.com/15833655/177049945-926df47b-cc80-46fe-8de8-70eb364eb083.png)|![aoi22](https://user-images.githubusercontent.com/93550076/231237223-cd7dca77-d123-4185-b56b-8d229a9b1b4f.png)|![aoi22](https://user-images.githubusercontent.com/93550076/231364391-4e666dc4-57ef-40f3-88b9-65af190d267a.png)|
 |---|---|---|---|
 
 ## Ячейка 20 - not_strong (Мощный инвертер)
