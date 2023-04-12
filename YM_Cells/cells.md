@@ -191,7 +191,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Обычно используется совместно с инвертором или comp weak для построения мультиплексора
 
-|![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)|![image](https://user-images.githubusercontent.com/15833655/177050254-32e238dd-f082-4c2e-9fb1-1f1aa2835628.png)|![image](https://user-images.githubusercontent.com/5828819/176203046-43f896aa-574d-455b-9ce8-fea1b477f5df.png)|![image](https://user-images.githubusercontent.com/5828819/176493556-22f22cd5-7162-4f5b-9157-7b250db0d791.png)|![image](https://user-images.githubusercontent.com/5828819/176493595-0aa1802e-6ba5-40de-8548-4152e04746db.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175959384-6d79e735-510f-4cd9-a2bb-2bce819033a5.png)|![image](https://user-images.githubusercontent.com/15833655/177050254-32e238dd-f082-4c2e-9fb1-1f1aa2835628.png)|![image](https://user-images.githubusercontent.com/5828819/176203046-43f896aa-574d-455b-9ce8-fea1b477f5df.png)|![image](https://user-images.githubusercontent.com/5828819/176493556-22f22cd5-7162-4f5b-9157-7b250db0d791.png)|![aon22 log](https://user-images.githubusercontent.com/93550076/231360264-33108afd-9e1b-4a8a-a11b-5138c82ba70f.png)|
 |---|---|---|---|---|
 
 ## Ячейка 43 - AOI22
