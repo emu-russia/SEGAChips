@@ -352,7 +352,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|---|
 
 ## Ячейка 53 - AON222
-|![image](https://user-images.githubusercontent.com/15833655/177304978-16f87ce9-f2de-4c5c-a00b-1ee1096eb14e.png)|![image](https://user-images.githubusercontent.com/15833655/177206849-7ef0d021-1ff9-440f-ab77-b4994fad75de.png)|![aon222](https://user-images.githubusercontent.com/93550076/232501616-94bdc941-bb96-4a4d-993e-45b5d50703f8.JPG)|![image](https://user-images.githubusercontent.com/15833655/177781888-f4c79a0c-b890-4d52-a193-35ba4c22672c.png)|
+|![image](https://user-images.githubusercontent.com/15833655/177304978-16f87ce9-f2de-4c5c-a00b-1ee1096eb14e.png)|![image](https://user-images.githubusercontent.com/15833655/177206849-7ef0d021-1ff9-440f-ab77-b4994fad75de.png)|![aon222](https://user-images.githubusercontent.com/93550076/232505680-dbe4a575-de10-445f-b3a8-914c465aa6cc.JPG)|![AON22 TRANS](https://user-images.githubusercontent.com/93550076/232505751-8263af07-f473-41a9-a8d1-e35e8401471a.png)|
 |---|---|---|---|
 
 ## Ячейка 66 - AOI222
