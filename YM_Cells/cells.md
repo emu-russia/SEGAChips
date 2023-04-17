@@ -274,11 +274,11 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 Линия задержки из динамических защелок. Считаем пары комплементарных клоков, затем делим на два и получаем величину задержки в тактах. В VDP применяются линии задержки на 7 и 8 тактов.
 |![image](https://user-images.githubusercontent.com/15833655/177043894-f7f59653-5823-4741-8651-60464f30e954.png)|![image](https://user-images.githubusercontent.com/15833655/177050308-37253a97-b2e8-4ca0-9ddb-cb7cfbb0e110.png)|![image](https://user-images.githubusercontent.com/15833655/177051302-2227d4a4-ce10-417a-9df5-9e1be1ebda5b.png)|![image](https://user-images.githubusercontent.com/15833655/177208111-4cb79f70-1135-4643-99ec-54f74a765d03.png)|![image](https://user-images.githubusercontent.com/15833655/177209035-110e6935-7d91-4dfc-9d9d-60d0c76e94b2.png)|![image](https://user-images.githubusercontent.com/15833655/177209765-12239bb7-4509-4b96-8f1b-cc50a13758c4.png)|![image](https://user-images.githubusercontent.com/15833655/177210693-e190f27d-9537-407f-8719-53f73074eecd.png)|![image](https://user-images.githubusercontent.com/15833655/177213956-c3ab1a51-2025-4941-a873-b63e67a768c0.png)|
 |---|---|---|---|---|---|---|---|
-|![delay](https://user-images.githubusercontent.com/93550076/232510153-1d2322fd-4a4a-4017-a1ff-33f4cd936b3e.png)|
-|---|
 
 |![image](https://user-images.githubusercontent.com/15833655/177317480-bdeaffd3-cb51-47e6-9849-f514841394cd.png)|![image](https://user-images.githubusercontent.com/15833655/177317757-43ee29ad-379e-46a8-93dd-f19b98e3261f.png)|![image](https://user-images.githubusercontent.com/15833655/177844078-c27d0b04-3fdc-42d0-99da-98b7bde2ce0a.png)|
 |---|---|---|
+
+![delay](https://user-images.githubusercontent.com/93550076/232510153-1d2322fd-4a4a-4017-a1ff-33f4cd936b3e.png)
 
 ## Ячейка 35 - 5OR
 |![image](https://user-images.githubusercontent.com/15833655/177301325-e5f1c1ed-a966-4e9c-ac96-706601c2680b.png)|![image](https://user-images.githubusercontent.com/15833655/177044042-da49c5d3-f669-48fd-9878-672c309d1e0c.png)|![image](https://user-images.githubusercontent.com/15833655/177332166-4163959f-94b2-424b-a5ed-e50151301988.png)|
