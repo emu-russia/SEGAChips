@@ -6,7 +6,7 @@ This is a small sub-project to rebuild the VDP PSG circuit.
 
 Not so long ago we received a VDP of a Sega for analysis. The chip was damaged during the opening, but by some magical coincidence the broken off piece clearly contains the whole PSG. This is destiny!
 
-![vdp-damaged-chip](imgstore/vdp-damaged-chip.png)
+![vdp-damaged-chip](../imgstore/vdp-damaged-chip.png)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ The project promises to be uncomplicated and interesting.
 
 The broken off piece has already been photographed at 40x, the first thing to do is stitch the slides together:
 
-![vdp-slides](imgstore/vdp-slides.png)
+![vdp-slides](../imgstore/vdp-slides.png)
 
 And then the standard Workflow for learning about chips:
 - Trace the wires

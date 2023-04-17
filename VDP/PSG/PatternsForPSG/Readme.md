@@ -15,7 +15,7 @@ This section contains a database of cells for use in the [Patterns](https://gith
 
 По итогам стало очень легко запутаться - где nand, а где nor, т.к. никаких визуальных пометок они не оставили:
 
-![image](/imgstore/183283453-cbb36bbc-ed5c-4826-ab9e-c60ed83dd71c.png)
+![image](../imgstore/183283453-cbb36bbc-ed5c-4826-ab9e-c60ed83dd71c.png)
 
 Но если присмотреться и подумать, то можно открыть такое правило:
 - В одном ряду ячеек НЕ может быть и NORM и FLIP ячеек. Может быть только NORM / NORM+MIRR или FLIP / FLIP+MIRR.
@@ -25,11 +25,11 @@ This section contains a database of cells for use in the [Patterns](https://gith
 
 Открываем картинку ячейки в Deroute и добавляем порты. Не забыть в настройках Deroute выставить лямбду, соответствующую ячейкам.
 
-![image](/imgstore/183293003-ef1cd747-3c70-43cf-828a-643b57fe994f.png)
+![image](../imgstore/183293003-ef1cd747-3c70-43cf-828a-643b57fe994f.png)
 
 Сохраняем сущности и переносим X/Y координаты портов в базу данных:
 
-![image](/imgstore/183293044-101388c8-94b5-4206-8e6b-18eb482da25e.png)
+![image](../imgstore/183293044-101388c8-94b5-4206-8e6b-18eb482da25e.png)
 
 ```
 pattern aon2222, CellAdder, 6.0, 0, 0, "VDPCells/aon2222.jpg"
