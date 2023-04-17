@@ -1,0 +1,11 @@
++ Channel vias
+- Cells diffusion
+- Cells poly
+- Cells vias
+- Channel poly
+- VDD/Ground vias
+- DAC vias
+- Misc missing vias
+- Left wire arc
+- Cell names
+- Wire names

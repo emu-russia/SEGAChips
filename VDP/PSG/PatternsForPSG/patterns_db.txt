@@ -1,0 +1,207 @@
+# VDP PSG Cells Library (lambda = 6.0)
+
+# Pattern Syntax:
+# pattern name, type, source_lambda, pcount, ncount, image_path
+# Pattern types: CellNot, CellBuffer, CellMux, CellLogic, CellAdder, CellBusSupp, CellFlipFlop, CellLatch, CellOther
+
+# Vias Syntax:
+# vias pattern_name, vias_name, offset_x, offset_y, type, reserved
+# Vias types: ViasInput, ViasOutput, ViasInout
+
+pattern not, CellNot, 6.0, 0, 0, "VDPCells/not.jpg"
+vias not, a, 2.06, 24.98, ViasInput, 0
+vias not, x, 6.78, 14.01, ViasOutput, 0
+
+pattern nor, CellLogic, 6.0, 0, 0, "VDPCells/nor.jpg"
+vias nor, a, 7.69, 22.66, ViasInput, 0
+vias nor, b, 5.60, 22.58, ViasInput, 0
+vias nor, x, 1.27, 11.41, ViasOutput, 0
+
+pattern nand, CellLogic, 6.0, 0, 0, "VDPCells/nand.jpg"
+vias nand, a, 7.39, 24.41, ViasInput, 0
+vias nand, b, 5.47, 24.41, ViasInput, 0
+vias nand, x, 1.39, 15.24, ViasOutput, 0
+
+pattern and, CellLogic, 6.0, 0, 0, "VDPCells/and.jpg"
+vias and, a, 9.28, 22.27, ViasInput, 0
+vias and, b, 11.30, 22.34, ViasInput, 0
+vias and, x, 1.44, 12.97, ViasOutput, 0
+
+pattern and3, CellLogic, 6.0, 0, 0, "VDPCells/and3.jpg"
+vias and3, a, 3.02, 22.20, ViasInput, 0
+vias and3, b, 5.03, 22.14, ViasInput, 0
+vias and3, c, 6.87, 22.20, ViasInput, 0
+vias and3, x, 15.90, 12.14, ViasOutput, 0
+
+pattern aoi21, CellLogic, 6.0, 0, 0, "VDPCells/aoi21.jpg"
+vias aoi21, a, 1.95, 21.71, ViasInput, 0
+vias aoi21, b, 8.27, 1.61, ViasInput, 0
+vias aoi21, c, 10.33, 1.61, ViasInput, 0
+vias aoi21, x, 11.65, 11.32, ViasOutput, 0
+
+pattern aon22, CellLogic, 6.0, 0, 0, "VDPCells/aon22.jpg"
+vias aon22, a, 14.94, 22.76, ViasInput, 0
+vias aon22, b, 13.11, 22.71, ViasInput, 0
+vias aon22, c, 11.29, 22.77, ViasInput, 0
+vias aon22, d, 9.46, 22.70, ViasInput, 0
+vias aon22, x, 1.23, 10.77, ViasOutput, 0
+
+pattern aon2222, CellAdder, 6.0, 0, 0, "VDPCells/aon2222.jpg"
+vias aon2222, a, 35.25, 22.25, ViasInput, 0
+vias aon2222, b, 33.45, 22.18, ViasInput, 0
+vias aon2222, c, 31.43, 22.18, ViasInput, 0
+vias aon2222, d, 29.49, 22.18, ViasInput, 0
+vias aon2222, e, 15.88, 22.39, ViasInput, 0
+vias aon2222, f, 14.28, 22.39, ViasInput, 0
+vias aon2222, g, 12.33, 22.39, ViasInput, 0
+vias aon2222, h, 10.32, 22.38, ViasInput, 0
+vias aon2222, x, 1.43, 12.11, ViasOutput, 0
+
+pattern not_super, CellNot, 6.0, 0, 0, "VDPCells/not_super.jpg"
+vias not_super, a, 2.13, 22.45, ViasInput, 0
+vias not_super, x, 11.92, 12.45, ViasOutput, 0
+
+pattern cgi2a, CellAdder, 6.0, 0, 0, "VDPCells/cgi2a.jpg"
+vias cgi2a, a, 20.50, 22.47, ViasInput, 0
+vias cgi2a, b, 14.18, 22.47, ViasInput, 0
+vias cgi2a, c, 10.43, 22.47, ViasInput, 0
+vias cgi2a, x, 1.54, 12.05, ViasOutput, 0
+
+pattern clkgen, CellOther, 6.0, 0, 0, "VDPCells/clkgen.jpg"
+vias clkgen, ph, 2.11, 2.44, ViasInput, 0
+vias clkgen, ck1, 39.20, 17.86, ViasOutput, 0
+vias clkgen, nck1, 62.04, 7.47, ViasOutput, 0
+vias clkgen, ck2, 121.28, 17.36, ViasOutput, 0
+vias clkgen, nck2, 144.28, 5.19, ViasOutput, 0
+
+pattern cnt_bit, CellAdder, 6.0, 0, 0, "VDPCells/cnt_bit.jpg"
+vias cnt_bit, a, 1.86, 22.47, ViasInput, 0
+vias cnt_bit, b, 17.12, 22.55, ViasInput, 0
+vias cnt_bit, c1, 23.61, 22.73, ViasInput, 0
+vias cnt_bit, nc1, 23.87, 1.41, ViasInput, 0
+vias cnt_bit, c2, 32.38, 22.64, ViasInput, 0
+vias cnt_bit, nc2, 32.65, 1.68, ViasInput, 0
+vias cnt_bit, c, 9.49, 4.84, ViasOutput, 0
+vias cnt_bit, s, 48.96, 14.05, ViasOutput, 0
+
+pattern comp_dff, CellFlipFlop, 6.0, 0, 0, "VDPCells/comp_dff.jpg"
+vias comp_dff, a, 3.58, 22.80, ViasInput, 0
+vias comp_dff, c1, 5.43, 22.80, ViasInput, 0
+vias comp_dff, nc1, 4.74, 1.53, ViasInput, 0
+vias comp_dff, c2, 25.77, 22.56, ViasInput, 0
+vias comp_dff, nc2, 26.28, 1.79, ViasInput, 0
+vias comp_dff, q, 33.65, 14.35, ViasOutput, 0
+
+pattern comp_strong, CellBuffer, 6.0, 0, 0, "VDPCells/comp_strong.jpg"
+vias comp_strong, a, 9.54, 2.11, ViasInput, 0
+vias comp_strong, x, 1.08, 12.11, ViasOutput, 0
+vias comp_strong, nx, 4.03, 22.62, ViasOutput, 0
+
+pattern comp_weak, CellBuffer, 6.0, 0, 0, "VDPCells/comp_weak.jpg"
+vias comp_weak, a, 1.98, 24.29, ViasInput, 0
+vias comp_weak, x, 10.89, 24.42, ViasOutput, 0
+vias comp_weak, nx, 8.07, 24.42, ViasOutput, 0
+
+pattern dlatch, CellLatch, 6.0, 0, 0, "VDPCells/dlatch.jpg"
+vias dlatch, a, 22.68, 21.92, ViasInput, 0
+vias dlatch, c1, 18.00, 22.24, ViasInput, 0
+vias dlatch, nc1, 17.68, 1.66, ViasInput, 0
+vias dlatch, q, 1.46, 12.18, ViasOutput, 0
+
+pattern ha, CellAdder, 6.0, 0, 0, "VDPCells/ha.jpg"
+vias ha, a, 26.23, 22.24, ViasInput, 0
+vias ha, b, 24.14, 22.27, ViasInput, 0
+vias ha, c, 12.83, 1.86, ViasOutput, 0
+vias ha, s, 3.17, 12.62, ViasOutput, 0
+
+pattern lfsr_bit, CellLatch, 6.0, 0, 0, "VDPCells/lfsr_bit.jpg"
+vias lfsr_bit, a, 1.91, 2.11, ViasInput, 0
+vias lfsr_bit, b, 5.89, 2.05, ViasInput, 0
+vias lfsr_bit, c, 7.91, 2.08, ViasInput, 0
+vias lfsr_bit, c1, 12.36, 22.62, ViasInput, 0
+vias lfsr_bit, nc1, 12.30, 1.73, ViasInput, 0
+vias lfsr_bit, c2, 20.31, 22.56, ViasInput, 0
+vias lfsr_bit, nc2, 20.50, 1.73, ViasInput, 0
+vias lfsr_bit, q, 29.35, 11.79, ViasOutput, 0
+
+pattern nand3, CellLogic, 6.0, 0, 0, "VDPCells/nand3.jpg"
+vias nand3, a, 9.93, 24.48, ViasInput, 0
+vias nand3, b, 8.07, 24.48, ViasInput, 0
+vias nand3, c, 6.21, 24.48, ViasInput, 0
+vias nand3, x, 1.53, 14.48, ViasOutput, 0
+
+pattern nor3, CellLogic, 6.0, 0, 0, "VDPCells/nor3.jpg"
+vias nor3, a, 9.80, 2.11, ViasInput, 0
+vias nor3, b, 7.87, 2.11, ViasInput, 0
+vias nor3, c, 6.02, 2.18, ViasInput, 0
+vias nor3, x, 1.27, 12.37, ViasOutput, 0
+
+pattern not_strong, CellNot, 6.0, 0, 0, "VDPCells/not_strong.jpg"
+vias not_strong, a, 6.21, 22.11, ViasInput, 0
+vias not_strong, x, 1.21, 12.05, ViasOutput, 0
+
+pattern notif0, CellBusSupp, 6.0, 0, 0, "VDPCells/notif0.jpg"
+vias notif0, a, 8.58, 2.11, ViasInput, 0
+vias notif0, ne, 1.85, 2.30, ViasInput, 0
+vias notif0, nx, 12.68, 12.30, ViasOutput, 0
+
+pattern oai21, CellLogic, 6.0, 0, 0, "VDPCells/oai21.jpg"
+vias oai21, a, 1.72, 21.98, ViasInput, 0
+vias oai21, b, 8.00, 21.92, ViasInput, 0
+vias oai21, c, 10.12, 21.85, ViasInput, 0
+vias oai21, x, 11.72, 12.30, ViasOutput, 0
+
+pattern or, CellLogic, 6.0, 0, 0, "VDPCells/or.jpg"
+vias or, a, 8.90, 22.43, ViasInput, 0
+vias or, b, 7.04, 22.50, ViasInput, 0
+vias or, x, 1.59, 11.47, ViasOutput, 0
+
+pattern or3, CellLogic, 6.0, 0, 0, "VDPCells/or3.jpg"
+vias or3, a, 2.87, 1.98, ViasInput, 0
+vias or3, b, 4.86, 1.92, ViasInput, 0
+vias or3, c, 6.72, 1.92, ViasInput, 0
+vias or3, x, 15.63, 12.18, ViasOutput, 0
+
+pattern rs, CellFlipFlop, 6.0, 0, 0, "VDPCells/rs.jpg"
+vias rs, s, 1.66, 22.75, ViasInput, 0
+vias rs, r, 12.87, 22.82, ViasInput, 0
+vias rs, q, 23.20, 10.70, ViasOutput, 0
+vias rs, nq, 21.59, 22.94, ViasOutput, 0
+
+pattern slatch_inv, CellLatch, 6.0, 0, 0, "VDPCells/slatch_inv.jpg"
+vias slatch_inv, a, 5.63, 1.53, ViasInput, 0
+vias slatch_inv, c1, 1.85, 22.18, ViasInput, 0
+vias slatch_inv, nc1, 1.91, 1.60, ViasInput, 0
+vias slatch_inv, nq, 10.95, 11.60, ViasOutput, 0
+
+pattern sr_bit, CellLatch, 6.0, 0, 0, "VDPCells/sr_bit.jpg"
+vias sr_bit, a, 16.72, 22.30, ViasInput, 0
+vias sr_bit, c1, 12.75, 22.43, ViasInput, 0
+vias sr_bit, nc1, 12.49, 1.60, ViasInput, 0
+vias sr_bit, c2, 8.84, 22.43, ViasInput, 0
+vias sr_bit, nc2, 8.77, 1.66, ViasInput, 0
+vias sr_bit, q, 1.46, 12.30, ViasOutput, 0
+
+pattern xor, CellLogic, 6.0, 0, 0, "VDPCells/xor.jpg"
+vias xor, a, 3.07, 22.18, ViasInput, 0
+vias xor, b, 7.75, 2.05, ViasInput, 0
+vias xor, x, 22.43, 11.85, ViasOutput, 0
+
+pattern nand4, CellLogic, 6.0, 0, 0, "VDPCells/nand4.jpg"
+vias nand4, a, 2.94, 22.24, ViasInput, 0
+vias nand4, b, 4.73, 22.30, ViasInput, 0
+vias nand4, c, 6.66, 22.30, ViasInput, 0
+vias nand4, d, 8.45, 22.43, ViasInput, 0
+vias nand4, x, 13.58, 13.07, ViasOutput, 0
+
+pattern nor4, CellLogic, 6.0, 0, 0, "VDPCells/nor4.jpg"
+vias nor4, a, 2.94, 2.30, ViasInput, 0
+vias nor4, b, 4.99, 2.30, ViasInput, 0
+vias nor4, c, 6.91, 2.37, ViasInput, 0
+vias nor4, d, 8.64, 2.37, ViasInput, 0
+vias nor4, x, 13.64, 11.73, ViasOutput, 0
+
+# Unknown / Garbage
+
+pattern UNK_MED, CellOther, 6.0, 0, 0, "VDPCells/UNK_MED.jpg"
+pattern GARBAGE, CellOther, 6.0, 0, 0, "VDPCells/GARBAGE.jpg"
