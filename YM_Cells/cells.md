@@ -352,8 +352,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|---|
 
 ## Ячейка 53 - AON222
-|![image](https://user-images.githubusercontent.com/15833655/177304978-16f87ce9-f2de-4c5c-a00b-1ee1096eb14e.png)|![image](https://user-images.githubusercontent.com/15833655/177206849-7ef0d021-1ff9-440f-ab77-b4994fad75de.png)|![image](https://user-images.githubusercontent.com/15833655/177781888-f4c79a0c-b890-4d52-a193-35ba4c22672c.png)|
-|---|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177304978-16f87ce9-f2de-4c5c-a00b-1ee1096eb14e.png)|![image](https://user-images.githubusercontent.com/15833655/177206849-7ef0d021-1ff9-440f-ab77-b4994fad75de.png)|![aon222](https://user-images.githubusercontent.com/93550076/232501616-94bdc941-bb96-4a4d-993e-45b5d50703f8.JPG)|![image](https://user-images.githubusercontent.com/15833655/177781888-f4c79a0c-b890-4d52-a193-35ba4c22672c.png)|
+|---|---|---|---|
+
+## Ячейка 66 - AOI222
+|![image](https://user-images.githubusercontent.com/15833655/177319348-407ebdad-e20a-4309-b47d-ef2c92756e77.png)|![image](https://user-images.githubusercontent.com/15833655/177212200-64a26137-2798-46eb-82ea-b2cacb99c370.png)|![image](https://user-images.githubusercontent.com/93550076/191114228-5566e037-4d34-4b73-a9ec-d9eeb76a00a2.png)|![image](https://user-images.githubusercontent.com/15833655/177829127-75954206-3ddc-4702-8262-7a3a350123dc.png)|
+|---|---|---|---|
 
 ## Ячейкв 54 - AOI222222
 |![image](https://user-images.githubusercontent.com/15833655/177207913-dc4f4640-4faf-45f8-97c6-9f551d4d4dcb.png)|![image](https://user-images.githubusercontent.com/15833655/177784167-bc48502f-e4fb-4147-ae9d-90f7d723bea9.png)|
@@ -404,10 +408,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 65
 |![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|![image](https://user-images.githubusercontent.com/15833655/177827902-a10e1ec4-50f5-4882-9c32-b9f998aaba51.png)|
 |---|---|
-
-## Ячейка 66 - AOI222
-|![image](https://user-images.githubusercontent.com/15833655/177319348-407ebdad-e20a-4309-b47d-ef2c92756e77.png)|![image](https://user-images.githubusercontent.com/15833655/177212200-64a26137-2798-46eb-82ea-b2cacb99c370.png)|![image](https://user-images.githubusercontent.com/93550076/191114228-5566e037-4d34-4b73-a9ec-d9eeb76a00a2.png)|![image](https://user-images.githubusercontent.com/15833655/177829127-75954206-3ddc-4702-8262-7a3a350123dc.png)|
-|---|---|---|---|
 
 ## Ячейка 67 - OR8
 |![image](https://user-images.githubusercontent.com/15833655/177318872-58145f01-b7c6-4bfe-81c7-fff5415975d6.png)|![image](https://user-images.githubusercontent.com/15833655/177213147-0e1e9544-4163-4d1b-9d58-07450e058096.png)|![image](https://user-images.githubusercontent.com/15833655/229513183-fb0f081d-6467-4bb4-8232-85bb3695744e.png)|![image](https://user-images.githubusercontent.com/15833655/177829825-ab6ef94a-b65c-4635-b753-c2ea98228d07.png)|
