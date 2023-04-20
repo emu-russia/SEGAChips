@@ -560,3 +560,7 @@ D-Latch с асинхронным сбросом
 
 |![99tr](https://user-images.githubusercontent.com/93550076/230733316-bf40eaf5-cd81-4a5c-8189-aae124b4b5c8.PNG)|![99](https://user-images.githubusercontent.com/93550076/230733321-d411e760-207e-46be-916e-48b42e7c4356.JPG)|
 |---|---|
+
+## Ячейка 100
+![image](https://user-images.githubusercontent.com/15833655/233264526-a6aadc4c-f251-44da-baaf-6ee2ca2360c4.png)
+
