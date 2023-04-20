@@ -528,19 +528,19 @@ D-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)|
 |---|
 
-## Ячейка 93
+## Ячейка 93 - pos-edge cnt_bit
 |![image](https://user-images.githubusercontent.com/15833655/229506922-7e0be65f-4894-481f-8def-f20a4b88bc0c.png)|![image](https://user-images.githubusercontent.com/15833655/230457203-590468c8-95a6-4d1e-b1d1-2b662d8d5768.png)|
 |---|---|
 
-## Ячейка 94
+## Ячейка 94 - pos-edge dff, inv set
 |![image](https://user-images.githubusercontent.com/15833655/229507493-dbb7b7ef-092b-4dda-a759-ca773bb05388.png)|![image](https://user-images.githubusercontent.com/15833655/230457483-72bb9a8d-dcfd-4cdb-887f-ece8ceac56f5.png)|
 |---|---|
 
-## Ячейка 95
+## Ячейка 95 - pos-edge dff, inv reset
 |![image](https://user-images.githubusercontent.com/15833655/229508015-88db650e-2154-4749-b363-b51a1885cb99.png)|![image](https://user-images.githubusercontent.com/15833655/230457767-46db3abc-cf47-45e6-b094-dace155d54eb.png)
 |---|---|
 
-## Ячейка 96
+## Ячейка 96 - pos-edge dff
 |![image](https://user-images.githubusercontent.com/15833655/229508486-a4d1571c-1964-46da-846d-f8b389fefd2b.png)|![image](https://user-images.githubusercontent.com/15833655/230457658-895a2b25-a323-40d2-a807-0948fe38c8b3.png)|
 |---|---|
 
@@ -561,7 +561,7 @@ D-Latch с асинхронным сбросом
 |![99tr](https://user-images.githubusercontent.com/93550076/230733316-bf40eaf5-cd81-4a5c-8189-aae124b4b5c8.PNG)|![99](https://user-images.githubusercontent.com/93550076/230733321-d411e760-207e-46be-916e-48b42e7c4356.JPG)|
 |---|---|
 
-## Ячейка 100
+## Ячейка 100 - pos-edge dff, inv set, inv reset
 |![image](https://user-images.githubusercontent.com/15833655/233264526-a6aadc4c-f251-44da-baaf-6ee2ca2360c4.png)|![image](https://user-images.githubusercontent.com/15833655/233271887-17e1b40a-8e76-4f1c-943f-5a7c4daad0e0.png)|![image](https://user-images.githubusercontent.com/15833655/233271933-b12dbbac-031a-4a8c-8897-9d8f43412eb7.png)|
 |---|---|---|
 
