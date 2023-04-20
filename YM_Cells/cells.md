@@ -513,10 +513,10 @@ D-Latch с асинхронным сбросом
 |![87tran](https://user-images.githubusercontent.com/93550076/193691039-ef7d618e-7bfd-4ba4-953f-fe3475e32a55.JPG)|![87tr](https://user-images.githubusercontent.com/93550076/193691072-60a047be-72f4-46e8-bad5-511e4dc931c8.png)|
 |---|---|
 
-## Ячейка 89 - ?
+## Ячейка 89 - COMP_WE  STRONG
 
-|![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)|
-|---|
+|![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)|![89 topo](https://user-images.githubusercontent.com/93550076/233296826-c9577415-b443-45fb-918e-28dde781a3a5.JPG)|![89 LOG](https://user-images.githubusercontent.com/93550076/233297289-1064f110-8959-4ebb-8a81-fd79c9e5bbfb.png)|
+|---|---|---|
 
 ## Ячейка 90 - NOR12
 
