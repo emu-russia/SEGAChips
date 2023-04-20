@@ -515,7 +515,7 @@ D-Latch с асинхронным сбросом
 
 ## Ячейка 89 - COMP_WE  STRONG
 
-|![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)|![89 topo](https://user-images.githubusercontent.com/93550076/233296826-c9577415-b443-45fb-918e-28dde781a3a5.JPG)|![89 LOG](https://user-images.githubusercontent.com/93550076/233297289-1064f110-8959-4ebb-8a81-fd79c9e5bbfb.png)|
+|![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)|![89 topo](https://user-images.githubusercontent.com/93550076/233296826-c9577415-b443-45fb-918e-28dde781a3a5.JPG)|![89 LOG2](https://user-images.githubusercontent.com/93550076/233297733-719c7bd6-c898-4d02-89b0-b99832ebb15b.png)|
 |---|---|---|
 
 ## Ячейка 90 - NOR12
