@@ -565,5 +565,8 @@ D-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/15833655/233264526-a6aadc4c-f251-44da-baaf-6ee2ca2360c4.png)|![image](https://user-images.githubusercontent.com/15833655/233271887-17e1b40a-8e76-4f1c-943f-5a7c4daad0e0.png)|![image](https://user-images.githubusercontent.com/15833655/233271933-b12dbbac-031a-4a8c-8897-9d8f43412eb7.png)|
 |---|---|---|
 
+## Ячейка 101 - nand6
+![image](https://user-images.githubusercontent.com/15833655/233791356-704e01e2-a5fe-4bb1-9238-86c488d8b9b2.png)
+
 
 
