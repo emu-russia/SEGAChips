@@ -1269,7 +1269,7 @@
     <comp lib="1" loc="(760,7010)" name="OR Gate">
       <a name="size" val="30"/>
     </comp>
-    <comp lib="1" loc="(770,6810)" name="NOR Gate">
+    <comp lib="1" loc="(770,6810)" name="NAND Gate">
       <a name="size" val="30"/>
     </comp>
     <comp lib="1" loc="(770,6890)" name="NOR Gate">
