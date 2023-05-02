@@ -408,7 +408,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 61 - AON21SR
 
 Комбинация из AON21 и разряда сдвигового регистра.
-|![image](https:/user-images.githubusercontent.com/15833655/177323884-68e87d91-bfa9-448d-8219-cd9e795e17d3.png)|![image](https://user-images.githubusercontent.com/15833655/177210153-e5a97626-909f-4018-b2e7-78241350480b.png)|![image](https://user-images.githubusercontent.com/15833655/177812199-9c01e675-2ef0-433a-baed-5079e99a067c.png)|
+|![61 TRAN](https://user-images.githubusercontent.com/93550076/235714384-140cddaf-be1f-47b4-ba11-fd84381b809a.PNG)|![image](https://user-images.githubusercontent.com/15833655/177210153-e5a97626-909f-4018-b2e7-78241350480b.png)|![image](https://user-images.githubusercontent.com/15833655/177812199-9c01e675-2ef0-433a-baed-5079e99a067c.png)|
 |---|---|---|
 
 ## Ячейка 62 - AOI221
