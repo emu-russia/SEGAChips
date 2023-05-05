@@ -11,3 +11,5 @@
 Также решили копнуть Z80 (CMOS-версии). Его можно потом переиспользовать и для других систем/эмуляторов.
 
 Датасеты: https://drive.google.com/drive/folders/1jq61bsFvKCBwnMb2Zo0d7TBnZMjAo-OY
+
+Тут ещё один парень делает фотки VDP: http://ic.onidev.fr/map/FC1001-POLY-P1.html
