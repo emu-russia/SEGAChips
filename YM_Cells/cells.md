@@ -54,7 +54,7 @@
 
 Статическая защелка. 
 
-|![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/15833655/176936749-4491ecec-201f-4cd7-80fd-d0e0f71aadcb.png)||![slatch](https://user-images.githubusercontent.com/93550076/236634341-00e174c8-1fac-4cb7-b836-8b5a769aa4c3.png)|![SLATCH LOG](https://user-images.githubusercontent.com/93550076/236634381-0572e44e-a7e5-421d-a6c8-b95ffbc7dd30.png)|
+|![image](https://user-images.githubusercontent.com/5828819/175957768-2fb18bf3-0f28-4936-ae84-23d2bfefcf88.png)|![image](https://user-images.githubusercontent.com/15833655/176936749-4491ecec-201f-4cd7-80fd-d0e0f71aadcb.png)|![slatch](https://user-images.githubusercontent.com/93550076/236634341-00e174c8-1fac-4cb7-b836-8b5a769aa4c3.png)|![SLATCH LOG](https://user-images.githubusercontent.com/93550076/236634381-0572e44e-a7e5-421d-a6c8-b95ffbc7dd30.png)|
 |---|---|---|---|
 
 Комплементарный Enable вход.
