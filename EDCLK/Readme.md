@@ -6,7 +6,19 @@ Used in MD1VA0.
 TBD.
 
 ## Sega 315-5339
+
 Used in MD1VA1. Probably equivalent to MD1VA0.
+
+![md1va1/315-5339-package.jpg](md1va1/315-5339-package.jpg)
+
+![md1va1/315-5339-Fused_sm.jpg](md1va1/315-5339-Fused_sm.jpg)
+
+- NEC 65005-302
+- ULA is used
+- Two metal layers
+- Pockets are always on the right
+
+https://drive.google.com/drive/u/0/folders/19Mp-eKXWyN-YTMmKZN7sT4CFiTHb6Ubb
 
 TBD.
 
