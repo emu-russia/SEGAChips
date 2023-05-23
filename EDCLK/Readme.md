@@ -1,5 +1,9 @@
 # EDCLK generator & work RAM fix
 
+TODO: Рассказать зачем нужен EDCLK, что это за зверь
+
+TODO: Рассказать зачем нужен Work RAM Fix
+
 ## 74-series logic
 Used in MD1VA0.
 
