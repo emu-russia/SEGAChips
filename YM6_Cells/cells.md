@@ -34,8 +34,10 @@
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/06a98861-087a-4030-bc89-63a048002002)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/dcada0d7-3845-4b46-aedd-16d10ccd355b)|
 |---|---|
 
-## Ячейка 8
-![image](https://user-images.githubusercontent.com/15833655/182610190-74d0761b-7fb1-429b-ae94-30c862fb7f73.png)
+## Ячейка 8 - nor(?)
+
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ff90a5fc-cab9-44e6-b6ee-eca1d48924be)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2179ecab-2eb8-4754-b9a1-3a2c54d18b42)|
+|---|---|
 
 ## Ячейка 9
 ![image](https://user-images.githubusercontent.com/15833655/182610406-1b27c8a5-c040-4899-903e-6e0bf94d27e4.png)
