@@ -36,16 +36,14 @@
 ## Ячейка 9
 ![image](https://user-images.githubusercontent.com/15833655/182610406-1b27c8a5-c040-4899-903e-6e0bf94d27e4.png)
 
-## Ячейка 10
-![image](https://user-images.githubusercontent.com/15833655/182610560-ddaefb5e-2bf0-4d73-bd9a-30bbd7bb9052.png)
+## Ячейка 10 - and
+
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/be373ba2-25ab-434d-951f-6ae4e03052a9)|![image](https://user-images.githubusercontent.com/15833655/184318071-bf3fea1d-3d39-428e-a801-d0a62f9739ef.png)|![image](https://user-images.githubusercontent.com/15833655/184318523-de571af4-4c31-45e1-a910-c7aeb3ede0c5.png)|
+|---|---|---|
 
 ## Ячейка 11 - GND
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7dd87fb5-7926-4321-8dc5-8921838dc1bc)|![image](https://user-images.githubusercontent.com/15833655/184317169-7c8d80fa-8ba6-45b5-b495-189c3ae24e89.png)|![image](https://user-images.githubusercontent.com/15833655/184318239-28b83c93-3b7a-42ff-8fb9-0e7a1c6988cd.png)|
 |---|---|---|
-
-## Ячейка 12 - and
-|![image](https://user-images.githubusercontent.com/15833655/184318071-bf3fea1d-3d39-428e-a801-d0a62f9739ef.png)|![image](https://user-images.githubusercontent.com/15833655/184318523-de571af4-4c31-45e1-a910-c7aeb3ede0c5.png)|
-|---|---|
 
 ## Ячейка 13 - NAND
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7c472678-446e-4afc-99bb-6482afef4347)|![image](https://user-images.githubusercontent.com/15833655/184319151-45780f2d-199f-4b65-8082-b00d8641a896.png)|![image](https://user-images.githubusercontent.com/15833655/184319214-d64b1fb3-517c-43ba-a048-3197100873aa.png)|
