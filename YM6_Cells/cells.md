@@ -54,8 +54,8 @@
 |---|---|
 
 ## Ячейка 15 3-NAND
-|![image](https://user-images.githubusercontent.com/15833655/184319629-c1870c50-d5e2-49e4-afb0-1ebe33dd79f9.png)|![image](https://user-images.githubusercontent.com/15833655/184319668-1a4040fe-4173-44e5-9816-1c9f8fff976f.png)|
-|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/03d1c9b1-9901-4daa-982a-e0ff1e0d2723)|![image](https://user-images.githubusercontent.com/15833655/184319629-c1870c50-d5e2-49e4-afb0-1ebe33dd79f9.png)|![image](https://user-images.githubusercontent.com/15833655/184319668-1a4040fe-4173-44e5-9816-1c9f8fff976f.png)|
+|---|---|---|
 
 ## Ячейка - VDD
 |![image](https://user-images.githubusercontent.com/15833655/184319875-d99db17b-69a2-45e4-a24a-ef2c31b937b6.png)|![image](https://user-images.githubusercontent.com/15833655/184319934-dcebb8a7-4217-4fdf-b46e-29ace9bf4d7d.png)|
