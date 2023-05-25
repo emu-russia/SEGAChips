@@ -139,3 +139,7 @@ DFF по нарастающему фронту (posedge) с инверсным �
 ## Ячейка 21 - or4
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c022b3a1-4b6a-4ea5-9b98-80eab4bad27b)
+
+## Ячейка 22 - 4-bit mux(?)
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8df190b1-fccb-4807-a4f3-a78d8e643f3b)
