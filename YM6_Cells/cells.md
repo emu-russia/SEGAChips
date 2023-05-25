@@ -147,3 +147,8 @@ DFF по нарастающему фронту (posedge) с инверсным �
 ## Ячейка 23 - and8(?)
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/415bc692-d6ac-4ac1-8c0f-407c2cfaa368)
+
+## Ячейка 24 - and6(?)
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7b8b1a01-8046-441d-ae8e-ab696b9e195e)
+
