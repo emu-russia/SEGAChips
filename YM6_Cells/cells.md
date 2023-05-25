@@ -33,7 +33,7 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/a38c69b1-3175-4910-8a9d-136873c55daf)|![image](https://user-images.githubusercontent.com/15833655/182608765-c13265dc-6595-4821-a023-44ffc0f6c84a.png)|![image](https://user-images.githubusercontent.com/15833655/184319629-c1870c50-d5e2-49e4-afb0-1ebe33dd79f9.png)|![image](https://user-images.githubusercontent.com/15833655/184319668-1a4040fe-4173-44e5-9816-1c9f8fff976f.png)|
 |---|---|---|---|
 
-## Ячейка 5
+## Ячейка 5 - nand
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7c472678-446e-4afc-99bb-6482afef4347)|![image](https://user-images.githubusercontent.com/15833655/182608855-4c07015a-49ac-4864-a073-eec6b88ab97c.png)|![image](https://user-images.githubusercontent.com/15833655/184319151-45780f2d-199f-4b65-8082-b00d8641a896.png)|![image](https://user-images.githubusercontent.com/15833655/184319214-d64b1fb3-517c-43ba-a048-3197100873aa.png)|
 |---|---|---|---|
 
