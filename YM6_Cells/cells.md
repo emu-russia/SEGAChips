@@ -12,8 +12,16 @@
 ![image](https://user-images.githubusercontent.com/5828819/184408097-e97e2e86-08a5-465c-8f93-530f4c49a4dc.png)
 (и ещё 20 мемов про две полоски)
 
-## Ячейка 2
-![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)
+## Ячейка 2 - dffrpos
+
+DFF по нарастающему фронту (posedge) с инверсным сбросом (#RES).
+
+|![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)|![image](https://user-images.githubusercontent.com/5828819/184492855-86eb6193-f2c3-4bf9-bcb3-0cdeb6d19781.png)|![image](https://user-images.githubusercontent.com/5828819/184492881-58077fec-d1de-42d7-8025-552f5a4ccf1c.png)|![image](https://user-images.githubusercontent.com/5828819/184492886-ecdd1d8e-b562-49f6-859b-5e5240ed4ba5.png)|
+|---|---|---|---|
+
+![image](https://user-images.githubusercontent.com/5828819/184492897-6eb53838-e553-49e4-ab01-41d6ade5fd27.png)
+
+![image](https://user-images.githubusercontent.com/5828819/184492894-5cb18e88-aa32-4b8c-9e9f-80ea89db0508.png)
 
 ## Ячейка 3
 ![image](https://user-images.githubusercontent.com/15833655/182608299-7bc6ea92-9c21-479e-9be1-4176604cf51f.png)
@@ -103,17 +111,6 @@ DFF по нарастающему фронту (posedge).
 |---|---|---|---|
 
 ![image](https://user-images.githubusercontent.com/5828819/184478491-fe77cd24-9d61-44d8-9775-713cbf296368.png)
-
-## Ячейка - dffrpos
-
-DFF по нарастающему фронту (posedge) с инверсным сбросом (#RES).
-
-|![image](https://user-images.githubusercontent.com/5828819/184492855-86eb6193-f2c3-4bf9-bcb3-0cdeb6d19781.png)|![image](https://user-images.githubusercontent.com/5828819/184492881-58077fec-d1de-42d7-8025-552f5a4ccf1c.png)|![image](https://user-images.githubusercontent.com/5828819/184492886-ecdd1d8e-b562-49f6-859b-5e5240ed4ba5.png)|
-|---|---|---|
-
-![image](https://user-images.githubusercontent.com/5828819/184492897-6eb53838-e553-49e4-ab01-41d6ade5fd27.png)
-
-![image](https://user-images.githubusercontent.com/5828819/184492894-5cb18e88-aa32-4b8c-9e9f-80ea89db0508.png)
 
 ## Ячейка 17 - 8-разрядный регистр (?)
 
