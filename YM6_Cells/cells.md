@@ -40,8 +40,9 @@
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ff90a5fc-cab9-44e6-b6ee-eca1d48924be)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2179ecab-2eb8-4754-b9a1-3a2c54d18b42)|
 |---|---|
 
-## Ячейка 9
-![image](https://user-images.githubusercontent.com/15833655/182610406-1b27c8a5-c040-4899-903e-6e0bf94d27e4.png)
+## Ячейка 9 - dffspos(?)
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/0ad9d050-3516-448e-ad78-1df9a6762be8)
 
 ## Ячейка 10
 ![image](https://user-images.githubusercontent.com/15833655/182610560-ddaefb5e-2bf0-4d73-bd9a-30bbd7bb9052.png)
