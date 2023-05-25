@@ -56,8 +56,10 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/0ad9d050-3516-448e-ad78-1df9a6762be8)
 
-## Ячейка 10
-![image](https://user-images.githubusercontent.com/15833655/182610560-ddaefb5e-2bf0-4d73-bd9a-30bbd7bb9052.png)
+## Ячейка 10 - or
+
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/43ae313f-7504-4b70-acd4-22ebcc11ce48)|![image](https://user-images.githubusercontent.com/5828819/184311167-6b559844-81f6-4e45-8809-32476795e035.png)|![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)|
+|---|---|---|
 
 ## Ячейка 11 - GND
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7dd87fb5-7926-4321-8dc5-8921838dc1bc)|![image](https://user-images.githubusercontent.com/15833655/184317169-7c8d80fa-8ba6-45b5-b495-189c3ae24e89.png)|![image](https://user-images.githubusercontent.com/15833655/184318239-28b83c93-3b7a-42ff-8fb9-0e7a1c6988cd.png)|
@@ -98,14 +100,6 @@ DFF по нарастающему фронту (posedge) с инверсным �
 Конструкция слева с участием входного carry и старого значения - это извращенный xnor:
 
 ![image](https://user-images.githubusercontent.com/5828819/184405807-556524ae-b3b9-4e6e-a6f7-1e72b8c96b19.png)
-
-## Ячейка - or
-
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/43ae313f-7504-4b70-acd4-22ebcc11ce48)
-
-![image](https://user-images.githubusercontent.com/5828819/184311167-6b559844-81f6-4e45-8809-32476795e035.png)
-
-![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)
 
 ## Ячейка - dffpos
 
