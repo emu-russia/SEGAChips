@@ -156,3 +156,8 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e0dd4347-4bc8-4ecf-868d-4826bf5be504)
 
+## Ячейка 26 - xnor(?)
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9dd8af5b-54e4-4786-8cd8-7e643d58191a)
+
+
