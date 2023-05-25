@@ -69,7 +69,7 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |![image](https://user-images.githubusercontent.com/15833655/184319343-b16bcc82-2556-4d51-95eb-3f658d542f9c.png)|![image](https://user-images.githubusercontent.com/15833655/184319403-c0b85047-6af1-4d01-b318-c85a2e697104.png)|
 |---|---|
 
-## Ячейка 15
+## Ячейка 15 - and3(?)
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/03d1c9b1-9901-4daa-982a-e0ff1e0d2723)
 
