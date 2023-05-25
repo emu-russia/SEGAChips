@@ -16,8 +16,8 @@
 
 DFF по нарастающему фронту (posedge) с инверсным сбросом (#RES).
 
-|![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)|![image](https://user-images.githubusercontent.com/5828819/184492855-86eb6193-f2c3-4bf9-bcb3-0cdeb6d19781.png)|![image](https://user-images.githubusercontent.com/5828819/184492881-58077fec-d1de-42d7-8025-552f5a4ccf1c.png)|![image](https://user-images.githubusercontent.com/5828819/184492886-ecdd1d8e-b562-49f6-859b-5e5240ed4ba5.png)|
-|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/6bdbbe16-c94e-466a-b07e-24041183b61e)|![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)|![image](https://user-images.githubusercontent.com/5828819/184492855-86eb6193-f2c3-4bf9-bcb3-0cdeb6d19781.png)|![image](https://user-images.githubusercontent.com/5828819/184492881-58077fec-d1de-42d7-8025-552f5a4ccf1c.png)|![image](https://user-images.githubusercontent.com/5828819/184492886-ecdd1d8e-b562-49f6-859b-5e5240ed4ba5.png)|
+|---|---|---|---|---|
 
 ![image](https://user-images.githubusercontent.com/5828819/184492897-6eb53838-e553-49e4-ab01-41d6ade5fd27.png)
 
