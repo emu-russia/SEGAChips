@@ -114,6 +114,8 @@ DFF по нарастающему фронту (posedge).
 
 ## Ячейка 17 - 8-разрядный регистр (?)
 
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/1c20cfe1-5a69-483f-9fd4-38135922f5f8)
+
 ![image](https://user-images.githubusercontent.com/5828819/184526359-5c46d861-f421-47cb-a2f4-63940846f926.png)
 
 ![image](https://user-images.githubusercontent.com/5828819/184526234-22d5a275-7be7-45ce-a2af-b0c22d31a989.png)
