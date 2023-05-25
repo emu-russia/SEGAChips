@@ -135,4 +135,8 @@ DFF по нарастающему фронту (posedge) с инверсным �
 ## Ячейка 20 - delay
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/17ae61ff-c884-4598-93f7-7b1d9a21df0a)
 
+## Ячейка 21 - or4
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c022b3a1-4b6a-4ea5-9b98-80eab4bad27b)
+
 
