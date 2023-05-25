@@ -84,7 +84,7 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |---|---|
 
 ## Ячейка - cnt_bit
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)||![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)|![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
 |---|---|---|
 
 Разряд синхронного счётчика.
