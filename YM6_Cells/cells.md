@@ -127,3 +127,8 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/087b0068-1516-4d14-856a-2784f86e8aa5)
 
+## Ячейка 19 - nand4
+
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/6cac6854-bc67-477c-965f-eee517a61090)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/669f5f1e-ae62-41d0-a7a7-0bcc7220dd1a)|
+|---|---|
+
