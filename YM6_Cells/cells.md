@@ -144,7 +144,7 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8df190b1-fccb-4807-a4f3-a78d8e643f3b)
 
-## Ячейка 24 - and6(?)
+## Ячейка 24 - nand6(?)
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7b8b1a01-8046-441d-ae8e-ab696b9e195e)
 
