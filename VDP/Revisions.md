@@ -4,13 +4,24 @@
 Known to exist C, D and E revisions.
 
 ### Rev. C
+
 Initial revision used in MD1 VA0.
 
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9384e356-82ac-4275-96a6-3e92483cd4e6)
+
+
 ### Rev. D
+
 Unknown changes in M1 layer.
 
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/f88c58cf-0849-493b-a71c-aed0b19d0bb0)
+
+
 ### Rev. E
+
 Unknown changes in Via and M1 layers.
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/99d2d44d-decc-4215-87c4-f68ccecabb0c)
 
 https://www.grafik-feti.de/ftp/Die-Shots/Archiv/2D/Die-Shots/GamingConsoles/SEGA_Genesis_MegaDrive/MD1/VDP/
 
