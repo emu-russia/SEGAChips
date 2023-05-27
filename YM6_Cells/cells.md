@@ -160,3 +160,7 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/6337e4cf-87d7-4fd2-980a-0f8e2795a6bb)
 
+## Ячейка 28 - 1-bit mux(?)
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8b0c988c-14e2-4e37-975e-4ef748f10f94)
+
