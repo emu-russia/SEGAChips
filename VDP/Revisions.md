@@ -7,10 +7,10 @@ Known to exist C, D and E revisions.
 Initial revision used in MD1 VA0.
 
 ### Rev. D
-TBD.
+Unknown changes in M1 layer.
 
 ### Rev. E
-TBD.
+Unknown changes in Via and M1 layers.
 
 https://www.grafik-feti.de/ftp/Die-Shots/Archiv/2D/Die-Shots/GamingConsoles/SEGA_Genesis_MegaDrive/MD1/VDP/
 
