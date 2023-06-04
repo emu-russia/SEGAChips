@@ -282,7 +282,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/5828819/176191076-13161844-1df5-4ac7-90df-2fc926a6915c.png)|![image](https://user-images.githubusercontent.com/15833655/177207415-56c0126a-db7c-4f69-9a2c-f272b41d53ab.png)|![image](https://user-images.githubusercontent.com/5828819/176198129-7f378890-1469-4076-a226-027ca1623969.png)|![image](https://user-images.githubusercontent.com/5828819/176494701-9757a52c-24c3-4b8a-98aa-52dea5663941.png)|![image](https://user-images.githubusercontent.com/5828819/176494745-24a7cf08-6277-45c6-980d-e37e7df3b296.png)|
 |---|---|---|---|---|
 
-Встречается в ряду `G`.
+## Ячейка 31 - fa (Full Adder)
+|![image](https://user-images.githubusercontent.com/15833655/176933993-0a10b5c2-3a52-4f07-830a-99adbdbb33cc.png)|![image](https://user-images.githubusercontent.com/15833655/177050371-9efa20ed-63ac-4873-ae97-b183ccd5b6d0.png)|![image](https://user-images.githubusercontent.com/15833655/176934035-dfe53bc6-13c0-446d-bd76-b02c21975ee9.png)|![image](https://user-images.githubusercontent.com/15833655/176934076-3de32881-2f26-47d9-9354-0c3e7b3aa58a.png)|
+|---|---|---|---|
 
 ## Ячейка 22 - XOR
 
@@ -310,9 +312,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Видно что разработчики оставили выход `~Q`, но он не задействован.
 
-## Ячейка 31 - fa (Full Adder)
-|![image](https://user-images.githubusercontent.com/15833655/176933993-0a10b5c2-3a52-4f07-830a-99adbdbb33cc.png)|![image](https://user-images.githubusercontent.com/15833655/177050371-9efa20ed-63ac-4873-ae97-b183ccd5b6d0.png)|![image](https://user-images.githubusercontent.com/15833655/176934035-dfe53bc6-13c0-446d-bd76-b02c21975ee9.png)|![image](https://user-images.githubusercontent.com/15833655/176934076-3de32881-2f26-47d9-9354-0c3e7b3aa58a.png)|
-|---|---|---|---|
+
 
 ## Ячейка 32
 |![image](https://user-images.githubusercontent.com/15833655/177043668-cb96b0a7-96e5-45c4-95cd-86aa6a724f65.png)|![image](https://user-images.githubusercontent.com/15833655/177329729-5116e0e2-ccd9-43db-87b2-9b87aec1a788.png)|
@@ -369,11 +369,11 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177299444-55dee05c-5ea6-4404-842c-c828f8c1317d.png)|![image](https://user-images.githubusercontent.com/15833655/177207653-145e07b4-cf84-4186-ae8f-c81a91a602b0.png)|![image](https://user-images.githubusercontent.com/15833655/177333951-efbf49a7-fdb0-41b3-b516-184e959905f4.png)|
 |---|---|---|
 
-## Ячейка 38
+## Ячейка 38 - 6OR
 |![image](https://user-images.githubusercontent.com/15833655/177044420-957d12d1-6a27-4746-bbc6-76e7a36c9320.png)|![image](https://user-images.githubusercontent.com/15833655/177762983-d290a418-a67d-4497-b727-c7833f2bbc4f.png)|
 |---|---|
 
-## Ячейка 39
+## Ячейка 39 - 6NOR
 |![image](https://user-images.githubusercontent.com/15833655/177044500-06811ce8-2e0c-4a22-8706-e2397600a572.png)|![image](https://user-images.githubusercontent.com/15833655/177763372-1e1a654e-35b1-440c-8177-5101292b288e.png)|
 |---|---|
 
