@@ -13,6 +13,19 @@
 |![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)|![image](https://user-images.githubusercontent.com/15833655/176936155-c1d773c3-9b63-45b1-a912-843bbd1a0af5.png)|![image](https://user-images.githubusercontent.com/5828819/175999883-90b013b2-fc58-4027-9236-9763d79340f4.png)|
 |---|---|---|
 
+## Ячейка 13 - NOT  
+
+Мощный буферизированный инвертор.
+|![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/15833655/177044108-bb5f4bed-3e30-4576-b1b4-f59ccbe979e0.png)|![image](https://user-images.githubusercontent.com/15833655/189172989-644a145d-8568-410c-bd89-81082cba960e.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![notstr](https://user-images.githubusercontent.com/93550076/194051132-aef9f54f-430c-42bf-8d04-47ea5820aa17.PNG)|
+|---|---|---|---|---|
+
+## Ячейка 20 - not_strong (Мощный инвертер)
+
+Используется два спаренных инвертора для дополнительного драйва сигнала. Также особенностью является что вход `a` может альтернативно приходить сверху как на левый рог полика, так и на правый (как будет удобнее развести соединение).
+
+|![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)|![image](https://user-images.githubusercontent.com/15833655/177044318-72b99cc6-350d-466a-b8e6-583f1b888823.png)|![image](https://user-images.githubusercontent.com/5828819/176504957-99ca9ca7-c031-4ee3-85e3-18f3fdd9ff66.png)|![image](https://user-images.githubusercontent.com/5828819/176506031-a6910c63-f341-4d76-8d7b-7ec72cd76ac4.png)|
+|---|---|---|---|
+
 ## Ячейка 2 - nand
 
 |![image](https://user-images.githubusercontent.com/5828819/175828162-69dcf454-e27e-4bb9-aa23-9b45bb4da4f8.png)|![image](https://user-images.githubusercontent.com/15833655/176935644-30288999-793e-42c0-96a3-8c684daf38e4.png)|![image](https://user-images.githubusercontent.com/5828819/175999920-ba876784-3b6e-4314-ab34-8da8cb6cd6b2.png)|
@@ -136,12 +149,6 @@ S-Latch с асинхронным сбросом
 |![image](https://user-images.githubusercontent.com/5828819/176185957-4371e9bc-bd7c-4fdf-ae42-a4ba08bfe53f.png)|![image](https://user-images.githubusercontent.com/5828819/176186226-52175d6f-51eb-4c15-8711-d784d491781b.png)|![image](https://user-images.githubusercontent.com/5828819/176441834-0ed8adde-0be3-4908-91df-5d793120713e.png)|![image](https://user-images.githubusercontent.com/5828819/176446043-798aa98a-534c-4715-a3bc-302337418b50.png)|
 |---|---|---|---|
 
-
-## Ячейка 13 - NOT  
-
-Мощный буферизированный инвертор.
-|![image](https://user-images.githubusercontent.com/5828819/175828496-8fb2ec44-639f-4f8a-8e6e-b1a8025b9a3d.png)|![image](https://user-images.githubusercontent.com/15833655/177044108-bb5f4bed-3e30-4576-b1b4-f59ccbe979e0.png)|![image](https://user-images.githubusercontent.com/15833655/189172989-644a145d-8568-410c-bd89-81082cba960e.png)|![image](https://user-images.githubusercontent.com/5828819/176180281-5b7532e7-b7dd-46ef-bed6-73923f69fae2.png)|![notstr](https://user-images.githubusercontent.com/93550076/194051132-aef9f54f-430c-42bf-8d04-47ea5820aa17.PNG)|
-|---|---|---|---|---|
 
 ## Ячейка 14+15 - clkgen
 
@@ -267,15 +274,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 59 - AON3333
 |![image](https://user-images.githubusercontent.com/15833655/177209469-2d8639a8-4974-4920-b30c-734d2f8eeb9e.png)|![image](https://user-images.githubusercontent.com/15833655/177808513-ca3414e7-e55d-46db-8b97-4ac53c871de3.png)|
 |---|---|
-
-## Ячейка 20 - not_strong (Мощный инвертер)
-
-Используется два спаренных инвертора для дополнительного драйва сигнала. Также особенностью является что вход `a` может альтернативно приходить сверху как на левый рог полика, так и на правый (как будет удобнее развести соединение).
-
-|![image](https://user-images.githubusercontent.com/5828819/175965602-246a1d11-7b25-4778-815f-2e8ef21c58b4.png)|![image](https://user-images.githubusercontent.com/15833655/177044318-72b99cc6-350d-466a-b8e6-583f1b888823.png)|![image](https://user-images.githubusercontent.com/5828819/176504957-99ca9ca7-c031-4ee3-85e3-18f3fdd9ff66.png)|![image](https://user-images.githubusercontent.com/5828819/176506031-a6910c63-f341-4d76-8d7b-7ec72cd76ac4.png)|
-|---|---|---|---|
-
-В правом верхнем углу. Также ряд `H`.
 
 ## Ячейка 21 - ha (Half Adder)
 
