@@ -9,6 +9,7 @@ Initial revision used in MD1 VA0.
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9384e356-82ac-4275-96a6-3e92483cd4e6)
 
+https://drive.google.com/drive/u/0/folders/1A6Pl04k4HBYJeedSdiQR6yqF9YLV3-H2
 
 ### Rev. D
 
@@ -16,6 +17,7 @@ Unknown changes in M1 layer.
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/f88c58cf-0849-493b-a71c-aed0b19d0bb0)
 
+https://drive.google.com/drive/u/0/folders/1pVMBdIXD6kG_C89X_fHn137nqHPb8lQJ
 
 ### Rev. E
 
@@ -33,3 +35,5 @@ TBD.
 Likely die shrink of YM7101 rev E.
 
 http://ic.onidev.fr/map/FC1001.html
+
+http://ic.onidev.fr/map/FC1001-POLY-TFI.html
