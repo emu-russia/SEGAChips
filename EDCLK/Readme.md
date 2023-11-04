@@ -27,9 +27,10 @@ https://drive.google.com/drive/u/0/folders/19Mp-eKXWyN-YTMmKZN7sT4CFiTHb6Ubb
 TBD.
 
 ## Sega 315-5345
-Used in MD1VA2, fixes some work RAM issue.
+Used in MD1VA2, fixes work PSRAM refresh issue
 
-TBD.
+Schematic of the fix from FC1004 integration
+![psramfix.png](psramfix.png)
 
 ## Yamaha YM6045C & onward
 YM6045C integrates these fixes. Probably equivalent to MD1VA2.
