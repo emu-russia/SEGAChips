@@ -11,7 +11,11 @@ TBD.
 
 ## Sega 315-5339
 
-Used in MD1VA1. Probably equivalent to MD1VA0.
+Used in MD1VA1. EDCLK + mark 3 work RAM fix
+
+Pin 1 selects chip mode:
+* Mode 0 (GND) - Mega Drive (EDCLK + mark 3 work RAM fix)
+* Mode 1 (5v) - Unknown
 
 ![md1va1/315-5339-package.jpg](md1va1/315-5339-package.jpg)
 
