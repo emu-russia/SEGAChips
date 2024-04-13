@@ -6,8 +6,8 @@
 
 ## Ячейка 1 - not
 
-|![image](https://user-images.githubusercontent.com/15833655/182607433-4e6bb029-bc75-4973-b146-d9d9d1e9903f.png)|![image](https://user-images.githubusercontent.com/15833655/184317369-599b106f-cbff-48b6-b519-f40d85914190.png)|![image](https://user-images.githubusercontent.com/15833655/184318357-b22093a0-f18f-49b5-acf0-d9e453932c0e.png)|
-|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/a208758f-08b3-4c30-aaf9-6adcee101be4)|![image](https://user-images.githubusercontent.com/15833655/182607433-4e6bb029-bc75-4973-b146-d9d9d1e9903f.png)|![image](https://user-images.githubusercontent.com/15833655/184317369-599b106f-cbff-48b6-b519-f40d85914190.png)|![image](https://user-images.githubusercontent.com/15833655/184318357-b22093a0-f18f-49b5-acf0-d9e453932c0e.png)|
+|---|---|---|---|
 
 ![image](https://user-images.githubusercontent.com/5828819/184408097-e97e2e86-08a5-465c-8f93-530f4c49a4dc.png)
 (и ещё 20 мемов про две полоски)
@@ -30,12 +30,12 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ## Ячейка 4 - nand3(?)
 
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/a38c69b1-3175-4910-8a9d-136873c55daf)|![image](https://user-images.githubusercontent.com/15833655/182608765-c13265dc-6595-4821-a023-44ffc0f6c84a.png)|![image](https://user-images.githubusercontent.com/15833655/184319629-c1870c50-d5e2-49e4-afb0-1ebe33dd79f9.png)|![image](https://user-images.githubusercontent.com/15833655/184319668-1a4040fe-4173-44e5-9816-1c9f8fff976f.png)|
-|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9d80dc5b-aa31-4ec8-91b1-20b5ef59b7c5)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/a38c69b1-3175-4910-8a9d-136873c55daf)|![image](https://user-images.githubusercontent.com/15833655/182608765-c13265dc-6595-4821-a023-44ffc0f6c84a.png)|![image](https://user-images.githubusercontent.com/15833655/184319629-c1870c50-d5e2-49e4-afb0-1ebe33dd79f9.png)|![image](https://user-images.githubusercontent.com/15833655/184319668-1a4040fe-4173-44e5-9816-1c9f8fff976f.png)|
+|---|---|---|---|---|
 
 ## Ячейка 5 - nand
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7c472678-446e-4afc-99bb-6482afef4347)|![image](https://user-images.githubusercontent.com/15833655/182608855-4c07015a-49ac-4864-a073-eec6b88ab97c.png)|![image](https://user-images.githubusercontent.com/15833655/184319151-45780f2d-199f-4b65-8082-b00d8641a896.png)|![image](https://user-images.githubusercontent.com/15833655/184319214-d64b1fb3-517c-43ba-a048-3197100873aa.png)|
-|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/17bbd040-380e-4f14-b4c3-d0cb3711f333)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7c472678-446e-4afc-99bb-6482afef4347)|![image](https://user-images.githubusercontent.com/15833655/182608855-4c07015a-49ac-4864-a073-eec6b88ab97c.png)|![image](https://user-images.githubusercontent.com/15833655/184319151-45780f2d-199f-4b65-8082-b00d8641a896.png)|![image](https://user-images.githubusercontent.com/15833655/184319214-d64b1fb3-517c-43ba-a048-3197100873aa.png)|
+|---|---|---|---|---|
 
 ## Ячейка 6 - and
 
@@ -44,8 +44,8 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ## Ячейка 7 - buf
 
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/06a98861-087a-4030-bc89-63a048002002)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/dcada0d7-3845-4b46-aedd-16d10ccd355b)|![image](https://user-images.githubusercontent.com/15833655/184319343-b16bcc82-2556-4d51-95eb-3f658d542f9c.png)|![image](https://user-images.githubusercontent.com/15833655/184319403-c0b85047-6af1-4d01-b318-c85a2e697104.png)|
-|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/35b4edaa-a181-467f-83b5-afb0fb322522)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/06a98861-087a-4030-bc89-63a048002002)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/dcada0d7-3845-4b46-aedd-16d10ccd355b)|![image](https://user-images.githubusercontent.com/15833655/184319343-b16bcc82-2556-4d51-95eb-3f658d542f9c.png)|![image](https://user-images.githubusercontent.com/15833655/184319403-c0b85047-6af1-4d01-b318-c85a2e697104.png)|
+|---|---|---|---|---|
 
 ## Ячейка 8 - nor(?)
 
@@ -58,12 +58,12 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ## Ячейка 10 - or
 
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/43ae313f-7504-4b70-acd4-22ebcc11ce48)|![image](https://user-images.githubusercontent.com/5828819/184311167-6b559844-81f6-4e45-8809-32476795e035.png)|![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)|
-|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/084721b3-2241-4c1d-9483-ac4a1f3c4a8d)||![image](https://github.com/emu-russia/SEGAChips/assets/15833655/43ae313f-7504-4b70-acd4-22ebcc11ce48)|![image](https://user-images.githubusercontent.com/5828819/184311167-6b559844-81f6-4e45-8809-32476795e035.png)|![image](https://user-images.githubusercontent.com/5828819/184407057-803d8132-79f4-4b01-b44c-c28ce51862d4.png)|
+|---|---|---|---|
 
 ## Ячейка 11 - GND
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7dd87fb5-7926-4321-8dc5-8921838dc1bc)|![image](https://user-images.githubusercontent.com/15833655/184317169-7c8d80fa-8ba6-45b5-b495-189c3ae24e89.png)|![image](https://user-images.githubusercontent.com/15833655/184318239-28b83c93-3b7a-42ff-8fb9-0e7a1c6988cd.png)|
-|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/283520c3-d847-49d5-8743-e0e254929a00)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7dd87fb5-7926-4321-8dc5-8921838dc1bc)|![image](https://user-images.githubusercontent.com/15833655/184317169-7c8d80fa-8ba6-45b5-b495-189c3ae24e89.png)|![image](https://user-images.githubusercontent.com/15833655/184318239-28b83c93-3b7a-42ff-8fb9-0e7a1c6988cd.png)|
+|---|---|---|---|
 
 ## Ячейка 12 - nor3(?)
 
@@ -76,16 +76,16 @@ DFF по нарастающему фронту (posedge) с инверсным �
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/03d1c9b1-9901-4daa-982a-e0ff1e0d2723)
 
 ## Ячейка - VDD
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/b3890ac4-b57e-4790-9b91-8d6c542a3f98)|![image](https://user-images.githubusercontent.com/15833655/184319875-d99db17b-69a2-45e4-a24a-ef2c31b937b6.png)|![image](https://user-images.githubusercontent.com/15833655/184319934-dcebb8a7-4217-4fdf-b46e-29ace9bf4d7d.png)|
-|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e7b348ef-5725-432b-9884-d20c89bb18f4)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/b3890ac4-b57e-4790-9b91-8d6c542a3f98)|![image](https://user-images.githubusercontent.com/15833655/184319875-d99db17b-69a2-45e4-a24a-ef2c31b937b6.png)|![image](https://user-images.githubusercontent.com/15833655/184319934-dcebb8a7-4217-4fdf-b46e-29ace9bf4d7d.png)|
+|---|---|---|---|
 
 ## Ячейка 16
-|![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
-|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/394dfd25-54cb-4036-889f-ff9948610e41)|![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
+|---|---|---|
 
 ## Ячейка - cnt_bit
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)|![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
-|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/89c07e6d-9d4a-4bfb-9281-407dfd855008)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)|![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
+|---|---|---|---|
 
 Разряд синхронного счётчика.
 
