@@ -30,5 +30,5 @@ Directory composition is a bit chaotic, but it'll do.
 - VDP: Boss
 - VRAM: Dual port VRAM
 - YM_Cells: Yamaha standard cell library
-- YM6_Cells: Standard cell library used in Yamaha's YM6xxx series CMOS chips.
+- YM6_Cells: Standard cell library used in Yamaha's YM6xxx series CMOS chips ("two-story cells")
 - Z80: Investigation of the CMOS version of the Z80 from MD2 (Z84C0006)
