@@ -16,8 +16,8 @@
 
 DFF по нарастающему фронту (posedge) с инверсным сбросом (#RES).
 
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/6bdbbe16-c94e-466a-b07e-24041183b61e)|![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)|![image](https://user-images.githubusercontent.com/5828819/184492855-86eb6193-f2c3-4bf9-bcb3-0cdeb6d19781.png)|![image](https://user-images.githubusercontent.com/5828819/184492881-58077fec-d1de-42d7-8025-552f5a4ccf1c.png)|![image](https://user-images.githubusercontent.com/5828819/184492886-ecdd1d8e-b562-49f6-859b-5e5240ed4ba5.png)|
-|---|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/49e3640d-3886-4a14-b70e-dde26c899573)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/6bdbbe16-c94e-466a-b07e-24041183b61e)|![image](https://user-images.githubusercontent.com/15833655/182607812-7aa50d4f-5b9c-4193-8ddc-12cf8153af39.png)|![image](https://user-images.githubusercontent.com/5828819/184492855-86eb6193-f2c3-4bf9-bcb3-0cdeb6d19781.png)|![image](https://user-images.githubusercontent.com/5828819/184492881-58077fec-d1de-42d7-8025-552f5a4ccf1c.png)|![image](https://user-images.githubusercontent.com/5828819/184492886-ecdd1d8e-b562-49f6-859b-5e5240ed4ba5.png)|
+|---|---|---|---|---|---|
 
 ![image](https://user-images.githubusercontent.com/5828819/184492897-6eb53838-e553-49e4-ab01-41d6ade5fd27.png)
 
@@ -68,8 +68,8 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ## Ячейка 12 - nor3(?)
 
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e8cfcafb-42e3-479d-89ef-74b887c6dc4c)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/710dea8a-64b2-4754-bf0c-077c0c4e682c)|
-|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/047e3d70-b5d5-4c14-8eaa-80de7f704618)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e8cfcafb-42e3-479d-89ef-74b887c6dc4c)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/710dea8a-64b2-4754-bf0c-077c0c4e682c)|
+|---|---|---|
 
 
 ## Ячейка 15 - and3(?)
@@ -109,8 +109,8 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 DFF по нарастающему фронту (posedge).
 
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/d5b261e8-37c0-45fa-a005-790077eae911)|![image](https://user-images.githubusercontent.com/5828819/184475390-c6940328-e545-48b9-a852-bd31bc6426a3.png)|![image](https://user-images.githubusercontent.com/5828819/184475423-b52f0ff1-fa69-48f7-9622-d8ff0f24766e.png)|![image](https://user-images.githubusercontent.com/5828819/184478466-1d73d25f-4ac1-4907-b320-e2d36364fc7d.png)|
-|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/97681941-769b-4222-b071-94d5132683cd)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/d5b261e8-37c0-45fa-a005-790077eae911)|![image](https://user-images.githubusercontent.com/5828819/184475390-c6940328-e545-48b9-a852-bd31bc6426a3.png)|![image](https://user-images.githubusercontent.com/5828819/184475423-b52f0ff1-fa69-48f7-9622-d8ff0f24766e.png)|![image](https://user-images.githubusercontent.com/5828819/184478466-1d73d25f-4ac1-4907-b320-e2d36364fc7d.png)|
+|---|---|---|---|---|
 
 ![image](https://user-images.githubusercontent.com/5828819/184478491-fe77cd24-9d61-44d8-9775-713cbf296368.png)
 
@@ -141,7 +141,8 @@ DFF по нарастающему фронту (posedge).
 
 ## Ячейка 21 - or4
 
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c022b3a1-4b6a-4ea5-9b98-80eab4bad27b)
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9706a90f-7923-43b3-ac82-21f88c8115c6)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c022b3a1-4b6a-4ea5-9b98-80eab4bad27b)|
+|---|---|
 
 ## Ячейка 22 - 4-bit mux(?)
 
@@ -192,4 +193,8 @@ DFF по нарастающему фронту (posedge).
 ## Ячейка 34
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/3c572bc4-c5a5-479e-8236-d88889f9cd2e)
+
+## Ячейка 35
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/821bb741-5f0f-419d-b48f-96a25d424be9)
 
