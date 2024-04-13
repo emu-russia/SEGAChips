@@ -1,18 +1,33 @@
 # SEGAChips
 
-Реверс чипов сеги.
+Reverse-engineering of SEGA chips.
 
-Основной упор делается на реверс VDP, двух мелких чипов (TA-04, TA-05 в пиратском исполнении) и FM-синтезатора (YM2612/YM3438).
+The initial emphasis was on reversing the VDP, Arbiter and IOChip (TA-04, TA-05 in pirated versions) and FM synthesizer (YM2612/YM3438).
 
-- 315-5364 = TA-04 = YM6045C (Arbiter) [^1]
-- 315-5309 = TA-05 = YM6046 (IOChip)
+Then also decided to dig into Z80 (CMOS version). It can then be reused for other systems/emulators as well.
 
-Также решили копнуть Z80 (CMOS-версии). Его можно потом переиспользовать и для других систем/эмуляторов.
+And then also decided to dig in, or at least do a review on all the chips we could get our hands on.
 
-Также решили копнуть или хотя бы сделать обзор на все чипы, до которых получится дотянуться.
+Datasets: https://drive.google.com/drive/folders/1jq61bsFvKCBwnMb2Zo0d7TBnZMjAo-OY
 
-Датасеты: https://drive.google.com/drive/folders/1jq61bsFvKCBwnMb2Zo0d7TBnZMjAo-OY
+There's another guy taking pictures of VDP: http://ic.onidev.fr/map/FC1001-POLY-P1.html
 
-Тут ещё один парень делает фотки VDP: http://ic.onidev.fr/map/FC1001-POLY-P1.html
+If you find Russian somewhere, use DeepL for translation.
 
-[^1]: еще есть 315-5308 = YM6045B (старый вариант арбитра)
+## Repository Structure
+
+Directory composition is a bit chaotic, but it'll do.
+
+- Arbiter: YM6045C / 315-5364 / TA-04
+- EDCLK: 315-5339; EDCLK generator & work RAM fix
+- FC1004: Yamaha FC1004 (Sega 315-5487/315-5660/315-5708 etc)
+- FJ3002: Section about Yamaha FJ3002 (aka Sega 315-5960)
+- FM: Section dedicated to YM3438 (YM2612)
+- IOChip: The section is dedicated to the YM6046.
+- MDRevisions: Mega Drive Revisions
+- SMS-VDP: Master System VDP
+- VDP: Boss
+- VRAM: Dual port VRAM
+- YM_Cells: Yamaha standard cell library
+- YM6_Cells: Standard cell library used in Yamaha's YM6xxx series CMOS chips.
+- Z80: Investigation of the CMOS version of the Z80 from MD2 (Z84C0006)
