@@ -116,6 +116,8 @@ DFF по нарастающему фронту (posedge).
 
 ## Ячейка 17 - 8-разрядный регистр (?)
 
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7933ec05-d305-4755-9fc9-f67d53527987)
+
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/1c20cfe1-5a69-483f-9fd4-38135922f5f8)
 
 ![image](https://user-images.githubusercontent.com/5828819/184526359-5c46d861-f421-47cb-a2f4-63940846f926.png)
@@ -146,7 +148,8 @@ DFF по нарастающему фронту (posedge).
 
 ## Ячейка 22 - 4-bit mux(?)
 
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8df190b1-fccb-4807-a4f3-a78d8e643f3b)
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2fe9e77a-de3f-4dc4-9e75-588c59df5b22)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8df190b1-fccb-4807-a4f3-a78d8e643f3b)|
+|---|---|
 
 ## Ячейка 24 - nand6(?)
 
@@ -155,11 +158,13 @@ DFF по нарастающему фронту (posedge).
 
 ## Ячейка 25 - 2 to 4 demux(?)
 
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e0dd4347-4bc8-4ecf-868d-4826bf5be504)
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/1391a2c1-818d-4862-8d25-ebc4487f787b)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e0dd4347-4bc8-4ecf-868d-4826bf5be504)|
+|---|---|
 
 ## Ячейка 26 - xnor(?)
 
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9dd8af5b-54e4-4786-8cd8-7e643d58191a)
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9340fd42-67db-4cdc-9575-bc1e608626ba)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/9dd8af5b-54e4-4786-8cd8-7e643d58191a)|
+|---|---|
 
 ## Ячейка 27 - delay short
 
@@ -168,7 +173,8 @@ DFF по нарастающему фронту (posedge).
 
 ## Ячейка 28 - 1-bit mux(?)
 
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8b0c988c-14e2-4e37-975e-4ef748f10f94)
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/31eb72e6-6985-448e-9c95-adb60fae724c)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8b0c988c-14e2-4e37-975e-4ef748f10f94)|
+|---|---|
 
 ## Ячейка 29
 
@@ -197,4 +203,9 @@ DFF по нарастающему фронту (posedge).
 ## Ячейка 35
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/821bb741-5f0f-419d-b48f-96a25d424be9)
+
+## Ячейка 36
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/f5a092a5-2671-44d2-8132-40a087e2748f)
+
 
