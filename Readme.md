@@ -19,6 +19,7 @@ If you find Russian somewhere, use DeepL for translation.
 Directory composition is a bit chaotic, but it'll do.
 
 - Arbiter: YM6045C / 315-5364 / TA-04
+- ArbiterOld: Old Arbiter (YM6045B)
 - EDCLK: 315-5339; EDCLK generator & work RAM fix
 - FC1004: Yamaha FC1004 (Sega 315-5487/315-5660/315-5708 etc)
 - FJ3002: Section about Yamaha FJ3002 (aka Sega 315-5960)
