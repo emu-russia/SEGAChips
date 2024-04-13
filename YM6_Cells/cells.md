@@ -9,9 +9,6 @@
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/a208758f-08b3-4c30-aaf9-6adcee101be4)|![image](https://user-images.githubusercontent.com/15833655/182607433-4e6bb029-bc75-4973-b146-d9d9d1e9903f.png)|![image](https://user-images.githubusercontent.com/15833655/184317369-599b106f-cbff-48b6-b519-f40d85914190.png)|![image](https://user-images.githubusercontent.com/15833655/184318357-b22093a0-f18f-49b5-acf0-d9e453932c0e.png)|
 |---|---|---|---|
 
-![image](https://user-images.githubusercontent.com/5828819/184408097-e97e2e86-08a5-465c-8f93-530f4c49a4dc.png)
-(и ещё 20 мемов про две полоски)
-
 ## Ячейка 2 - dffrpos
 
 DFF по нарастающему фронту (posedge) с инверсным сбросом (#RES).
