@@ -101,7 +101,12 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ![image](https://user-images.githubusercontent.com/5828819/184405807-556524ae-b3b9-4e6e-a6f7-1e72b8c96b19.png)
 
-## Ячейка 17 - 8-разрядный регистр (?)
+## Ячейка 17 - 8bit SIPO Shift Register (sr8) + Async Reset
+
+Typical shift register. Features:
+- The register bits are based on a typical Master-Slave posedge DFF, with an inverter each on the input and output (these can be omitted for analysis)
+- Reset is asynchronous (not tied to CLK)
+- Reset input in inverse polarity (#RES)
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/7933ec05-d305-4755-9fc9-f67d53527987)
 
@@ -111,7 +116,11 @@ DFF по нарастающему фронту (posedge) с инверсным �
 
 ![image](https://user-images.githubusercontent.com/5828819/184526234-22d5a275-7be7-45ce-a2af-b0c22d31a989.png)
 
-Встречается в арбитре в единственном экземпляре тут:
+![sr8_topo](imgstore/sr8_topo.png)
+
+![sr8](imgstore/sr8.png)
+
+Occurs in the Arbiter in a single copy here:
 
 ![image](https://user-images.githubusercontent.com/5828819/184526253-3dae632e-5e67-4e79-b0ee-a6bb79ebba10.png)
 
