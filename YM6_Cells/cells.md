@@ -76,15 +76,6 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/89c07e6d-9d4a-4bfb-9281-407dfd855008)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)|![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
 |---|---|---|---|
 
-## Ячейка 15 - and3(?)
-
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/db4915f0-3d06-4146-b265-b2fc5e0e27cc)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/03d1c9b1-9901-4daa-982a-e0ff1e0d2723)|
-|---|---|
-
-## Ячейка 16
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/394dfd25-54cb-4036-889f-ff9948610e41)|![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
-|---|---|---|
-
 Разряд синхронного счётчика.
 
 ![image](https://user-images.githubusercontent.com/5828819/184404000-3f57504e-c909-41b8-80d0-2fd1b5ef63c2.png)
@@ -100,6 +91,15 @@ DFF по нарастающему фронту (posedge) с инверсным �
 Конструкция слева с участием входного carry и старого значения - это извращенный xnor:
 
 ![image](https://user-images.githubusercontent.com/5828819/184405807-556524ae-b3b9-4e6e-a6f7-1e72b8c96b19.png)
+
+## Ячейка 15 - and3(?)
+
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/db4915f0-3d06-4146-b265-b2fc5e0e27cc)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/03d1c9b1-9901-4daa-982a-e0ff1e0d2723)|
+|---|---|
+
+## Ячейка 16
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/394dfd25-54cb-4036-889f-ff9948610e41)|![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
+|---|---|---|
 
 ## Ячейка 17 - 8bit SIPO Shift Register (sr8) + Async Reset
 
