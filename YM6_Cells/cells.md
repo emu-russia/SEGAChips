@@ -135,7 +135,12 @@ Occurs in the Arbiter in a single copy here:
 |---|---|---|
 
 ## Ячейка 20 - delay
+
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/17ae61ff-c884-4598-93f7-7b1d9a21df0a)
+
+![image](https://github.com/emu-russia/SEGAChips/assets/5828819/0f85507a-c6a4-4c96-852d-51f13d3269d8)
+
+The delay is made of 8 inverters. The first 7 have wider gates (they have higher capacitance). In fact, it is a regular buffer, but it is known to be a delay cell, which YAMAHA chips are famous for.
 
 ## Ячейка 21 - or4
 
