@@ -34,7 +34,7 @@ module ym6045c_cell_6_and (  o2, i3, i4);
 
 endmodule // ym6045c_cell_6_and
 
-module ym6045c_cell_5_nor (  i1, i2, o3);
+module ym6045c_cell_5_nand (  i1, i2, o3);
 
 	input wire i1;
 	input wire i2;
@@ -42,7 +42,7 @@ module ym6045c_cell_5_nor (  i1, i2, o3);
 	
 	assign o3 = ~(i1 & i2);
 
-endmodule // ym6045c_cell_5_nor
+endmodule // ym6045c_cell_5_nand
 
 module ym6045c_cell_7_buf (  o2, i3);
 
@@ -73,7 +73,7 @@ module ym6045c_cell_16_buf (  o2, i4);
 
 endmodule // ym6045c_cell_16_buf
 
-module ym6045c_cell_29_nand6 (  o1, i2, i3, i4, i5, i6, i7);
+module ym6045c_cell_29_and6 (  o1, i2, i3, i4, i5, i6, i7);
 
 	output wire o1;
 	input wire i2;
@@ -83,9 +83,9 @@ module ym6045c_cell_29_nand6 (  o1, i2, i3, i4, i5, i6, i7);
 	input wire i6;
 	input wire i7;
 	
-	assign o1 = ~(i2 & i3 & i4 & i5 & i6 & i7);
+	assign o1 = i2 & i3 & i4 & i5 & i6 & i7;
 
-endmodule // ym6045c_cell_29_nand6
+endmodule // ym6045c_cell_29_and6
 
 module ym6045c_cell_30_nor4 (  o2, i3, i4, i5, i6);
 
@@ -287,7 +287,7 @@ module ym6045c_cell_39_oai21 (  o1, i2, i3, i4);
 
 endmodule // ym6045c_cell_39_oai21
 
-module ym6045c_cell_37_or8 (  i1, i2, i3, i4, o5, i6, i7, i8, i9);
+module ym6045c_cell_37_nor8 (  i1, i2, i3, i4, o5, i6, i7, i8, i9);
 
 	input wire i1;
 	input wire i2;
@@ -299,7 +299,7 @@ module ym6045c_cell_37_or8 (  i1, i2, i3, i4, o5, i6, i7, i8, i9);
 	input wire i8;
 	input wire i9;
 	
-	assign o1 = i1 | i2 | i3 | i4 | i6 | i7 | i8 | i9;
+	assign o1 = ~(i1 | i2 | i3 | i4 | i6 | i7 | i8 | i9);
 
-endmodule // ym6045c_cell_37_or8
+endmodule // ym6045c_cell_37_nor8
 
