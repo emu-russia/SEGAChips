@@ -1,9 +1,7 @@
 // TODO:
-// ym6045c_cell_32
 // ym6045c_cell_27_delay_short
 // ym6045c_cell_33_delay_med
 // ym6045c_cell_34_delay_long
-// ym6045c_cell_35
 //
 
 // Module Definitions [It is possible to wrap here on your primitives]
@@ -471,3 +469,21 @@ module ym6045c_cell_31 (  i2, i3, i4, i13, o16, o17);
 	end
 
 endmodule // ym6045c_cell_31
+
+module ym6045c_cell_32 (  i1, o2);
+
+	input wire i1;
+	output wire o2;
+	
+	assign o2 = i1;
+
+endmodule // ym6045c_cell_32
+
+module ym6045c_cell_35_not (  o1, i2);
+
+	output wire o1;
+	input wire i2;
+	
+	assign o1 = ~i2;
+
+endmodule // ym6045c_cell_35_not
