@@ -49,16 +49,16 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2525412d-4eab-4e69-9176-15b2766a93f9)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ff90a5fc-cab9-44e6-b6ee-eca1d48924be)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2179ecab-2eb8-4754-b9a1-3a2c54d18b42)|
 |---|---|---|
 
-## Ячейка 9 - DFF-as-Latch, active low async Set  (`dffs_latch`)
+## Ячейка 9 - DFF, active low async Set, posedge (`dffspos`)
+
+Regular posedge Master-Slave DFF with active-low set input. Nothing unusual.
 
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/52ef852a-aeaa-49c1-b688-0cd658243853)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/0ad9d050-3516-448e-ad78-1df9a6762be8)|
 |---|---|
 
-DFF, переведённый в режим обычного Latch (по уровню, то есть clk выполняет роль enable), путём факапного соединения Master-Slave FFs.
+![dffspos_tran](imgstore/dffspos_tran.png)
 
-![dffs_latch_tran](imgstore/dffs_latch_tran.png)
-
-![dffs_latch_logisim](imgstore/dffs_latch_logisim.png)
+![dffspos_logisim](imgstore/dffspos_logisim.png)
 
 ## Ячейка 10 - or
 
