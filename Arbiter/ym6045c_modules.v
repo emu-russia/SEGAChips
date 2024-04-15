@@ -360,12 +360,12 @@ module ym6045c_cell_2_dffr (  o2, o4, i9, i11, i13);
 	
 	reg data;
 	
-	assign o13 = data;
-	assign o11 = ~data;
+	assign o4 = data;
+	assign o2 = ~data;
 	
 	always @(posedge i13, negedge i9)
 	begin
-		if (~i7)
+		if (~i9)
 			data <= 1'h0;
 		else
 			data <= i11;
@@ -419,7 +419,7 @@ module ym6045c_cell_17_sr8 (  i2, o3, o10, o16, o23, o29, o36, o42, o49, i56, i5
 	
 	always @(posedge i57, negedge i2)
 	begin
-		if (~i7)
+		if (~i2)
 			data <= 8'h0;
 		else
 			data <= { i56, data[7:1] };
