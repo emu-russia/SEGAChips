@@ -49,10 +49,16 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2525412d-4eab-4e69-9176-15b2766a93f9)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ff90a5fc-cab9-44e6-b6ee-eca1d48924be)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2179ecab-2eb8-4754-b9a1-3a2c54d18b42)|
 |---|---|---|
 
-## Ячейка 9 - dffspos(?)
+## Ячейка 9 - DFF-as-Latch, active low async Set  (`dffs_latch`)
 
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/52ef852a-aeaa-49c1-b688-0cd658243853)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/0ad9d050-3516-448e-ad78-1df9a6762be8)|
 |---|---|
+
+DFF, переведённый в режим обычного Latch (по уровню, то есть clk выполняет роль enable), путём факапного соединения Master-Slave FFs.
+
+![dffs_latch_tran](imgstore/dffs_latch_tran.png)
+
+![dffs_latch_logisim](imgstore/dffs_latch_logisim.png)
 
 ## Ячейка 10 - or
 
@@ -98,6 +104,7 @@ DFF по нарастающему фронту (posedge) с инверсным �
 |---|---|
 
 ## Ячейка 16
+
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/394dfd25-54cb-4036-889f-ff9948610e41)|![image](https://user-images.githubusercontent.com/15833655/184320203-224852a4-be6c-46f9-93af-8144ef91816c.png)|![image](https://user-images.githubusercontent.com/15833655/184320254-2113ec3a-bf13-4531-b29c-a042e5531643.png)|
 |---|---|---|
 
@@ -194,9 +201,13 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/d64bcd45-bc11-455f-b77a-bf07d3650519)
 
-## Ячейка 31
+## Ячейка 31 - JK, active low async Set, negedge (`jksneg`)
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/019de764-02a1-4dee-a81d-53f3d3857f32)
+
+![jk_set_negedge_tran](imgstore/jk_set_negedge_tran.png)
+
+![jk_set_negedge_logisim](imgstore/jk_set_negedge_logisim.png)
 
 ## Ячейка 32
 
