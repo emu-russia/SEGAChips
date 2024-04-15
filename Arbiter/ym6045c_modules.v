@@ -248,6 +248,8 @@ module ym6045c_cell_36_or8 (  i1h, i1l, i2h, i2l, o3, i7h, i7l, i8h, i8l);
 	input wire i7l;
 	input wire i8h;
 	input wire i8l;
+	
+	assign o3 = i1h | i1l | i2h | i2l | i7h | i7l | i8h | i8l;
 
 endmodule // ym6045c_cell_36_or8
 
