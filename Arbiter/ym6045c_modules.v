@@ -292,7 +292,7 @@ module ym6045c_cell_37_nor8 (  i1, i2, i3, i4, o5, i6, i7, i8, i9);
 	input wire i8;
 	input wire i9;
 	
-	assign o1 = ~(i1 | i2 | i3 | i4 | i6 | i7 | i8 | i9);
+	assign o5 = ~(i1 | i2 | i3 | i4 | i6 | i7 | i8 | i9);
 
 endmodule // ym6045c_cell_37_nor8
 
@@ -319,7 +319,7 @@ module ym6045c_cell_14_cnt_bit (  o2, o3, i6, i7, i13, i14, o15, i18);
 	begin
 		if (~i7)
 			data <= 1'h0;
-		else if (i14)
+		else if (~i14)
 			data <= i13;
 		else
 			data <= s;
