@@ -11,5 +11,7 @@
 - Карманы N-типа (YM6045C), P-типа (TA-04)
 - Ревизия маски: D
 
-## YM6045B/C rev. C
-Существует ли YM6045B/C с ревизией маски C?
+## YM6045C rev. C
+В некоторых ранних MD1VA3 используется арбитр с ревизией маски C
+
+https://consolemods.org/wiki/images/5/53/USModel1VA3Board.jpg
