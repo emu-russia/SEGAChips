@@ -248,3 +248,7 @@ DFF по нарастающему фронту (posedge).
 ## Ячейка 39 - oai21
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/1573f26b-8511-4ba3-8648-868544c98620)
+
+## Ячейка 40
+
+![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c13446a3-c824-49e9-b57e-e56d878ba145)
