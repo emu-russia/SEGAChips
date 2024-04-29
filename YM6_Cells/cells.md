@@ -269,7 +269,3 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/fbc399c4-d0e1-417e-8d69-669491e92d6d)
 
-## Ячейка 45
-
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/e4507c54-ac81-4fbd-9523-554a9a6d6b5c)
-
