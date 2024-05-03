@@ -446,9 +446,11 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177213814-02df4cea-3edb-44c6-98d5-8e6cb02f0f1a.png)|![image](https://user-images.githubusercontent.com/15833655/177831425-8a8f241c-35f6-41e5-9dc9-32085f30dca6.png)|
 |---|---|
 
-## Ячейка 70
+## Ячейка 70 SYNC_SRFF
 |![image](https://user-images.githubusercontent.com/15833655/177214475-1044c75b-6355-43d7-93a9-b1a6e2ce889f.png)|![image](https://user-images.githubusercontent.com/15833655/177833407-ea8ec234-a2ba-43b3-abf2-1ec839db902b.png)|![image](https://user-images.githubusercontent.com/15833655/177833275-7cfb507d-0107-402c-92b4-12e8b8060b5f.png)|
 |---|---|---|
+![70PIN](https://github.com/emu-russia/SEGAChips/assets/93550076/f50593a5-cfe9-40e8-934d-c05b965be59c)
+
 
 ## Ячейка 71
 |![image](https://user-images.githubusercontent.com/15833655/177214228-b4c2b3eb-3c39-49e3-856d-35afdbda91ea.png)|![image](https://user-images.githubusercontent.com/15833655/177834691-a2523fed-292c-4714-a0ef-9b8ed12963bf.png)|![image](https://user-images.githubusercontent.com/15833655/177834608-ab5bf750-d1fd-4a67-a53e-36be40b45c05.png)|
