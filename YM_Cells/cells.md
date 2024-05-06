@@ -251,6 +251,10 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177207913-dc4f4640-4faf-45f8-97c6-9f551d4d4dcb.png)|![image](https://user-images.githubusercontent.com/15833655/177784167-bc48502f-e4fb-4147-ae9d-90f7d723bea9.png)|
 |---|---|
 
+## Ячейка 84 AON222222
+|![image](https://user-images.githubusercontent.com/15833655/189172587-83ba36d0-0972-4c37-8b32-33af6260fc87.png)|
+|---|
+
 ## Ячейка 55 - AON22222222
 |![image](https://user-images.githubusercontent.com/15833655/177320472-905241a9-f6df-4a2d-828b-621489985fee.png)|![image](https://user-images.githubusercontent.com/15833655/177207973-aea5895c-9515-453b-8e58-ed9176eab010.png)|![image](https://user-images.githubusercontent.com/15833655/177797699-54a3135e-928e-4d21-87e2-3450b3c9139e.png)|
 |---|---|---|
@@ -320,7 +324,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177298999-e8fb95da-346d-4cfc-8e32-e7e0af7adf63.png)|![image](https://user-images.githubusercontent.com/15833655/181068110-8b9b14fa-4134-4080-a588-f354b97cff4e.png)|![image](https://user-images.githubusercontent.com/15833655/177330605-437609f8-18a5-4c34-a088-6edda8ff516a.png)|
 |---|---|---|
 
-## Ячейка 34 - DELAY
+## Ячейка 34 - SDELAY
 Линия задержки из динамических защелок. Считаем пары комплементарных клоков, затем делим на два и получаем величину задержки в тактах. В VDP применяются линии задержки на 7 и 8 тактов.
 |![image](https://user-images.githubusercontent.com/15833655/177043894-f7f59653-5823-4741-8651-60464f30e954.png)|![image](https://user-images.githubusercontent.com/15833655/177050308-37253a97-b2e8-4ca0-9ddb-cb7cfbb0e110.png)|![image](https://user-images.githubusercontent.com/15833655/177051302-2227d4a4-ce10-417a-9df5-9e1be1ebda5b.png)|![image](https://user-images.githubusercontent.com/15833655/177208111-4cb79f70-1135-4643-99ec-54f74a765d03.png)|![image](https://user-images.githubusercontent.com/15833655/177209035-110e6935-7d91-4dfc-9d9d-60d0c76e94b2.png)|![image](https://user-images.githubusercontent.com/15833655/177209765-12239bb7-4509-4b96-8f1b-cc50a13758c4.png)|![image](https://user-images.githubusercontent.com/15833655/177210693-e190f27d-9537-407f-8719-53f73074eecd.png)|![image](https://user-images.githubusercontent.com/15833655/177213956-c3ab1a51-2025-4941-a873-b63e67a768c0.png)|
 |---|---|---|---|---|---|---|---|
@@ -427,7 +431,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 
 
-## Ячейка 65 FA_SR
+## Ячейка 65 FA_SEQ
 
 Полный сумматор с цепочкой  из двух динамических латчей (SR_bit)
 |![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|![image](https://user-images.githubusercontent.com/15833655/177827902-a10e1ec4-50f5-4882-9c32-b9f998aaba51.png)|
@@ -502,10 +506,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ## Ячейка 83
 |![image](https://user-images.githubusercontent.com/15833655/189172728-5a0e4f22-d875-47e4-a247-8e8c52ce7737.png)|
-|---|
-
-## Ячейка 84
-|![image](https://user-images.githubusercontent.com/15833655/189172587-83ba36d0-0972-4c37-8b32-33af6260fc87.png)|
 |---|
 
 ## Ячейка 85 - 2А3ОI
