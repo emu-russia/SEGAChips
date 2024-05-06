@@ -152,7 +152,7 @@ S-Latch с асинхронным сбросом
 
 ## Ячейка 14+15 - clkgen
 
-Расщепитель одиночной фазы на 4 комплемента.
+Расщепитель одиночной фазы на 4 комплемента. Используется в единственном экземпляре в PSG VDP
 
 |![image](https://user-images.githubusercontent.com/5828819/176186837-eefac41e-b4ba-426f-9a50-20cf0c258eb4.png)|![image](https://user-images.githubusercontent.com/5828819/176187126-68dec8b9-8d89-458e-b0a2-ad97e49e64cf.png)|![image](https://user-images.githubusercontent.com/5828819/176187306-69b78041-44e6-4965-b597-c64058f65cc4.png)|![image](https://user-images.githubusercontent.com/5828819/176187396-5416db50-3828-44ae-b9a8-6593ae666d41.png)|
 |---|---|---|---|
@@ -427,7 +427,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 
 
-## Ячейка 65
+## Ячейка 65 FA_SR
+
+Полный сумматор с цепочкой  из двух динамических латчей (SR_bit)
 |![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|![image](https://user-images.githubusercontent.com/15833655/177827902-a10e1ec4-50f5-4882-9c32-b9f998aaba51.png)|
 |---|---|
 
