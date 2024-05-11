@@ -447,8 +447,8 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 
 ## Ячейка 62 - AOI221
-|![image](https://user-images.githubusercontent.com/15833655/177315303-330298eb-42f8-49dd-9d38-06eb0ccc6233.png)|![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)|![622](https://user-images.githubusercontent.com/93550076/193424721-f88cabd9-eae5-4345-91a0-fe1e39094feb.JPG)|
-|---|---|---|
+|![image](https://user-images.githubusercontent.com/15833655/177315303-330298eb-42f8-49dd-9d38-06eb0ccc6233.png)|![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)|![622](https://user-images.githubusercontent.com/93550076/193424721-f88cabd9-eae5-4345-91a0-fe1e39094feb.JPG)| ![AOI221](https://github.com/emu-russia/SEGAChips/assets/93550076/d8237d9e-8155-4f93-a94b-8c8af493a38c)|
+|---|---|---|---|
 
 ## Ячейка 24 - rs
 
