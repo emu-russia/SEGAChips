@@ -48,6 +48,15 @@
 |![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/15833655/177209646-38150c10-8b96-4497-a0d4-f14530e69f67.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176599985-a0ec3b48-4fee-41c8-ab0e-1f3a0ea49c29.png)|
 |---|---|---|---|
 
+## Ячейка 60 dlatch_inv (Динамическая защёлка инвертирующая, буферизированная)
+Более мощный вариант ячейки 23, добавлена дополнительная пара фетов на выходе для умощнения.
+|![image](https://user-images.githubusercontent.com/15833655/177210033-a57ffe7f-13c1-4641-9c98-baff1b8309ec.png)|![image](https://user-images.githubusercontent.com/15833655/177809896-aff1320a-243d-45bd-8fe2-1d564e220ea5.png)|
+|---|---|
+
+## Ячейка 45 - EDGE DETECT
+|![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)|![image](https://user-images.githubusercontent.com/15833655/177769964-c420b92b-7263-4720-91c8-75fa84346d05.png)|
+|---|---|
+
 ## Ячейка 88 - DDLATCH
 
 |![87tran](https://user-images.githubusercontent.com/93550076/193691039-ef7d618e-7bfd-4ba4-953f-fe3475e32a55.JPG)|![87tr](https://user-images.githubusercontent.com/93550076/193691072-60a047be-72f4-46e8-bad5-511e4dc931c8.png)|
@@ -62,7 +71,7 @@
 
 Комплементарный Enable вход.
 
-## Ячейка 75 - DLATCH_R
+## Ячейка 75 - SLATCH_R
 
 S-Latch с асинхронным сбросом
 
@@ -391,10 +400,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![89](https://user-images.githubusercontent.com/93550076/195129194-55b99584-cc3a-4bee-83bd-1d585a54ff09.PNG)|
 |---|
 
-## Ячейка 45 - EDGE DETECT
-|![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)|![image](https://user-images.githubusercontent.com/15833655/177769964-c420b92b-7263-4720-91c8-75fa84346d05.png)|
-|---|---|
-
 ## Ячейка 49 TRI
 Тристэйт буферизированный
 |![image](https://user-images.githubusercontent.com/15833655/177050899-c8dea0ef-3783-4412-9fff-cc909c7d14d1.png)|![image](https://user-images.githubusercontent.com/15833655/177774991-099bb6bd-4777-410e-9b04-09cc07a402d6.png)|
@@ -433,11 +438,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 Бит реверсивного счетчика
 |![image](https://user-images.githubusercontent.com/15833655/177322139-d770276c-57e0-4251-8bd6-e1d394d67a8a.png)|![image](https://user-images.githubusercontent.com/15833655/177845050-0ff0e3cc-d47b-4deb-804a-e97226693932.png)|
-|---|---|
-
-
-## Ячейка 60
-|![image](https://user-images.githubusercontent.com/15833655/177210033-a57ffe7f-13c1-4641-9c98-baff1b8309ec.png)|![image](https://user-images.githubusercontent.com/15833655/177809896-aff1320a-243d-45bd-8fe2-1d564e220ea5.png)|
 |---|---|
 
 ## Ячейка 61 - AON21SR
