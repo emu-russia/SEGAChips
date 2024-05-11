@@ -123,14 +123,11 @@ S-Latch с асинхронным сбросом
 
 После получения поли стало понятно что верхняя часть не соединяется с VDD (как видно там обрубок), в остальном угадали. Есть предположение, что в неокрепших умах инженеров YAMAHA всё ещё витали мечты о N-MOS защёлках на затворных емкостях. Сейчас использовать емкость на затворах в CMOS считается моветоном и используют обычные FF на двух инверторах или норах.
 
-## Ячейка 11 - comp_dff (Комплементарный Posedge? DFF)
+## Ячейка 56 sr_biti
 
-|![image](https://user-images.githubusercontent.com/5828819/175959809-c1862af9-696c-46fe-9019-12709208eeb8.png)|![image](https://user-images.githubusercontent.com/5828819/176185683-8d289499-4ab1-420b-b637-89162f41face.png)|![image](https://user-images.githubusercontent.com/5828819/176496909-cebf6893-79e9-42c1-a375-97e714fedde6.png)|![image](https://user-images.githubusercontent.com/5828819/176496254-df19bae4-6b62-425b-8720-773386621ba8.png)|
-|---|---|---|---|
-
-Типовая DFF из двух вагонов. Нужно только определиться какой это DFF - Posedge или Negedge, а для этого нужно узнать какие значения боковых сигналов принимают при CLK=0.
-
-Комплементарка разводится вне ячеек, поэтому входов CLK ажно 4 штуки - два для CLK=0 и ещё два для CLK=1.
+Разряд регистра сдвига. Имеет инверсный выход и fet для подзарядки линии данных, используется совместно с таблицами синуса и логарифмов в FM
+|![image](https://user-images.githubusercontent.com/15833655/177208253-18ba99f7-9550-41bf-9c1c-b744aebb9ad8.png)|![image](https://user-images.githubusercontent.com/15833655/177799748-fe6a625f-9538-43f5-9a22-e7b49f6f726a.png)|
+|---|---|
 
 ## Ячейка 12 - lfsr_bit
 
@@ -175,25 +172,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 |![image](https://user-images.githubusercontent.com/5828819/176858461-752080b4-4bb8-45dd-83af-3c506128ef38.png)|![image](https://user-images.githubusercontent.com/15833655/176938592-fc952b5f-fa83-44c2-ae6d-1a6ba3cd8ad0.png)|![oai21](https://user-images.githubusercontent.com/93550076/230901762-4019156c-962b-4f0c-bf6a-3a27db510ba2.JPG)|
 |---|---|---|
-
-## Ячейка 18 - cnt_bit
-
-Разряд счётчика.
-
-В PSG carry_out не используется, т.к. все счётчики 1-разрядные. В других частях VDP carry_out используется. catty_in (вход слева) и carry_out (выход справа) разводятся через M1.
-
-|![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)|![image](https://user-images.githubusercontent.com/15833655/177043722-75fe4623-4394-4a9f-b28d-238b682965ff.png)|![image](https://user-images.githubusercontent.com/5828819/176202271-89a9a869-eba8-4442-9162-ad07cdecd52f.png)|
-|---|---|---|
-
-Схемы от разных авторов 😄
-
-![image](https://user-images.githubusercontent.com/5828819/176546959-4c393184-4c0a-4a63-8cba-5b0d0637f6d4.png)
-
-![image](https://user-images.githubusercontent.com/5828819/176546991-8d31ced1-1413-4190-9a63-2359cb80e9fe.png)
-
-![image](https://user-images.githubusercontent.com/5828819/176964161-ed1d2560-ecc8-4975-9612-9afddea007c9.png)
-
-![image](https://user-images.githubusercontent.com/5828819/176964207-71cf242f-d335-49a0-b958-8828570ff7f2.png)
 
 ## Ячейка 19 - aon22 (2x 2-AND into 2-OR gate)
 
@@ -273,6 +251,12 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/176933993-0a10b5c2-3a52-4f07-830a-99adbdbb33cc.png)|![image](https://user-images.githubusercontent.com/15833655/177050371-9efa20ed-63ac-4873-ae97-b183ccd5b6d0.png)|![image](https://user-images.githubusercontent.com/15833655/176934035-dfe53bc6-13c0-446d-bd76-b02c21975ee9.png)|![image](https://user-images.githubusercontent.com/15833655/176934076-3de32881-2f26-47d9-9354-0c3e7b3aa58a.png)|
 |---|---|---|---|
 
+## Ячейка 65 FA_SEQ
+
+Полный сумматор с цепочкой  из двух динамических латчей (SR_bit)
+|![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|![image](https://user-images.githubusercontent.com/15833655/177827902-a10e1ec4-50f5-4882-9c32-b9f998aaba51.png)|
+|---|---|
+
 ## Ячейка 22 - XOR
 
 |![image](https://user-images.githubusercontent.com/5828819/176287353-e5aa4c25-c5ad-488b-b5ed-8a5a0bb7fe38.png)|![image](https://user-images.githubusercontent.com/15833655/177051174-354f2c77-3467-42e5-a538-084929d4dfee.png)|![image](https://user-images.githubusercontent.com/5828819/176198629-096293c4-8224-41a3-9133-3c87889a9ea4.png)|![Cell22_topo](/imgstore/Cell22_topo.png)|![image](https://user-images.githubusercontent.com/5828819/176373559-127b9114-b944-4a54-af8c-263289dfe1b4.png)|![image](https://user-images.githubusercontent.com/5828819/176373596-dae9d4c7-592c-4829-99ff-055d552ea4be.png)|
@@ -281,25 +265,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 91 - XNOR
 |![image](https://user-images.githubusercontent.com/15833655/229275809-15a009cf-0f3d-4e68-976d-107f7475c2a5.png)|![XNOR](https://user-images.githubusercontent.com/93550076/229280978-ebb6a7f9-c3c6-459e-82a8-fbd5913e5afa.JPG)|
 |---|---|
-
-## Ячейка 24 - rs
-
-|![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png) ![image](https://user-images.githubusercontent.com/5828819/176260167-7acbff60-b5c9-4618-900e-3ab78da10f82.png)|![image](https://user-images.githubusercontent.com/5828819/176200419-f0a31bce-8d44-49dd-b2ca-4f85cd8f84c9.png) ![image](https://user-images.githubusercontent.com/5828819/176273044-a6c54232-eb47-4ad9-86bf-8f30cc6177a0.png)|![image](https://user-images.githubusercontent.com/5828819/176494028-95eb05ac-38b0-4284-aa39-72970e5e95fa.png)|
-|---|---|---|
-
-![image](https://user-images.githubusercontent.com/5828819/176285077-d3d89ffc-4052-4367-82ab-aaafcdb1dfd6.png)
-
-Порт `a` - Set, порт `b` - Reset.
-
-В двух экземплярах, ряд `H`.
-
-Анализ:
-
-![image](https://user-images.githubusercontent.com/5828819/176284957-6244b979-da7a-48d0-bd4b-9317c8e096a7.png)
-
-Видно что разработчики оставили выход `~Q`, но он не задействован.
-
-
 
 ## Ячейка 32
 |![image](https://user-images.githubusercontent.com/15833655/177043668-cb96b0a7-96e5-45c4-95cd-86aa6a724f65.png)|![image](https://user-images.githubusercontent.com/15833655/177329729-5116e0e2-ccd9-43db-87b2-9b87aec1a788.png)|
@@ -389,6 +354,9 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177044500-06811ce8-2e0c-4a22-8706-e2397600a572.png)|![image](https://user-images.githubusercontent.com/15833655/177763372-1e1a654e-35b1-440c-8177-5101292b288e.png)|
 |---|---|
 
+## Ячейка 101 - nand6
+![image](https://user-images.githubusercontent.com/15833655/233791356-704e01e2-a5fe-4bb1-9238-86c488d8b9b2.png)
+
 ## Ячейка 68 - OR7
 |![image](https://user-images.githubusercontent.com/15833655/177318549-f5ed5663-cf16-4b43-b6b0-55d986d22644.png)|![image](https://user-images.githubusercontent.com/15833655/177213414-2b506fe9-6c8d-4850-9a55-860c605dfbcc.png)|![image](https://user-images.githubusercontent.com/15833655/177830456-08e08936-f02f-46de-bfe8-57ec9cc911bd.png)|
 |---|---|---|
@@ -409,6 +377,20 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177318872-58145f01-b7c6-4bfe-81c7-fff5415975d6.png)|![image](https://user-images.githubusercontent.com/15833655/177213147-0e1e9544-4163-4d1b-9d58-07450e058096.png)|![image](https://user-images.githubusercontent.com/15833655/229513183-fb0f081d-6467-4bb4-8232-85bb3695744e.png)|![image](https://user-images.githubusercontent.com/15833655/177829825-ab6ef94a-b65c-4635-b753-c2ea98228d07.png)|
 |---|---|---|---|
 
+## Ячейка 79 - OR9
+|![image](https://user-images.githubusercontent.com/15833655/177322920-5c869958-3421-4aae-ac8b-e340c6dbbad4.png)|![image](https://user-images.githubusercontent.com/15833655/177850240-9f8d2ac7-7ba1-48cb-9ee1-1abf6f9d4012.png)|
+|---|---|
+
+## Ячейка 80 - AND9
+
+|![and9](https://user-images.githubusercontent.com/93550076/195130809-b3e6faba-83c7-4d84-9456-f9980d426ec2.PNG)|![and9log](https://user-images.githubusercontent.com/93550076/195130835-554c50c5-d759-47c0-90b9-12b67150b166.PNG)|
+|---|---|
+
+## Ячейка 90 - NOR12
+
+|![89](https://user-images.githubusercontent.com/93550076/195129194-55b99584-cc3a-4bee-83bd-1d585a54ff09.PNG)|
+|---|
+
 ## Ячейка 45 - EDGE DETECT
 |![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)|![image](https://user-images.githubusercontent.com/15833655/177769964-c420b92b-7263-4720-91c8-75fa84346d05.png)|
 |---|---|
@@ -422,14 +404,35 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177050941-e9b54348-8909-43fa-ba21-0b4a2387e780.png)|![image](https://user-images.githubusercontent.com/15833655/177775875-d8d45190-33e5-4405-bc83-c97ceaec9d8c.png)|
 |---|---|
 
+## Ячейка 18 - cnt_bit
+
+Разряд счётчика.
+
+В PSG carry_out не используется, т.к. все счётчики 1-разрядные. В других частях VDP carry_out используется. catty_in (вход слева) и carry_out (выход справа) разводятся через M1.
+
+|![image](https://user-images.githubusercontent.com/5828819/175959078-5cf9f231-baaa-4a33-add7-f35cdb7e9b32.png)|![image](https://user-images.githubusercontent.com/15833655/177043722-75fe4623-4394-4a9f-b28d-238b682965ff.png)|![image](https://user-images.githubusercontent.com/5828819/176202271-89a9a869-eba8-4442-9162-ad07cdecd52f.png)|
+|---|---|---|
+
+Схемы от разных авторов 😄
+
+![image](https://user-images.githubusercontent.com/5828819/176546959-4c393184-4c0a-4a63-8cba-5b0d0637f6d4.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176546991-8d31ced1-1413-4190-9a63-2359cb80e9fe.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176964161-ed1d2560-ecc8-4975-9612-9afddea007c9.png)
+
+![image](https://user-images.githubusercontent.com/5828819/176964207-71cf242f-d335-49a0-b958-8828570ff7f2.png)
+
 ## Ячейка 52 - cnt_bit_load
 
 счетчик со входом для загрузки значения V и комплементарным входом для разрешения загрузки LOAD L, /L
 |![image](https://user-images.githubusercontent.com/15833655/177316825-9ab591c5-1d5a-4c26-9c97-a710d92115c4.png)|![image](https://user-images.githubusercontent.com/15833655/177051266-ed19c5a5-3b47-45f9-a2ce-f390d4a3a172.png)|![image](https://user-images.githubusercontent.com/15833655/177778327-cf7b8c90-dd72-4f33-b569-b8d921b1ae16.png)|![image](https://user-images.githubusercontent.com/15833655/177778468-a0a5f2b1-8eb7-4c13-9203-62d993595042.png)|
 |---|---|---|---|
 
-## Ячейка 56
-|![image](https://user-images.githubusercontent.com/15833655/177208253-18ba99f7-9550-41bf-9c1c-b744aebb9ad8.png)|![image](https://user-images.githubusercontent.com/15833655/177799748-fe6a625f-9538-43f5-9a22-e7b49f6f726a.png)|
+## Ячейка 77 - cnt_bit_rev
+
+Бит реверсивного счетчика
+|![image](https://user-images.githubusercontent.com/15833655/177322139-d770276c-57e0-4251-8bd6-e1d394d67a8a.png)|![image](https://user-images.githubusercontent.com/15833655/177845050-0ff0e3cc-d47b-4deb-804a-e97226693932.png)|
 |---|---|
 
 
@@ -447,12 +450,22 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |![image](https://user-images.githubusercontent.com/15833655/177315303-330298eb-42f8-49dd-9d38-06eb0ccc6233.png)|![image](https://user-images.githubusercontent.com/15833655/177210533-1620d2c4-d799-4173-876a-56eed1c3a0b5.png)|![622](https://user-images.githubusercontent.com/93550076/193424721-f88cabd9-eae5-4345-91a0-fe1e39094feb.JPG)|
 |---|---|---|
 
+## Ячейка 24 - rs
 
-## Ячейка 65 FA_SEQ
+|![image](https://user-images.githubusercontent.com/5828819/176145611-63770541-ccd9-43e7-be5c-61badbb8c6af.png) ![image](https://user-images.githubusercontent.com/5828819/176260167-7acbff60-b5c9-4618-900e-3ab78da10f82.png)|![image](https://user-images.githubusercontent.com/5828819/176200419-f0a31bce-8d44-49dd-b2ca-4f85cd8f84c9.png) ![image](https://user-images.githubusercontent.com/5828819/176273044-a6c54232-eb47-4ad9-86bf-8f30cc6177a0.png)|![image](https://user-images.githubusercontent.com/5828819/176494028-95eb05ac-38b0-4284-aa39-72970e5e95fa.png)|
+|---|---|---|
 
-Полный сумматор с цепочкой  из двух динамических латчей (SR_bit)
-|![image](https://user-images.githubusercontent.com/15833655/177212072-4b120679-6bea-4632-bd51-10ea7b05ee6b.png)|![image](https://user-images.githubusercontent.com/15833655/177827902-a10e1ec4-50f5-4882-9c32-b9f998aaba51.png)|
-|---|---|
+![image](https://user-images.githubusercontent.com/5828819/176285077-d3d89ffc-4052-4367-82ab-aaafcdb1dfd6.png)
+
+Порт `a` - Set, порт `b` - Reset.
+
+В двух экземплярах, ряд `H`.
+
+Анализ:
+
+![image](https://user-images.githubusercontent.com/5828819/176284957-6244b979-da7a-48d0-bd4b-9317c8e096a7.png)
+
+Видно что разработчики оставили выход `~Q`, но он не задействован.
 
 ## Ячейка 70 SYNC_SRFF
 |![image](https://user-images.githubusercontent.com/15833655/177214475-1044c75b-6355-43d7-93a9-b1a6e2ce889f.png)|![image](https://user-images.githubusercontent.com/15833655/177833407-ea8ec234-a2ba-43b3-abf2-1ec839db902b.png)|![image](https://user-images.githubusercontent.com/15833655/177833275-7cfb507d-0107-402c-92b4-12e8b8060b5f.png)|
@@ -465,9 +478,22 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 |---|---|---|
 ![71pin](https://github.com/emu-russia/SEGAChips/assets/93550076/72a3def1-8e1c-49f9-853a-f074152b4bb6)
 
+## Ячейка 11 - comp_dff (Комплементарный Posedge? DFF)
+
+|![image](https://user-images.githubusercontent.com/5828819/175959809-c1862af9-696c-46fe-9019-12709208eeb8.png)|![image](https://user-images.githubusercontent.com/5828819/176185683-8d289499-4ab1-420b-b637-89162f41face.png)|![image](https://user-images.githubusercontent.com/5828819/176496909-cebf6893-79e9-42c1-a375-97e714fedde6.png)|![image](https://user-images.githubusercontent.com/5828819/176496254-df19bae4-6b62-425b-8720-773386621ba8.png)|
+|---|---|---|---|
+
+Типовая DFF из двух вагонов. Нужно только определиться какой это DFF - Posedge или Negedge, а для этого нужно узнать какие значения боковых сигналов принимают при CLK=0.
+
+Комплементарка разводится вне ячеек, поэтому входов CLK ажно 4 штуки - два для CLK=0 и ещё два для CLK=1.
+
 ## Ячейка 72 - pos-edge dff
 |![image](https://user-images.githubusercontent.com/15833655/177298561-c68a9c59-e39e-480d-a0fe-185fde3e82e4.png)|![image](https://user-images.githubusercontent.com/15833655/177834904-977d23f7-1d70-4341-bed6-b516cf25b447.png)|![image](https://user-images.githubusercontent.com/15833655/177835041-a12cfee7-5d9e-490c-9a5c-42e292ca8a1d.png)|
 |---|---|---|
+
+## Ячейка 92 - neg-edge dff
+|![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)|
+|---|
 
 ## Ячейка 73 - OAI211
 |![image](https://user-images.githubusercontent.com/15833655/177299764-d9c6c6ee-9f16-4240-9a2d-eb1e4ac4a01a.png)|![image](https://user-images.githubusercontent.com/93550076/192620188-0becddf1-af0f-40bd-aceb-c0c3080c8160.png)|
@@ -484,22 +510,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 |![image](https://user-images.githubusercontent.com/15833655/177318303-f221ec4a-e295-4a5f-95d0-5b6f365cf3d4.png)|![image](https://user-images.githubusercontent.com/15833655/177842944-4ada51a2-81b4-4b98-a9fd-7f3ed96c6a15.png)|![76 log](https://user-images.githubusercontent.com/93550076/230763009-9792798c-ad5e-4330-860c-54b2817d26e7.png)|
 |---|---|---|
-
-## Ячейка 77 - cnt_bit_rev
-
-Бит реверсивного счетчика
-|![image](https://user-images.githubusercontent.com/15833655/177322139-d770276c-57e0-4251-8bd6-e1d394d67a8a.png)|![image](https://user-images.githubusercontent.com/15833655/177845050-0ff0e3cc-d47b-4deb-804a-e97226693932.png)|
-|---|---|
-
-
-## Ячейка 79 - OR9
-|![image](https://user-images.githubusercontent.com/15833655/177322920-5c869958-3421-4aae-ac8b-e340c6dbbad4.png)|![image](https://user-images.githubusercontent.com/15833655/177850240-9f8d2ac7-7ba1-48cb-9ee1-1abf6f9d4012.png)|
-|---|---|
-
-## Ячейка 80 - AND9
-
-|![and9](https://user-images.githubusercontent.com/93550076/195130809-b3e6faba-83c7-4d84-9456-f9980d426ec2.PNG)|![and9log](https://user-images.githubusercontent.com/93550076/195130835-554c50c5-d759-47c0-90b9-12b67150b166.PNG)|
-|---|---|
 
 ## Ячейка 82
 |![image](https://user-images.githubusercontent.com/15833655/181067813-af40b77f-7b86-4dc0-9cb3-1e2321e626ab.png)|
@@ -528,16 +538,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 |![88](https://user-images.githubusercontent.com/93550076/193937405-60592e96-fa25-444e-873b-56c9fa2d023a.JPG)|![89 topo](https://user-images.githubusercontent.com/93550076/233296826-c9577415-b443-45fb-918e-28dde781a3a5.JPG)|![89 LOG2](https://user-images.githubusercontent.com/93550076/233297733-719c7bd6-c898-4d02-89b0-b99832ebb15b.png)|
 |---|---|---|
-
-## Ячейка 90 - NOR12
-
-|![89](https://user-images.githubusercontent.com/93550076/195129194-55b99584-cc3a-4bee-83bd-1d585a54ff09.PNG)|
-|---|
-
-
-## Ячейка 92 - neg-edge dff
-|![image](https://user-images.githubusercontent.com/15833655/229275921-4495e9a4-c4c6-4d06-a863-70985e5d8a82.png)|
-|---|
 
 ## Ячейка 93 - pos-edge cnt_bit
 |![image](https://user-images.githubusercontent.com/15833655/229506922-7e0be65f-4894-481f-8def-f20a4b88bc0c.png)|![image](https://user-images.githubusercontent.com/15833655/230457203-590468c8-95a6-4d1e-b1d1-2b662d8d5768.png)|
@@ -575,9 +575,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 100 - pos-edge dff, inv set, inv reset
 |![image](https://user-images.githubusercontent.com/15833655/233264526-a6aadc4c-f251-44da-baaf-6ee2ca2360c4.png)|![image](https://user-images.githubusercontent.com/15833655/233271887-17e1b40a-8e76-4f1c-943f-5a7c4daad0e0.png)|![image](https://user-images.githubusercontent.com/15833655/233271933-b12dbbac-031a-4a8c-8897-9d8f43412eb7.png)|
 |---|---|---|
-
-## Ячейка 101 - nand6
-![image](https://user-images.githubusercontent.com/15833655/233791356-704e01e2-a5fe-4bb1-9238-86c488d8b9b2.png)
 
 ## Ячейка 102
 |![image](https://user-images.githubusercontent.com/15833655/234788618-f64bbaf4-6798-4bde-a8e8-00b6746f91dc.png)|![image](https://user-images.githubusercontent.com/15833655/234788735-adbc71c9-35f0-4a11-b254-30fff4fe787b.png)|
