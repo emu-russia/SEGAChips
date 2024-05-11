@@ -48,7 +48,7 @@
 |![image](https://user-images.githubusercontent.com/5828819/176144811-5e6adfbd-b1f2-4581-a6d5-d1d0145d84e4.png)|![image](https://user-images.githubusercontent.com/15833655/177209646-38150c10-8b96-4497-a0d4-f14530e69f67.png)|![image](https://user-images.githubusercontent.com/5828819/176199363-e7ef2c94-cf95-41e6-a921-289226d8481f.png)|![image](https://user-images.githubusercontent.com/5828819/176599985-a0ec3b48-4fee-41c8-ab0e-1f3a0ea49c29.png)|
 |---|---|---|---|
 
-## Ячейка 60 dlatch_inv (Динамическая защёлка инвертирующая, буферизированная)
+## Ячейка 60 dlatch_invs (Динамическая защёлка инвертирующая, буферизированная)
 Более мощный вариант ячейки 23, добавлена дополнительная пара фетов на выходе для умощнения.
 |![image](https://user-images.githubusercontent.com/15833655/177210033-a57ffe7f-13c1-4641-9c98-baff1b8309ec.png)|![image](https://user-images.githubusercontent.com/15833655/177809896-aff1320a-243d-45bd-8fe2-1d564e220ea5.png)|
 |---|---|
