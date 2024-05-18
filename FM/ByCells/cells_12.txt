@@ -1,3 +1,0 @@
-sr_bit sr_bit xor sr_bit xor sr_bit xor xor xor xor xor xor
-fa fa fa fa sr_bit sr_bit sr_bit sr_bit sr_bit sr_bit
-fa fa fa fa fa fa
