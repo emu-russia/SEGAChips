@@ -32,3 +32,10 @@ Directory composition is a bit chaotic, but it'll do.
 - YM_Cells: Yamaha standard cell library
 - YM6_Cells: Standard cell library used in Yamaha's YM6xxx series CMOS chips ("two-story cells")
 - Z80: Investigation of the CMOS version of the Z80 from MD2 (Z84C0006)
+
+## Some Terminology
+
+- Netlist: connection of modules (standard cells) by interconnections (wires). Chip research consists in obtaining its complete netlist
+- Deroute: netlist recovery utility. SEGA/YAMAHA chips are already quite high-level (using a library of standard cells), so the result of reverse engineering of these chips is somewhat similar to the process of disassembling programs
+- Lambda: Deroute utility setting, defining raster-independent coordinates
+- Master Dataset: the image from which the netlist is reconstructed
