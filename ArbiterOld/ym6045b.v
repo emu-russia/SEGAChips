@@ -147,153 +147,7 @@ module ym6045b (  VA9_o, VA9_d, VA9_i, VA10_o, VA10_d, VA10_i, VA11_o, VA11_d, V
 	output wire VA8_d;
 	input wire VA8_i;
 
-	assign VA9_o = w12;
-	assign VA9_d = w221;
-	assign w364 = VA9_i;
-	assign VA10_o = w15;
-	assign VA10_d = w221;
-	assign w77 = VA10_i;
-	assign VA11_o = w19;
-	assign VA11_d = w221;
-	assign w75 = VA11_i;
-	assign VA12_o = w262;
-	assign w59 = VA12_i;
-	assign VA13_o = w271;
-	assign VA13_d = w221;
-	assign w40 = VA13_i;
-	assign VA14_o = w282;
-	assign VA14_d = w221;
-	assign w41 = VA14_i;
-	assign VA15_o = w287;
-	assign VA15_d = w221;
-	assign w277 = VA15_i;
-	assign VA16_o = w337;
-	assign VA16_d = w221;
-	assign w203 = VA16_i;
-	assign VA17_o = w338;
-	assign VA17_d = w221;
-	assign w367 = VA17_i;
-	assign VA18_o = w339;
-	assign VA18_d = w221;
-	assign w368 = VA18_i;
-	assign VA19_o = w369;
-	assign VA19_d = w221;
-	assign w370 = VA19_i;
-	assign VA20_o = w372;
-	assign VA20_d = w221;
-	assign w371 = VA20_i;
-	assign VA21_o = w373;
-	assign VA21_d = w374;
-	assign w245 = VA21_i;
-	assign VA22_o = w375;
-	assign VA22_d = w374;
-	assign w234 = VA22_i;
-	assign VA23_o = w376;
-	assign VA23_d = w374;
-	assign w108 = VA23_i;
-	assign w305 = FC0;
-	assign w304 = FC1;
-	assign VPA = w302;
-	assign VRES = w303;
-	assign HALT = w303;
-	assign VD8_o = w145;
-	assign VD8_d = w174;
-	assign w119 = VD8_i;
-	assign w10 = VCLK;
-	assign TIME = w202;
-	assign w43 = CAS0;
-	assign DTACK_o = w296;
-	assign DTACK_d = w292;
-	assign w211 = DTACK_i;
-	assign RW_o = w377;
-	assign RW_d = w297;
-	assign w31 = RW_i;
-	assign LDS_o = w134;
-	assign LDS_d = w297;
-	assign w298 = LDS_i;
-	assign UDS_o = w133;
-	assign UDS_d = w297;
-	assign w139 = UDS_i;
-	assign AS_o = w152;
-	assign AS_d = w297;
-	assign w5 = AS_i;
-	assign INTAK = w293;
-	assign VDPM = w291;
-	assign w209 = BG;
-	assign BGACK_o = w294;
-	assign BGACK_d = w297;
-	assign w210 = BGACK_i;
-	assign BR = w295;
-	assign SOUND = w110;
-	assign w151 = ZCLK;
-	assign w140 = WRES;
-	assign ZRAM = w384;
-	assign REF = w167;
-	assign w385 = M1;
-	assign ZRES = w169;
-	assign ZBR = w171;
-	assign WAIT_o = w164;
-	assign WAIT_d = w178;
-	assign w48 = WAIT_i;
-	assign w145 = ZBAK;
-	assign ZWR_o = w386;
-	assign ZWR_d = w95;
-	assign w377 = ZWR_i;
-	assign ZRD_o = w387;
-	assign ZRD_d = w95;
-	assign w388 = ZRD_i;
-	assign w147 = IREQ;
-	assign MREQ_o = w180;
-	assign MREQ_d = w95;
-	assign w123 = MREQ_i;
-	assign NMI = w391;
-	assign ZA0_o = w389;
-	assign ZA0_d = w95;
-	assign w390 = ZA0_i;
-	assign w379 = ZA7;
-	assign ZA8_o = w2;
-	assign ZA8_d = w95;
-	assign w378 = ZA8_i;
-	assign ZA9_o = w364;
-	assign ZA9_d = w95;
-	assign w73 = ZA9_i;
-	assign ZA10_o = w77;
-	assign ZA10_d = w95;
-	assign w72 = ZA10_i;
-	assign ZA11_o = w75;
-	assign ZA11_d = w95;
-	assign w71 = ZA11_i;
-	assign ZA12_o = w59;
-	assign ZA12_d = w95;
-	assign w76 = ZA12_i;
-	assign ZA13_o = w40;
-	assign ZA13_d = w95;
-	assign w90 = ZA13_i;
-	assign ZA14_o = w41;
-	assign ZA14_d = w95;
-	assign w49 = ZA14_i;
-	assign ZA15_o = w1;
-	assign ZA15_d = w11;
-	assign w8 = ZA15_i;
-	assign w247 = ZD0;
-	assign FDWR = w192;
-	assign FDC = w193;
-	assign ROM = w230;
-	assign ASEL = w235;
-	assign CAS2 = w194;
-	assign RAS2 = w233;
-	assign CE0 = w9;
-	assign VTOZ = w11;
-	assign ZTOV = w221;
-	assign w229 = SRES;
-	assign IO = w195;
-	assign w53 = M3;
-	assign w231 = CART;
-	assign VA8_o = w4;
-	assign VA8_d = w221;
-	assign w2 = VA8_i;
-
-// Wires
+	// Wires
 
 	wire w1;
 	wire w2;
@@ -690,7 +544,153 @@ module ym6045b (  VA9_o, VA9_d, VA9_i, VA10_o, VA10_d, VA10_i, VA11_o, VA11_d, V
 	wire w393;
 	wire w394;
 
-// Instances
+	assign VA9_o = w12;
+	assign VA9_d = w221;
+	assign w364 = VA9_i;
+	assign VA10_o = w15;
+	assign VA10_d = w221;
+	assign w77 = VA10_i;
+	assign VA11_o = w19;
+	assign VA11_d = w221;
+	assign w75 = VA11_i;
+	assign VA12_o = w262;
+	assign w59 = VA12_i;
+	assign VA13_o = w271;
+	assign VA13_d = w221;
+	assign w40 = VA13_i;
+	assign VA14_o = w282;
+	assign VA14_d = w221;
+	assign w41 = VA14_i;
+	assign VA15_o = w287;
+	assign VA15_d = w221;
+	assign w277 = VA15_i;
+	assign VA16_o = w337;
+	assign VA16_d = w221;
+	assign w203 = VA16_i;
+	assign VA17_o = w338;
+	assign VA17_d = w221;
+	assign w367 = VA17_i;
+	assign VA18_o = w339;
+	assign VA18_d = w221;
+	assign w368 = VA18_i;
+	assign VA19_o = w369;
+	assign VA19_d = w221;
+	assign w370 = VA19_i;
+	assign VA20_o = w372;
+	assign VA20_d = w221;
+	assign w371 = VA20_i;
+	assign VA21_o = w373;
+	assign VA21_d = w374;
+	assign w245 = VA21_i;
+	assign VA22_o = w375;
+	assign VA22_d = w374;
+	assign w234 = VA22_i;
+	assign VA23_o = w376;
+	assign VA23_d = w374;
+	assign w108 = VA23_i;
+	assign w305 = FC0;
+	assign w304 = FC1;
+	assign VPA = w302;
+	assign VRES = w303;
+	assign HALT = w303;
+	assign VD8_o = w145;
+	assign VD8_d = w174;
+	assign w119 = VD8_i;
+	assign w10 = VCLK;
+	assign TIME = w202;
+	assign w43 = CAS0;
+	assign DTACK_o = w296;
+	assign DTACK_d = w292;
+	assign w211 = DTACK_i;
+	assign RW_o = w377;
+	assign RW_d = w297;
+	assign w31 = RW_i;
+	assign LDS_o = w134;
+	assign LDS_d = w297;
+	assign w298 = LDS_i;
+	assign UDS_o = w133;
+	assign UDS_d = w297;
+	assign w139 = UDS_i;
+	assign AS_o = w152;
+	assign AS_d = w297;
+	assign w5 = AS_i;
+	assign INTAK = w293;
+	assign VDPM = w291;
+	assign w209 = BG;
+	assign BGACK_o = w294;
+	assign BGACK_d = w297;
+	assign w210 = BGACK_i;
+	assign BR = w295;
+	assign SOUND = w110;
+	assign w151 = ZCLK;
+	assign w140 = WRES;
+	assign ZRAM = w384;
+	assign REF = w167;
+	assign w385 = M1;
+	assign ZRES = w169;
+	assign ZBR = w171;
+	assign WAIT_o = w164;
+	assign WAIT_d = w178;
+	assign w48 = WAIT_i;
+	assign w145 = ZBAK;
+	assign ZWR_o = w386;
+	assign ZWR_d = w95;
+	assign w377 = ZWR_i;
+	assign ZRD_o = w387;
+	assign ZRD_d = w95;
+	assign w388 = ZRD_i;
+	assign w147 = IREQ;
+	assign MREQ_o = w180;
+	assign MREQ_d = w95;
+	assign w123 = MREQ_i;
+	assign NMI = w391;
+	assign ZA0_o = w389;
+	assign ZA0_d = w95;
+	assign w390 = ZA0_i;
+	assign w379 = ZA7;
+	assign ZA8_o = w2;
+	assign ZA8_d = w95;
+	assign w378 = ZA8_i;
+	assign ZA9_o = w364;
+	assign ZA9_d = w95;
+	assign w73 = ZA9_i;
+	assign ZA10_o = w77;
+	assign ZA10_d = w95;
+	assign w72 = ZA10_i;
+	assign ZA11_o = w75;
+	assign ZA11_d = w95;
+	assign w71 = ZA11_i;
+	assign ZA12_o = w59;
+	assign ZA12_d = w95;
+	assign w76 = ZA12_i;
+	assign ZA13_o = w40;
+	assign ZA13_d = w95;
+	assign w90 = ZA13_i;
+	assign ZA14_o = w41;
+	assign ZA14_d = w95;
+	assign w49 = ZA14_i;
+	assign ZA15_o = w1;
+	assign ZA15_d = w11;
+	assign w8 = ZA15_i;
+	assign w247 = ZD0;
+	assign FDWR = w192;
+	assign FDC = w193;
+	assign ROM = w230;
+	assign ASEL = w235;
+	assign CAS2 = w194;
+	assign RAS2 = w233;
+	assign CE0 = w9;
+	assign VTOZ = w11;
+	assign ZTOV = w221;
+	assign w229 = SRES;
+	assign IO = w195;
+	assign w53 = M3;
+	assign w231 = CART;
+	assign VA8_o = w4;
+	assign VA8_d = w221;
+	assign w2 = VA8_i;
+
+	// Instances
 
 	ym6045b_cell_23 g1 (.o5(w3), .i10(w5), .i11(w10) );
 	ym6045b_cell_18 g2 (.o1(w7), .i2(w6), .i3(w5), .i4(w3) );
@@ -1247,3 +1247,66 @@ module ym6045b_cell_17 (  i2, o3, o10, o16, o23, o29, o36, o42, o49, i56, i57);
 
 endmodule // ym6045b_cell_17
 
+
+
+// ERROR: floating wire w1
+// ERROR: floating wire w74
+// ERROR: floating wire w164
+// ERROR: floating wire w224
+// ERROR: floating wire w227
+// ERROR: floating wire w294
+// ERROR: floating wire w296
+// ERROR: floating wire w312
+// ERROR: floating wire w315
+// ERROR: floating wire w358
+// ERROR: floating wire w392
+// ERROR: floating wire w394
+// WARNING: Cell ym6045b_cell_23:g1 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g3 port o5 not connected.
+// WARNING: Cell ym6045b_cell_9:g29 port o11 not connected.
+// WARNING: Cell ym6045b_cell_25:g34 port o2 not connected.
+// WARNING: Cell ym6045b_cell_2:g45 port o4 not connected.
+// WARNING: Cell ym6045b_cell_9:g49 port o11 not connected.
+// WARNING: Cell ym6045b_cell_23:g54 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g63 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g64 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g71 port o2 not connected.
+// WARNING: Cell ym6045b_cell_2:g76 port o4 not connected.
+// WARNING: Cell ym6045b_cell_23:g82 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g84 port o5 not connected.
+// WARNING: Cell ym6045b_cell_2:g116 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g125 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g129 port o2 not connected.
+// WARNING: Cell ym6045b_cell_2:g133 port o2 not connected.
+// WARNING: Cell ym6045b_cell_2:g134 port o4 not connected.
+// WARNING: Cell ym6045b_cell_2:g137 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g144 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g145 port o2 not connected.
+// WARNING: Cell ym6045b_cell_14:g153 port o2 not connected.
+// WARNING: Cell ym6045b_cell_14:g154 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g175 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g180 port o2 not connected.
+// WARNING: Cell ym6045b_cell_9:g190 port o11 not connected.
+// WARNING: Cell ym6045b_cell_2:g192 port o2 not connected.
+// WARNING: Cell ym6045b_cell_38:g203 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g205 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g206 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g208 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g209 port o1 not connected.
+// WARNING: Cell ym6045b_cell_14:g212 port o2 not connected.
+// WARNING: Cell ym6045b_cell_14:g212 port o15 not connected.
+// WARNING: Cell ym6045b_cell_14:g213 port o2 not connected.
+// WARNING: Cell ym6045b_cell_14:g214 port o2 not connected.
+// WARNING: Cell ym6045b_cell_14:g214 port o15 not connected.
+// WARNING: Cell ym6045b_cell_14:g215 port o2 not connected.
+// WARNING: Cell ym6045b_cell_9:g224 port o11 not connected.
+// WARNING: Cell ym6045b_cell_23:g257 port o2 not connected.
+// WARNING: Cell ym6045b_cell_38:g260 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g261 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g264 port o1 not connected.
+// WARNING: Cell ym6045b_cell_38:g265 port o1 not connected.
+// WARNING: Cell ym6045b_cell_14:g268 port o2 not connected.
+// WARNING: Cell ym6045b_cell_14:g270 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g278 port o2 not connected.
+// WARNING: Cell ym6045b_cell_2:g281 port o2 not connected.
+// WARNING: Cell ym6045b_cell_23:g285 port o2 not connected.
