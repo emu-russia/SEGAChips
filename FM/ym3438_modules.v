@@ -1465,10 +1465,9 @@ module ym3438_SRFF (  Q, nQ, S, R);
 
 endmodule // ym3438_SRFF
 
-module ym3438_SYNC_SRFF (  Q, nQ, C, S, R);
+module ym3438_SYNC_SRFF (  Q, C, S, R);
 
 	output wire Q;
-	output wire nQ;
 	input wire C;
 	input wire S;
 	input wire R;
@@ -1476,7 +1475,6 @@ module ym3438_SYNC_SRFF (  Q, nQ, C, S, R);
 	reg val;
 	
 	assign Q = val;
-	assign nQ = ~val;
 	
 	always_latch
 	begin
