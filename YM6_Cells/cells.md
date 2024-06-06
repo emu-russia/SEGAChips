@@ -253,7 +253,7 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c13446a3-c824-49e9-b57e-e56d878ba145)
 
-## Ячейка 41
+## Ячейка 41 - 4bit SIPO Shift Register (sr4) + Async Reset
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/f64c11c2-270b-420e-b906-134cf673ca09)
 
