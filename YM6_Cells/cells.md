@@ -272,6 +272,11 @@ DFF по нарастающему фронту (posedge).
 ## Ячейка 45 SLATCH
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/922cd60a-2553-45cb-8708-aca049dca51b)
+![45poly](https://github.com/emu-russia/SEGAChips/assets/93550076/a022d8eb-9594-4c69-aedb-8aa0ae755723)
+![45_pin](https://github.com/emu-russia/SEGAChips/assets/93550076/8293fc74-52bc-46e4-b3fc-58abd83ffa88)
+
+
+
 
 ## Ячейка 46
 
