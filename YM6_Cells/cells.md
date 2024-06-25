@@ -81,8 +81,8 @@ Regular posedge Master-Slave DFF with active-low set input. Nothing unusual.
 |---|---|---|---|
 
 ## Ячейка 14 - cnt_bit
-|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/89c07e6d-9d4a-4bfb-9281-407dfd855008)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)|![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|
-|---|---|---|---|
+|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/89c07e6d-9d4a-4bfb-9281-407dfd855008)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/ffdbfc47-3bc1-4d3a-acb5-82b223288637)|![image](https://user-images.githubusercontent.com/15833655/184320364-d5e2a32b-8389-4529-82ad-d396d4569f61.png)|![image](https://user-images.githubusercontent.com/15833655/184320442-476a2a36-638b-4881-ba6a-aac0cbab9a8e.png)|![14PORT](https://github.com/emu-russia/SEGAChips/assets/93550076/fb26fe55-bcf0-4ad5-93fe-a46f6b915363)|
+|---|---|---|---|---|
 
 Разряд синхронного счётчика.
 
