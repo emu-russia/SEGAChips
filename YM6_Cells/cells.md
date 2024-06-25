@@ -158,7 +158,8 @@ The delay is made of 8 inverters. The first 7 have wider gates (they have higher
 ## Ячейка 22 - 4-bit mux
 
 |![image](https://github.com/emu-russia/SEGAChips/assets/15833655/2fe9e77a-de3f-4dc4-9e75-588c59df5b22)|![image](https://github.com/emu-russia/SEGAChips/assets/15833655/8df190b1-fccb-4807-a4f3-a78d8e643f3b)|
-|---|---|
+![22PORT](https://github.com/emu-russia/SEGAChips/assets/93550076/a1349099-c471-4aab-9eab-45871d91c67d)|
+|---|---|---|
 
 ## Ячейка 23 - dffpos
 
