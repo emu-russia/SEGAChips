@@ -267,11 +267,13 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/64379939-98b6-41c4-984d-a76045ef3ded)
 
-## Ячейка 44
+## Ячейка 44 - NOR6
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/fbc399c4-d0e1-417e-8d69-669491e92d6d)
+![44POLY](https://github.com/emu-russia/SEGAChips/assets/93550076/ab1b4ea2-65ae-46a0-86d1-f32a72e2c874)
 
-## Ячейка 45 SLATCH
+
+## Ячейка 45 - SLATCH
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/922cd60a-2553-45cb-8708-aca049dca51b)
 ![45poly](https://github.com/emu-russia/SEGAChips/assets/93550076/a022d8eb-9594-4c69-aedb-8aa0ae755723)
@@ -291,4 +293,8 @@ DFF по нарастающему фронту (posedge).
 ## Ячейка 48
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/236e370c-1234-429c-869b-3e693551f0a8)
+
+## Ячейка 49
+
+![49](https://github.com/emu-russia/SEGAChips/assets/93550076/ceba587c-93e7-4624-ab0b-ff0d388324de)
 
