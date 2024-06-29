@@ -283,7 +283,9 @@ DFF по нарастающему фронту (posedge).
 
 
 
-## Ячейка 46
+## Ячейка 46 - 2-bit mux 4 to 1
+
+Сдвоенный мультиплексор 4 в 1
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c51d4bf5-b0c0-4c60-bb1c-e3c3026a218c)
 
