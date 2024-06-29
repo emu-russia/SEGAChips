@@ -291,11 +291,12 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/99a41152-1bc6-4a8f-a95a-2743ad454a5e)
 
-## Ячейка 48
 
-![image](https://github.com/emu-russia/SEGAChips/assets/15833655/236e370c-1234-429c-869b-3e693551f0a8)
+## Ячейка 48 - DFF, active low async Set Res, posedge (`dffsrpos`)
 
-## Ячейка 49
+D-триггер с асинхронным сбросом и предустановкой, чувствительность по переднему фронту
 
 ![49](https://github.com/emu-russia/SEGAChips/assets/93550076/ceba587c-93e7-4624-ab0b-ff0d388324de)
+![49log](https://github.com/emu-russia/SEGAChips/assets/93550076/496b71bc-b65d-4699-98ef-eb65c0c897c6)
+
 
