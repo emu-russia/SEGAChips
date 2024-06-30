@@ -284,6 +284,9 @@ DFF по нарастающему фронту (posedge).
 Сдвоенный мультиплексор 4 в 1
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c51d4bf5-b0c0-4c60-bb1c-e3c3026a218c)
+![46poly](https://github.com/emu-russia/SEGAChips/assets/93550076/650e4b37-8cae-4ffd-9896-bb885c26bbd6)
+![46LOG](https://github.com/emu-russia/SEGAChips/assets/93550076/406f4a22-f6ff-4290-a6d7-670a2a060187)
+
 
 ## Ячейка 47 - JKFF, active low async Set Res, negedge (`jkffsrneg`)
 JK-триггер с асинхронным сбросом и предустановкой, чувствительность по заднему фронту
