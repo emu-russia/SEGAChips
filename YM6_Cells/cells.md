@@ -273,15 +273,11 @@ DFF по нарастающему фронту (posedge).
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/fbc399c4-d0e1-417e-8d69-669491e92d6d)
 ![44POLY](https://github.com/emu-russia/SEGAChips/assets/93550076/ab1b4ea2-65ae-46a0-86d1-f32a72e2c874)
 
-
 ## Ячейка 45 - SLATCH
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/922cd60a-2553-45cb-8708-aca049dca51b)
 ![45poly](https://github.com/emu-russia/SEGAChips/assets/93550076/a022d8eb-9594-4c69-aedb-8aa0ae755723)
 ![45_pin](https://github.com/emu-russia/SEGAChips/assets/93550076/8293fc74-52bc-46e4-b3fc-58abd83ffa88)
-
-
-
 
 ## Ячейка 46 - 2-bit mux 4 to 1
 
@@ -289,10 +285,12 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c51d4bf5-b0c0-4c60-bb1c-e3c3026a218c)
 
-## Ячейка 47
+## Ячейка 47 - JKFF, active low async Set Res, posedge (`jkffsrpos`)
+JK-триггер с асинхронным сбросом и предустановкой, чувствительность по переднему фронту
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/99a41152-1bc6-4a8f-a95a-2743ad454a5e)
-
+![47poly](https://github.com/emu-russia/SEGAChips/assets/93550076/069d10c5-06fc-499f-9071-11792336fb81)
+![47log](https://github.com/emu-russia/SEGAChips/assets/93550076/7690bfce-9b00-4fe1-8485-2a2f39fbdc6b)
 
 ## Ячейка 48 - DFF, active low async Set Res, posedge (`dffsrpos`)
 
