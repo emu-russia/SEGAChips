@@ -285,8 +285,8 @@ DFF по нарастающему фронту (posedge).
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/c51d4bf5-b0c0-4c60-bb1c-e3c3026a218c)
 
-## Ячейка 47 - JKFF, active low async Set Res, posedge (`jkffsrpos`)
-JK-триггер с асинхронным сбросом и предустановкой, чувствительность по переднему фронту
+## Ячейка 47 - JKFF, active low async Set Res, negedge (`jkffsrneg`)
+JK-триггер с асинхронным сбросом и предустановкой, чувствительность по заднему фронту
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/99a41152-1bc6-4a8f-a95a-2743ad454a5e)
 ![47poly](https://github.com/emu-russia/SEGAChips/assets/93550076/069d10c5-06fc-499f-9071-11792336fb81)
