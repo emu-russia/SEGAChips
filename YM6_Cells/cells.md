@@ -262,6 +262,7 @@ DFF по нарастающему фронту (posedge).
 ## Ячейка 42  - 4bit SIPO Shift Register (sr4) + Async Reset
 
 ![image](https://github.com/emu-russia/SEGAChips/assets/15833655/20d93229-b19b-4731-9dae-e5af0703a03b)
+![42poly](https://github.com/emu-russia/SEGAChips/assets/93550076/66e391d2-555d-46ea-a966-3b5c28af5d4b)
 
 ## Ячейка 43 - AON22
 
