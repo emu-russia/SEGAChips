@@ -436,10 +436,10 @@ module ym6045c_cell_38 (  o1, o2, i10, i12);
 	
 	reg data;
 	
-	assign o1 = data;
-	assign o2 = ~data;
+	assign o1 = ~data;
+	assign o2 = data;
 	
-	always @(posedge i12, negedge i10)
+	always @(negedge i12, negedge i10)
 	begin
 		if (~i10)
 			data <= 1'h0;
