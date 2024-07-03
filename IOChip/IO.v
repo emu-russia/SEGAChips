@@ -1402,10 +1402,10 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_NOT g_75 (.A(w814), .nZ(w931) );
 	io_MUX4BIT g_76 (.C(w752), .Z0(w156), .B0(w198), .A0(w229), .B1(w197), .A1(w280), .Z1(w108), .Z2(w336), .A2(w228), .B2(w195), .B3(w191), .A3(w226), .Z3(w143) );
 	io_MUX4BIT g_77 (.C(w53), .Z0(w213), .B0(w229), .A0(w902), .B1(w280), .A1(w901), .Z1(w196), .Z2(w194), .A2(w928), .B2(w228), .B3(w226), .A3(w225), .Z3(w193) );
-	io_CNT_BIT g_78 (.nQ(w887), .C(w115), .RES(1'b1), .D(1'b1), .nLD(w119), .CI(w218) );
+	io_CNT_BIT g_78 (.nQ(w887), .C(w115), .nRES(1'b1), .D(1'b1), .nLD(w119), .CI(w218) );
 	io_NOR4 g_79 (.Z(w394), .D(w887), .C(w910), .B(w888), .A(w889) );
-	io_CNT_BIT g_80 (.nQ(w888), .C(w115), .RES(1'b1), .D(1'b0), .nLD(w119), .CO(w890), .CI(w219) );
-	io_CNT_BIT g_81 (.Q(w876), .nQ(w910), .C(w115), .RES(1'b1), .D(1'b0), .nLD(w119), .CO(w218), .CI(w890) );
+	io_CNT_BIT g_80 (.nQ(w888), .C(w115), .nRES(1'b1), .D(1'b0), .nLD(w119), .CO(w890), .CI(w219) );
+	io_CNT_BIT g_81 (.Q(w876), .nQ(w910), .C(w115), .nRES(1'b1), .D(1'b0), .nLD(w119), .CO(w218), .CI(w890) );
 	io_DFFRPOS g_82 (.Q(w134), .nRES(w112), .D(w143), .C(w853) );
 	io_DFFRPOS g_83 (.Q(w126), .nRES(1'b1), .D(w130), .C(w142) );
 	io_DFFRPOS g_84 (.Q(w123), .nRES(1'b1), .D(w165), .C(w142) );
@@ -1444,7 +1444,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_NOT g_117 (.A(w50), .nZ(w42) );
 	io_AND g_118 (.Z(w13), .B(w42), .A(w931) );
 	io_OR g_119 (.B(w41), .Z(w15), .A(w43) );
-	io_OR g_120 (.B(w42), .Z(w41), .A(w29) );
+	io_AND g_120 (.B(w42), .Z(w41), .A(w29) );
 	io_NOT g_121 (.A(w8), .nZ(w38) );
 	io_NOR g_122 (.Z(w39), .B(w56), .A(w38) );
 	io_NOR g_123 (.Z(w245), .B(w40), .A(w39) );
@@ -1453,12 +1453,12 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_NOT g_126 (.A(w188), .nZ(w36) );
 	io_MUX4BIT g_127 (.C(w8), .Z0(w222), .B0(w100), .A0(w101), .B1(w99), .A1(w100), .Z1(w55), .Z2(w223), .A2(w99), .B2(w35), .B3(w188), .A3(w35), .Z3(w224) );
 	io_AND3 g_128 (.Z(w37), .C(1'b1), .B(w119), .A(1'b1) );
-	io_CNT_BIT g_129 (.nQ(w109), .C(w115), .RES(1'b1), .D(w121), .nLD(w119), .CO(w110), .CI(w37) );
-	io_CNT_BIT g_130 (.nQ(w113), .C(w115), .RES(1'b1), .D(1'b0), .nLD(w119), .CO(w111), .CI(w110) );
+	io_CNT_BIT g_129 (.nQ(w109), .C(w115), .nRES(1'b1), .D(w121), .nLD(w119), .CO(w110), .CI(w37) );
+	io_CNT_BIT g_130 (.nQ(w113), .C(w115), .nRES(1'b1), .D(1'b0), .nLD(w119), .CO(w111), .CI(w110) );
 	io_AND g_131 (.Z(w112), .B(w8), .A(w127) );
 	io_NOR4 g_132 (.Z(w523), .D(w113), .C(w109), .B(w117), .A(w116) );
-	io_CNT_BIT g_133 (.nQ(w116), .C(w115), .RES(1'b1), .D(1'b1), .nLD(w119), .CO(w118), .CI(w111) );
-	io_CNT_BIT g_134 (.nQ(w117), .C(w115), .RES(1'b1), .D(1'b1), .nLD(w119), .CI(w118) );
+	io_CNT_BIT g_133 (.nQ(w116), .C(w115), .nRES(1'b1), .D(1'b1), .nLD(w119), .CO(w118), .CI(w111) );
+	io_CNT_BIT g_134 (.nQ(w117), .C(w115), .nRES(1'b1), .D(1'b1), .nLD(w119), .CI(w118) );
 	io_BUF g_135 (.Z(w128), .A(w129) );
 	io_BUF g_136 (.Z(w122), .A(w127) );
 	io_NOR g_137 (.Z(w49), .B(w70), .A(w97) );
@@ -1512,7 +1512,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_DFFRPOS g_185 (.Q(w120), .nRES(w112), .D(w336), .C(w853) );
 	io_DFFRPOS g_186 (.Q(w51), .nRES(w112), .D(w138), .C(w853) );
 	io_AND g_187 (.Z(w895), .B(w230), .A(w324) );
-	io_CNT_BIT g_188 (.nQ(w889), .C(w115), .RES(1'b1), .D(1'b1), .nLD(w119), .CO(w219), .CI(w877) );
+	io_CNT_BIT g_188 (.nQ(w889), .C(w115), .nRES(1'b1), .D(1'b1), .nLD(w119), .CO(w219), .CI(w877) );
 	io_DFFRPOS g_189 (.Q(w814), .nRES(w112), .D(w186), .C(w853) );
 	io_DFFRPOS g_190 (.Q(w241), .nRES(w112), .D(w130), .C(w853) );
 	io_DFFRPOS g_191 (.Q(w133), .nRES(1'b1), .D(w130), .C(w33) );
@@ -1532,7 +1532,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_AND g_205 (.Z(w907), .B(w829), .A(w265) );
 	io_AND g_206 (.Z(w870), .B(w839), .A(w269) );
 	io_AND g_207 (.Z(w906), .B(w828), .A(w270) );
-	io_DFFRPOS g_208 (.Q(w671), .nSET(1'b1), .D(w927), .C(w712) );
+	io_DFFRPOS g_208 (.Q(w671), .nRES(1'b1), .D(w927), .C(w712) );
 	io_SIPO_4BIT g_209 (.C(w362), .D(w751), .nRES(w178), .Q0(w922), .Q1(w924), .Q2(w842), .Q3(w865) );
 	io_DFFRPOS g_210 (.Q(w925), .nRES(1'b1), .D(w864), .C(w637) );
 	io_DFFRPOS g_211 (.Q(w898), .nRES(w918), .D(w926), .C(w712) );
@@ -2175,12 +2175,12 @@ module io_NAND4 (  B, C, A, D, Z);
 
 endmodule // io_NAND4
 
-module io_CNT_BIT (  Q, nQ, C, RES, D, nLD, CO, CI);
+module io_CNT_BIT (  Q, nQ, C, nRES, D, nLD, CO, CI);
 
 	output wire Q;
 	output wire nQ;
 	input wire C;
-	input wire RES;
+	input wire nRES;
 	input wire D;
 	input wire nLD;
 	output wire CO;
