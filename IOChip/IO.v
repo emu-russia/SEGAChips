@@ -1347,18 +1347,18 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_DFFRPOS g_20 (.Q(w59), .nRES(1'b1), .D(w108), .C(w33) );
 	io_DFFRPOS g_21 (.Q(w58), .nRES(1'b1), .D(w336), .C(w33) );
 	io_NOT g_22 (.A(w120), .nZ(w62) );
-	io_MUX4BIT g_23 (.C(w8), .Z0(w32), .B0(w100), .A0(w102), .B1(w99), .A1(w66), .Z1(w17), .Z2(w2), .A2(w54), .B2(w35), .B3(w188), .A3(w57), .Z3(w9) );
+	io_MUX4BIT g_23 (.S(w8), .Z0(w32), .A0(w100), .B0(w102), .A1(w99), .B1(w66), .Z1(w17), .Z2(w2), .B2(w54), .A2(w35), .A3(w188), .B3(w57), .Z3(w9) );
 	io_NOT g_24 (.A(w166), .nZ(w60) );
 	io_NOT g_25 (.A(w134), .nZ(w64) );
 	io_DFFRPOS g_26 (.Q(w67), .nRES(1'b1), .D(w143), .C(w33) );
 	io_DFFSPOS g_27 (.C(w12), .D(w130), .nSET(w122), .Q(w131) );
-	io_MUX4BIT g_28 (.C(w8), .Z0(w190), .B0(w163), .A0(w133), .B1(w131), .A1(w124), .Z1(w24), .Z2(w68), .A2(w126), .B2(w162), .B3(w132), .A3(w123), .Z3(w75) );
+	io_MUX4BIT g_28 (.C(w8), .Z0(w190), .A0(w163), .B0(w133), .A1(w131), .B1(w124), .Z1(w24), .Z2(w68), .B2(w126), .A2(w162), .A3(w132), .B3(w123), .Z3(w75) );
 	io_DFFSPOS g_29 (.C(w12), .D(w138), .nSET(w122), .Q(w163) );
 	io_DFFSPOS g_30 (.C(w12), .D(w165), .nSET(w122), .Q(w162) );
 	io_OR g_31 (.B(w153), .Z(w145), .A(w72) );
 	io_AND g_32 (.Z(w147), .B(w145), .A(w71) );
 	io_OR g_33 (.B(w153), .Z(w929), .A(w25) );
-	io_MUX4BIT g_34 (.C(w8), .Z0(w154), .B0(w151), .A0(w28), .B1(w242), .A1(w61), .Z1(w150), .Z2(w149), .A2(w63), .B2(w28), .B3(w61), .A3(w65), .Z3(w152) );
+	io_MUX4BIT g_34 (.S(w8), .Z0(w154), .A0(w151), .B0(w28), .A1(w242), .B1(w61), .Z1(w150), .Z2(w149), .B2(w63), .A2(w28), .A3(w61), .B3(w65), .Z3(w152) );
 	io_AND g_35 (.Z(w151), .A(w23), .B(w929) );
 	io_DFFRPOS g_36 (.Q(w82), .nRES(1'b1), .D(w156), .C(w142) );
 	io_NOT g_37 (.A(w77), .nZ(w83) );
@@ -1367,9 +1367,9 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_DFFRPOS g_40 (.Q(w932), .nRES(1'b1), .D(w336), .C(w142) );
 	io_NOT g_41 (.A(w249), .nZ(w84) );
 	io_DFFRPOS g_42 (.nRES(w112), .D(1'b0), .C(w86) );
-	io_MUX4BIT g_43 (.C(w8), .B0(1'b0), .A0(1'b0), .B1(w91), .A1(w105), .Z1(w259), .Z2(w246), .A2(w91), .B2(w90), .B3(w101), .A3(w90), .Z3(w88) );
+	io_MUX4BIT g_43 (.S(w8), .A0(1'b0), .B0(1'b0), .A1(w91), .B1(w105), .Z1(w259), .Z2(w246), .B2(w91), .A2(w90), .A3(w101), .B3(w90), .Z3(w88) );
 	io_DFFRPOS g_44 (.nRES(w112), .D(1'b0), .C(w86) );
-	io_MUX4BIT g_45 (.C(w8), .Z0(w161), .B0(w105), .A0(1'b0), .B1(w91), .A1(w106), .Z1(w930), .Z2(w20), .A2(w104), .B2(w90), .B3(w101), .A3(w103), .Z3(w18) );
+	io_MUX4BIT g_45 (.S(w8), .Z0(w161), .A0(w105), .B0(1'b0), .A1(w91), .B1(w106), .Z1(w930), .Z2(w20), .B2(w104), .A2(w90), .A3(w101), .B3(w103), .Z3(w18) );
 	io_NOR4 g_46 (.Z(w174), .D(w161), .C(w930), .B(w20), .A(w18) );
 	io_DFFRPOS g_47 (.Q(w50), .nRES(w112), .D(w186), .C(w176) );
 	io_DFFRPOS g_48 (.Q(w184), .nRES(w112), .D(w186), .C(w86) );
@@ -1398,10 +1398,10 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_OR g_71 (.B(w235), .Z(w234), .A(w98) );
 	io_AND g_72 (.Z(w232), .B(w233), .A(w234) );
 	io_OR g_73 (.B(w291), .Z(w233), .A(w268) );
-	io_MUX4BIT g_74 (.C(w227), .Z0(w893), .B0(w198), .A0(w212), .B1(w197), .A1(w211), .Z1(w231), .Z2(w238), .A2(w210), .B2(w195), .B3(w191), .A3(w209), .Z3(w886) );
+	io_MUX4BIT g_74 (.S(w227), .Z0(w893), .A0(w198), .B0(w212), .A1(w197), .B1(w211), .Z1(w231), .Z2(w238), .B2(w210), .A2(w195), .A3(w191), .B3(w209), .Z3(w886) );
 	io_NOT g_75 (.A(w814), .nZ(w931) );
-	io_MUX4BIT g_76 (.C(w752), .Z0(w156), .B0(w198), .A0(w229), .B1(w197), .A1(w280), .Z1(w108), .Z2(w336), .A2(w228), .B2(w195), .B3(w191), .A3(w226), .Z3(w143) );
-	io_MUX4BIT g_77 (.C(w53), .Z0(w213), .B0(w229), .A0(w902), .B1(w280), .A1(w901), .Z1(w196), .Z2(w194), .A2(w928), .B2(w228), .B3(w226), .A3(w225), .Z3(w193) );
+	io_MUX4BIT g_76 (.S(w752), .Z0(w156), .A0(w198), .B0(w229), .A1(w197), .B1(w280), .Z1(w108), .Z2(w336), .B2(w228), .A2(w195), .A3(w191), .B3(w226), .Z3(w143) );
+	io_MUX4BIT g_77 (.S(w53), .Z0(w213), .A0(w229), .B0(w902), .A1(w280), .B1(w901), .Z1(w196), .Z2(w194), .B2(w928), .A2(w228), .A3(w226), .B3(w225), .Z3(w193) );
 	io_CNT_BIT g_78 (.nQ(w887), .C(w115), .nRES(1'b1), .D(1'b1), .nLD(w119), .CI(w218) );
 	io_NOR4 g_79 (.Z(w394), .D(w887), .C(w910), .B(w888), .A(w889) );
 	io_CNT_BIT g_80 (.nQ(w888), .C(w115), .nRES(1'b1), .D(1'b0), .nLD(w119), .CO(w890), .CI(w219) );
@@ -1412,7 +1412,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_DFFRPOS g_85 (.Q(w124), .nRES(1'b1), .D(w165), .C(w33) );
 	io_NOT g_86 (.A(w241), .nZ(w146) );
 	io_DFFRPOS g_87 (.Q(w254), .nRES(1'b1), .D(w138), .C(w142) );
-	io_MUX4BIT g_88 (.C(w8), .Z0(w796), .B0(w63), .A0(w254), .B1(w65), .A1(w70), .Z1(w760), .Z2(w243), .A2(w71), .B2(w147), .B3(w73), .A3(w73), .Z3(w244) );
+	io_MUX4BIT g_88 (.S(w8), .Z0(w796), .A0(w63), .B0(w254), .A1(w65), .B1(w70), .Z1(w760), .Z2(w243), .B2(w71), .A2(w147), .A3(w73), .B3(w73), .Z3(w244) );
 	io_MUX8TO1 g_89 (.S0(w250), .S2(w247), .S1(w251), .G(w252), .H(w253), .F(w134), .E(w249), .Z(w892), .C(w152), .D(w307), .B(w107), .A(w891) );
 	io_MUX8TO1 g_90 (.S0(w250), .S2(w247), .S1(w251), .G(w255), .H(w248), .F(w221), .E(w77), .Z(w894), .C(w154), .D(w314), .B(w76), .A(w895) );
 	io_MUX8TO1 g_91 (.S0(w250), .S2(w247), .S1(w251), .G(w477), .H(w650), .F(w166), .E(w139), .Z(w903), .C(w150), .D(w257), .B(w258), .A(w788) );
@@ -1451,7 +1451,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_BUF g_124 (.Z(w240), .A(w8) );
 	io_AND g_125 (.Z(w227), .B(w36), .A(w240) );
 	io_NOT g_126 (.A(w188), .nZ(w36) );
-	io_MUX4BIT g_127 (.C(w8), .Z0(w222), .B0(w100), .A0(w101), .B1(w99), .A1(w100), .Z1(w55), .Z2(w223), .A2(w99), .B2(w35), .B3(w188), .A3(w35), .Z3(w224) );
+	io_MUX4BIT g_127 (.S(w8), .Z0(w222), .A0(w100), .B0(w101), .A1(w99), .B1(w100), .Z1(w55), .Z2(w223), .B2(w99), .A2(w35), .A3(w188), .B3(w35), .Z3(w224) );
 	io_AND3 g_128 (.Z(w37), .C(1'b1), .B(w119), .A(1'b1) );
 	io_CNT_BIT g_129 (.nQ(w109), .C(w115), .nRES(1'b1), .D(w121), .nLD(w119), .CO(w110), .CI(w37) );
 	io_CNT_BIT g_130 (.nQ(w113), .C(w115), .nRES(1'b1), .D(1'b0), .nLD(w119), .CO(w111), .CI(w110) );
@@ -1465,7 +1465,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_NOT g_138 (.A(w817), .nZ(w164) );
 	io_DFFSPOS g_139 (.C(w12), .D(w336), .nSET(w122), .Q(w125) );
 	io_DFFSPOS g_140 (.C(w12), .D(w108), .nSET(w122), .Q(w136) );
-	io_MUX4BIT g_141 (.C(w8), .Z0(w96), .B0(w135), .A0(w146), .B1(w136), .A1(w180), .Z1(w25), .Z2(w69), .A2(w164), .B2(w125), .B3(w144), .A3(w148), .Z3(w72) );
+	io_MUX4BIT g_141 (.S(w8), .Z0(w96), .A0(w135), .B0(w146), .A1(w136), .B1(w180), .Z1(w25), .Z2(w69), .B2(w164), .A2(w125), .A3(w144), .B3(w148), .Z3(w72) );
 	io_DFFSPOS g_142 (.C(w12), .D(w143), .nSET(w122), .Q(w144) );
 	io_DFFSPOS g_143 (.C(w12), .D(w156), .nSET(w122), .Q(w135) );
 	io_BUF g_144 (.Z(w251), .A(w129) );
@@ -1523,9 +1523,9 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_AND g_196 (.Z(w891), .B(w366), .A(w324) );
 	io_DFFRPOS g_197 (.Q(w867), .nRES(1'b1), .D(w186), .C(w142) );
 	io_AND g_198 (.Z(w871), .B(w32), .A(w8) );
-	io_MUX4BIT g_199 (.C(w53), .Z0(w278), .B0(w893), .A0(w902), .B1(w231), .A1(w901), .Z1(w279), .Z2(w281), .A2(w928), .B2(w238), .B3(w886), .A3(w225), .Z3(w282) );
+	io_MUX4BIT g_199 (.S(w53), .Z0(w278), .A0(w893), .B0(w902), .A1(w231), .B1(w901), .Z1(w279), .Z2(w281), .B2(w928), .A2(w238), .A3(w886), .B3(w225), .Z3(w282) );
 	io_DFFRPOS g_200 (.Q(w263), .nRES(w112), .D(w165), .C(w853) );
-	io_MUX4BIT g_201 (.C(w871), .Z0(w902), .B0(w894), .A0(w899), .B1(w903), .A1(w897), .Z1(w901), .Z2(w928), .A2(w827), .B2(w158), .B3(w892), .A3(w670), .Z3(w225) );
+	io_MUX4BIT g_201 (.S(w871), .Z0(w902), .A0(w894), .B0(w899), .A1(w903), .B1(w897), .Z1(w901), .Z2(w928), .B2(w827), .A2(w158), .A3(w892), .B3(w670), .Z3(w225) );
 	io_DFFRPOS g_202 (.Q(w896), .nRES(1'b1), .D(w900), .C(w712) );
 	io_NOR6 g_203 (.Z(w56), .F(w794), .E(w239), .D(w868), .C(w907), .B(w906), .A(w870) );
 	io_MUX8TO1 g_204 (.S0(w250), .S2(w247), .S1(w251), .G(w858), .H(w866), .F(w747), .E(w898), .Z(w897), .C(w869), .D(w896), .B(w904), .A(w919) );
@@ -1577,10 +1577,10 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_SLATCH g_250 (.nQ(w770), .C(w673), .Q(w869), .D(w108) );
 	io_SLATCH g_251 (.nQ(w771), .C(w673), .Q(w764), .D(w130) );
 	io_SLATCH g_252 (.nQ(w772), .C(w673), .Q(w821), .D(w186) );
-	io_MUX4BIT g_253 (.C(w871), .Z0(w753), .BO(w807), .A0(w809), .B1(w766), .A1(w818), .Z1(w756), .Z2(w819), .A2(w820), .B2(w806), .B3(w812), .A3(w805), .Z3(w725) );
+	io_MUX4BIT g_253 (.S(w871), .Z0(w753), .A0(w807), .B0(w809), .A1(w766), .B1(w818), .Z1(w756), .Z2(w819), .B2(w820), .A2(w806), .A3(w812), .B3(w805), .Z3(w725) );
 	io_OR g_254 (.A(w96), .Z(w804), .B(w153) );
 	io_AND g_255 (.Z(w802), .B(w189), .A(w804) );
-	io_MUX4BIT g_256 (.C(w8), .Z0(w934), .B0(w802), .A0(w822), .B1(w801), .A1(w189), .Z1(w800), .Z2(w795), .A2(w23), .B2(1'b0), .B3(1'b1), .A3(w242), .Z3(w793) );
+	io_MUX4BIT g_256 (.S(w8), .Z0(w934), .A0(w802), .B0(w822), .A1(w801), .B1(w189), .Z1(w800), .Z2(w795), .B2(w23), .A2(1'b0), .A3(1'b1), .B3(w242), .Z3(w793) );
 	io_MUX8TO1 g_257 (.S0(w797), .S2(w183), .S1(w128), .G(w678), .H(w734), .F(w263), .E(w275), .Z(w806), .C(w795), .D(w318), .B(w243), .A(w346) );
 	io_OR g_258 (.B(w69), .Z(w785), .A(w153) );
 	io_AND g_259 (.Z(w801), .B(w70), .A(w785) );
@@ -1613,11 +1613,11 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_NAND4 g_286 (.B(w741), .C(w740), .A(w739), .D(w743), .Z(w142) );
 	io_NAND4 g_287 (.B(w742), .C(w744), .A(w739), .D(w743), .Z(w140) );
 	io_NOT g_288 (.A(w240), .nZ(w752) );
-	io_MUX4BIT g_289 (.C(w53), .Z0(w205), .B0(w289), .A0(w753), .B1(w288), .A1(w756), .Z1(w203), .Z2(w201), .A2(w819), .B2(w286), .B3(w283), .A3(w725), .Z3(w200) );
-	io_MUX4BIT g_290 (.C(w227), .Z0(w726), .B0(w206), .A0(w217), .B1(w204), .A1(w216), .Z1(w754), .Z2(w723), .A2(w215), .B2(w202), .B3(w199), .A3(w214), .Z3(w724) );
+	io_MUX4BIT g_289 (.S(w53), .Z0(w205), .A0(w289), .B0(w753), .A1(w288), .B1(w756), .Z1(w203), .Z2(w201), .B2(w819), .A2(w286), .A3(w283), .B3(w725), .Z3(w200) );
+	io_MUX4BIT g_290 (.S(w227), .Z0(w726), .A0(w206), .B0(w217), .A1(w204), .B1(w216), .Z1(w754), .Z2(w723), .B2(w215), .A2(w202), .A3(w199), .B3(w214), .Z3(w724) );
 	io_AON22 g_291 (.Z(w755), .B2(w731), .A2(w728), .B1(w730), .A1(w771) );
-	io_MUX4BIT g_292 (.C(w752), .Z0(w138), .B0(w206), .A0(w289), .B1(w204), .A1(w288), .Z1(w130), .Z2(w165), .A2(w286), .B2(w202), .B3(w199), .A3(w283), .Z3(w186) );
-	io_MUX4BIT g_293 (.C(w53), .Z0(w290), .B0(w726), .A0(w753), .B1(w754), .A1(w756), .Z1(w287), .Z2(w285), .A2(w819), .B2(w723), .B3(w724), .A3(w725), .Z3(w284) );
+	io_MUX4BIT g_292 (.S(w752), .Z0(w138), .A0(w206), .B0(w289), .A1(w204), .B1(w288), .Z1(w130), .Z2(w165), .B2(w286), .A2(w202), .A3(w199), .B3(w283), .Z3(w186) );
+	io_MUX4BIT g_293 (.S(w53), .Z0(w290), .A0(w726), .B0(w753), .A1(w754), .B1(w756), .Z1(w287), .Z2(w285), .B2(w819), .A2(w723), .A3(w724), .B3(w725), .Z3(w284) );
 	io_MUX2BIT4TO1 g_294 (.A0(w769), .A1(w611), .ZA(w412), .A3(w720), .A2(w615), .B0(w758), .B1(w722), .ZB(w366), .B3(w769), .B2(w759), .S1(w815), .S0(w787) );
 	io_MUX2BIT4TO1 g_295 (.A0(w769), .A1(w611), .ZA(w230), .A3(w720), .A2(w615), .B0(w758), .B1(w722), .ZB(w623), .B3(w769), .B2(w759), .S1(w721), .S0(w808) );
 	io_MUX2BIT4TO1 g_296 (.A0(w769), .A1(w611), .ZA(w345), .A3(w720), .A2(w615), .B0(w758), .B1(w722), .ZB(w426), .B3(w769), .B2(w759), .S1(w816), .S0(w791) );
@@ -2127,20 +2127,20 @@ module io_DFFRPOS (  nQ, Q, nRES, D, C);
 
 endmodule // io_DFFRPOS
 
-module io_MUX4BIT (  C, Z0, B0, A0, B1, A1, Z1, Z2, A2, B2, B3, A3, Z3);
+module io_MUX4BIT (  S, Z0, A0, B0, A1, B1, Z1, Z2, B2, A2, A3, B3, Z3);
 
-	input wire C;
+	input wire S;
 	output wire Z0;
-	input wire B0;
 	input wire A0;
-	input wire B1;
+	input wire B0;
 	input wire A1;
+	input wire B1;
 	output wire Z1;
 	output wire Z2;
-	input wire A2;
 	input wire B2;
-	input wire B3;
+	input wire A2;
 	input wire A3;
+	input wire B3;
 	output wire Z3;
 
 endmodule // io_MUX4BIT
