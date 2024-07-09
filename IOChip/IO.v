@@ -1909,7 +1909,7 @@ module IO (  VD15_i, VD15_d, VD15_o, VA1_i, VA1_d, VA1_o, VA2_i, VA2_d, VA2_o, V
 	io_NAND4 g_582 (.B(w405), .C(w383), .A(w393), .D(w382), .Z(w403) );
 	io_NAND3 g_583 (.A(w397), .B(w404), .C(w384), .Z(w398) );
 	io_NAND3 g_584 (.A(w393), .B(w405), .C(w397), .Z(w406) );
-	io_NAND3 g_585 (.A(w404), .B(w405), .C(w522), .Z(w524) );
+	io_NAND3 g_585 (.A(w404), .B(w405), .C(w393), .Z(w524) );
 	io_NAND4 g_586 (.B(w406), .C(w395), .A(w524), .D(w398), .Z(w522) );
 	io_DFFRPOS g_587 (.nQ(w386), .Q(w405), .nRES(w401), .D(w522), .C(w345) );
 	io_NAND3 g_588 (.A(w383), .B(w384), .C(w527), .Z(w395) );
