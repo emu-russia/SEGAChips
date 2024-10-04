@@ -32,6 +32,7 @@ Directory composition is a bit chaotic, but it'll do.
 - YM_Cells: Yamaha standard cell library
 - YM6_Cells: Standard cell library used in Yamaha's YM6xxx series CMOS chips ("two-story cells")
 - Z80: Investigation of the CMOS version of the Z80 from MD2 (Z84C0006)
+- T84C: Research of Toshiba's Z80 CMOS version (T84C00AM-5 & similar)
 
 ## Some Terminology
 
