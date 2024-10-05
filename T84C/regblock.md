@@ -16,11 +16,26 @@
 
 ## Databus Keepers
 
+![buskeepers_tran](imgstore/buskeepers_tran.png)
+
+это баскиперы на шину данных, прям трушные.
+
+![buskeepers_logic](imgstore/buskeepers_logic.png)
+
 ## Databus IO
+
+странный там bufif1. когда ena=0 и d=1 - на выходе Z. когда ena= и d=0 - на выходе 0. как бы - ок, но странно
 
 ![regblock_bufif1](logisim/regblock_bufif1.png)
 
+TBD: Транзисторная схема картинка.
+
+это выход с регистров на шину данных такой, уже декомплементированный в 1 шнурок.
+
 ## Regs1 SRAM Array
+
+я назову их r0 .... rN слева направо чтобы как-то ссылаться
+потом табличку сделаю ху из ху
 
 ## Regs2 SRAM Array
 
