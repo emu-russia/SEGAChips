@@ -4,7 +4,31 @@
 
 ## Сигналы
 
-TBD.
+|Сигнал|Откуда/Куда|Описание|
+|---|---|---|---|
+|clk| | |
+|cclk| | |
+|db \[7:0\]| |Внутренняя шина данных|
+|ab \[15:0\]| |Шина адреса для падов |
+|regs_to_db| | |
+|db_to_regs| | |
+|n_db_to_regs| |Комплемент db_to_regs|
+|n_pch_bl| | |
+|wl \[13:0\]| | |
+|regs1_to_regs2| | |
+|n_regs1_to_regs2| |Комплемент regs1_to_regs2|
+|idu_to_regs2| | |
+|n_idu_to_regs2| |Комплемент idu_to_regs2|
+|ck| | |
+|cck| |Комплемент ck|
+|ck2| | |
+|cck2| |Комплемент ck2|
+|to_idu1| | |
+|idu_carry_out| | |
+|to_idu_carry1| | |
+|to_idu_carry2| | |
+|idu_carry_in| | |
+
 
 ## Верхняя вспомогательная логика (Top Aux Logic)
 
@@ -40,6 +64,8 @@ TBD.
 
 ![regblock_databus_io_tran](imgstore/regblock_databus_io_tran.jpg)
 
+:warning: nand имеет динамическую память на затворе (DLatch), т.к. вход его может плавать (для имитации достаточно тыкнуть transparent latch на входе)
+
 Содержит довольно странный Bufif1:
 
 |d|ena|q|
@@ -54,6 +80,8 @@ TBD.
 Мостик между Databus IO и регистрами1 (Databus IO <-> Regs1 Bridge):
 
 ![regblock_regs1_io_bridge_tran](imgstore/regblock_regs1_io_bridge_tran.jpg)
+
+:warning: Правый тристейт имеет динамическую память на затворе (DLatch), т.к. вход его это выход левого тристейта, который может "отвалиться" и сделать вход правого тристейта "плавающим".
 
 ## Regs1 SRAM Array
 
@@ -82,6 +110,8 @@ TBD.
 Удобство заключается также в том, что значение с IDU можно сразу выдать на шину адреса (например, для PC).
 
 ![regblock_idu_tran](imgstore/regblock_idu_tran.jpg)
+
+:warning: Правый мух имеет динамическую память на затворе (DLatch), т.к. вход его может плавать (для имитации достаточно тыкнуть transparent latch на входе)
 
 ## IDU Carry Lookahead
 
