@@ -89,12 +89,14 @@ TBD.
 
 ![regblock_idu_carry_tran](imgstore/regblock_idu_carry_tran.jpg)
 
-## Addressbus Latch
+## IDU XOR + Address SuperInv
 
-Хранит результат работы IDU, т.е. непосредственно значение для внешней шины адреса (ab\[15:0\]), которое уходит сразу на пады.
+Содержит элемент пересчёта (XOR), а также суперинвертер для выдачи значения для внешней шины адреса (ab\[15:0\]), которое уходит сразу на пады.
 
-![regblock_address_latch_tran](imgstore/regblock_address_latch_tran.jpg)
+![regblock_idu_xor_tran](imgstore/regblock_idu_xor_tran.jpg)
 
-Содержит такой OAI:
+![regblock_idu_xor](logisim/regblock_idu_xor.png)
+
+XOR cодержит такой OAI:
 
 ![regblock_oai](logisim/regblock_oai.png)
