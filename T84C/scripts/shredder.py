@@ -33,4 +33,6 @@ if __name__ == '__main__':
 	CropImage (FusedImg, "../imgstore/regblock_top_tran", [237, 27, 3130, 432] )
 	CropImage (FusedImg, "../imgstore/regblock_buskeepers_tran", [75, 1543, 352, 531] )
 
+	CropImage (FusedImg, "../imgstore/regblock_duty_extend_tran", [1346, 2481, 175, 263] )
+
 	print ("Shredder End")

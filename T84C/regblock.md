@@ -14,6 +14,12 @@ TBD.
 
 ![regblock_cells_tran](imgstore/regblock_cells_tran.jpg)
 
+В состав входит нецифровая ячейка, которая растягивает нижний уровень входного CLK и инвертирует фронт:
+
+![regblock_duty_extend_tran](imgstore/regblock_duty_extend_tran.jpg)
+
+![regblock_duty_extend](logisim/regblock_duty_extend.png)
+
 ## Databus Keepers
 
 ![regblock_buskeepers_tran](imgstore/regblock_buskeepers_tran.jpg)
