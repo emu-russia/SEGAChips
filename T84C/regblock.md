@@ -1,4 +1,4 @@
-# regblock
+# Regblock
 
 ![regblock_modules](imgstore/regblock_modules.jpg)
 
@@ -19,16 +19,15 @@
 |n_regs1_to_regs2| |Комплемент regs1_to_regs2|
 |idu_to_regs2| | |
 |n_idu_to_regs2| |Комплемент idu_to_regs2|
-|ck| | |
+|ck| |ck=0: Сохранить результат операции на IDU в Slave FF|
 |cck| |Комплемент ck|
-|ck2| | |
+|ck2| |ck2=0: Загрузить входное значение в IDU Master FF с регистров|
 |cck2| |Комплемент ck2|
-|to_idu1| | |
+|to_idu1 (n_idu_clr)| |0: Установить выход IDU в 0 независимо от результатов вычислений|
 |idu_carry_out| | |
 |to_idu_carry1| | |
 |to_idu_carry2| | |
 |idu_carry_in| | |
-
 
 ## Верхняя вспомогательная логика (Top Aux Logic)
 
@@ -112,6 +111,13 @@
 ![regblock_idu_tran](imgstore/regblock_idu_tran.jpg)
 
 :warning: Правый мух имеет динамическую память на затворе (DLatch), т.к. вход его может плавать (для имитации достаточно тыкнуть transparent latch на входе)
+
+![regblock_idu_ff](logisim/regblock_idu_ff.png)
+
+Основная часть IDU включает в себя:
+- Master FF для загрузки значения с регистров
+- Slave FF для хранения результата операции на IDU и выдачи значения обратно на регистры
+- Элемент пересчёта (XNOR)
 
 ## IDU Carry Lookahead
 
