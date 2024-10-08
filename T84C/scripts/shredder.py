@@ -27,7 +27,7 @@ if __name__ == '__main__':
 	CropImage (FusedImg, "../imgstore/regblock_regs2_tran", [2177, 2254, 187, 164] )
 	CropImage (FusedImg, "../imgstore/regblock_regs2_idu_bridge_tran", [2339, 2250, 262, 187] )
 	CropImage (FusedImg, "../imgstore/regblock_idu_tran", [2547, 2251, 571, 176] )
-	CropImage (FusedImg, "../imgstore/regblock_idu_carry_tran", [3093, 413, 313, 2002] )
+	CropImage (FusedImg, "../imgstore/regblock_idu_carry_tran", [3031, 394, 394, 2051] )
 	CropImage (FusedImg, "../imgstore/regblock_idu_xor_tran", [3356, 2256, 406, 140] )
 	CropImage (FusedImg, "../imgstore/regblock_cells_tran", [367, 2377, 3439, 510] )
 	CropImage (FusedImg, "../imgstore/regblock_top_tran", [237, 27, 3130, 432] )

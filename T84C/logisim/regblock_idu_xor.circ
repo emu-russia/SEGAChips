@@ -58,7 +58,7 @@
     <a name="simulationFrequency" val="256.0"/>
     <comp lib="0" loc="(170,190)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="in1"/>
+      <a name="label" val="xi"/>
     </comp>
     <comp lib="0" loc="(170,330)" name="Pin">
       <a name="appearance" val="NewPins"/>
@@ -87,19 +87,20 @@
     </comp>
     <comp lib="1" loc="(490,190)" name="NOT Gate"/>
     <comp lib="1" loc="(490,280)" name="NOT Gate"/>
-    <comp lib="8" loc="(479,246)" name="Text">
+    <comp lib="8" loc="(475,245)" name="Text">
       <a name="text" val="xor"/>
     </comp>
     <wire from="(170,190)" to="(240,190)"/>
     <wire from="(170,330)" to="(310,330)"/>
     <wire from="(240,190)" to="(240,260)"/>
     <wire from="(240,190)" to="(460,190)"/>
-    <wire from="(240,260)" to="(240,310)"/>
-    <wire from="(240,260)" to="(370,260)"/>
-    <wire from="(240,310)" to="(330,310)"/>
+    <wire from="(240,260)" to="(290,260)"/>
     <wire from="(280,230)" to="(280,350)"/>
     <wire from="(280,230)" to="(500,230)"/>
     <wire from="(280,350)" to="(500,350)"/>
+    <wire from="(290,260)" to="(290,310)"/>
+    <wire from="(290,260)" to="(370,260)"/>
+    <wire from="(290,310)" to="(330,310)"/>
     <wire from="(310,280)" to="(310,330)"/>
     <wire from="(310,280)" to="(370,280)"/>
     <wire from="(310,330)" to="(330,330)"/>

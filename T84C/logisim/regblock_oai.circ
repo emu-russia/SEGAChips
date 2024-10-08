@@ -83,6 +83,7 @@
     <comp lib="0" loc="(620,260)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
+      <a name="label" val="x"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(90,30)" name="Pin">

@@ -65,22 +65,22 @@
     <comp lib="0" loc="(1640,370)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="to_c"/>
+      <a name="label" val="co"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(1640,470)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
-      <a name="label" val="n_to_xor"/>
+      <a name="label" val="xi"/>
       <a name="output" val="true"/>
     </comp>
     <comp lib="0" loc="(240,120)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="ck2"/>
+      <a name="label" val="idu_ck2"/>
     </comp>
     <comp lib="0" loc="(240,140)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="cck2"/>
+      <a name="label" val="idu_cck2"/>
     </comp>
     <comp lib="0" loc="(240,260)" name="Pin">
       <a name="appearance" val="NewPins"/>
@@ -93,15 +93,15 @@
     </comp>
     <comp lib="0" loc="(240,570)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="from_c"/>
+      <a name="label" val="ci"/>
     </comp>
     <comp lib="0" loc="(240,70)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="ck"/>
+      <a name="label" val="idu_ck"/>
     </comp>
     <comp lib="0" loc="(240,90)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="cck"/>
+      <a name="label" val="idu_cck"/>
     </comp>
     <comp lib="1" loc="(1010,370)" name="NOT Gate"/>
     <comp lib="1" loc="(1140,370)" name="NOT Gate"/>
@@ -129,52 +129,52 @@
     <comp lib="2" loc="(920,370)" name="Multiplexer">
       <a name="selloc" val="tr"/>
     </comp>
-    <comp lib="8" loc="(1176,363)" name="Text">
+    <comp lib="8" loc="(1175,360)" name="Text">
       <a name="text" val="in1"/>
     </comp>
-    <comp lib="8" loc="(1179,523)" name="Text">
+    <comp lib="8" loc="(1175,520)" name="Text">
       <a name="text" val="out"/>
     </comp>
-    <comp lib="8" loc="(1179,586)" name="Text">
+    <comp lib="8" loc="(1175,585)" name="Text">
       <a name="text" val="in2"/>
     </comp>
-    <comp lib="8" loc="(121,246)" name="Text">
+    <comp lib="8" loc="(120,245)" name="Text">
       <a name="text" val="tri-state"/>
     </comp>
-    <comp lib="8" loc="(1454,270)" name="Text">
+    <comp lib="8" loc="(1450,270)" name="Text">
       <a name="text" val="xnor"/>
     </comp>
-    <comp lib="8" loc="(1650,141)" name="Text">
+    <comp lib="8" loc="(1650,140)" name="Text">
       <a name="text" val="to reg array"/>
     </comp>
-    <comp lib="8" loc="(1650,346)" name="Text">
+    <comp lib="8" loc="(1650,345)" name="Text">
       <a name="text" val="to carry lookahead"/>
     </comp>
-    <comp lib="8" loc="(1670,506)" name="Text">
+    <comp lib="8" loc="(1670,505)" name="Text">
       <a name="text" val="to right side xor"/>
     </comp>
-    <comp lib="8" loc="(202,539)" name="Text">
+    <comp lib="8" loc="(200,535)" name="Text">
       <a name="text" val="from carry lookahead"/>
     </comp>
-    <comp lib="8" loc="(214,220)" name="Text">
+    <comp lib="8" loc="(210,220)" name="Text">
       <a name="text" val="__"/>
     </comp>
-    <comp lib="8" loc="(214,239)" name="Text">
+    <comp lib="8" loc="(210,235)" name="Text">
       <a name="text" val="bl"/>
     </comp>
-    <comp lib="8" loc="(219,334)" name="Text">
+    <comp lib="8" loc="(215,330)" name="Text">
       <a name="text" val="to_idu1"/>
     </comp>
-    <comp lib="8" loc="(569,430)" name="Text">
+    <comp lib="8" loc="(565,430)" name="Text">
       <a name="text" val="Slave"/>
     </comp>
-    <comp lib="8" loc="(623,60)" name="Text">
+    <comp lib="8" loc="(620,60)" name="Text">
       <a name="text" val="ck=0: Save result to Slave FF"/>
     </comp>
-    <comp lib="8" loc="(896,107)" name="Text">
+    <comp lib="8" loc="(895,105)" name="Text">
       <a name="text" val="ck2 = 0: Load Input to Master FF"/>
     </comp>
-    <comp lib="8" loc="(900,437)" name="Text">
+    <comp lib="8" loc="(900,435)" name="Text">
       <a name="text" val="Master"/>
     </comp>
     <comp loc="(420,260)" name="transp_latch"/>
