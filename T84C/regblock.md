@@ -111,7 +111,7 @@
 
 ![regblock_regs2_idu_bridge_tran](imgstore/regblock_regs2_idu_bridge_tran.jpg)
 
-## Increment/Decrement Unit (IDU)
+## Increment/Decrement Unit (IDU) Flip/Flop
 
 В процессоре Z80 АЛУ не занимается операцией инкремента/декремента, вместо этого в регблоке присутствует данная схема, как раз для операции +1/-1 над регистрами.
 Удобство заключается также в том, что значение с IDU можно сразу выдать на шину адреса (например, для PC).
