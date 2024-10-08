@@ -1,8 +1,8 @@
 # T84C00
 
-Toshiba Z80 CMOS version.
+Toshiba Z80 MPU CMOS version.
 
-This research initially aims to examine the design of the custom ALU and Regblock logic at the top of the processor. The rest is not very interesting and is simply “decompiled” into a netlist using Deroute.
+This research initially aims to examine the design of the custom ALU and Regblock logic at the top of the processor. The rest is not very interesting and is simply "decompiled" into a netlist using Deroute.
 
 ![package](imgstore/package.png)
 
