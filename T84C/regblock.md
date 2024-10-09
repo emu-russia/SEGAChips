@@ -133,6 +133,10 @@
 
 ![regblock_idu_carry_tran](imgstore/regblock_idu_carry_tran.jpg)
 
+![idu_cla_netlist](netlist/idu_cla_netlist.png)
+
+![regblock_cla](design/regblock_cla.png)
+
 ## IDU XOR + Address SuperInv
 
 Содержит элемент пересчёта (XOR), а также суперинвертер для выдачи значения для внешней шины адреса (ab\[15:0\]), которое уходит сразу на пады.
