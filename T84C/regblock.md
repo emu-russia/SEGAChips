@@ -43,7 +43,7 @@
 
 ![regblock_cells_tran](imgstore/regblock_cells_tran.jpg)
 
-В состав входит нецифровая ячейка, которая растягивает нижний уровень входного CLK и инвертирует фронт:
+В состав входит нецифровая ячейка, которая растягивает нижний уровень входного CLK и инвертирует фронт (используется для формирования сигнала `n_pch_bl`):
 
 ![regblock_duty_extend_tran](imgstore/regblock_duty_extend_tran.jpg)
 
