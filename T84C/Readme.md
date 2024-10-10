@@ -4,7 +4,7 @@ Toshiba Z80 MPU CMOS version.
 
 This research initially aims to examine the design of the custom ALU and Regblock logic at the top of the processor. The rest is not very interesting and is simply "decompiled" into a netlist using Deroute.
 
-:warning: Следует всегда помнить, что разрабочики Z80 были "адептами нетрадиционной полярности" (active-low), в связи с этим схемы чипа переполнены запутонностями, связанными с полярностями сигнала, что взорвало ни один пукан (и ещё бомбанёт).
+:warning: Следует всегда помнить, что разрабочики Z80 были "адептами нетрадиционной полярности" (active-low), в связи с этим схемы чипа переполнены запутанностями, связанными с полярностями сигнала, что взорвало ни один пукан (и ещё бомбанёт).
 
 :warning: One should always remember that Z80 developers were "adepts of non-traditional polarity" (active-low), due to this the chip's circuits are full of confusions related to signal polarities, which blew up a lot of ass (and still will).
 
