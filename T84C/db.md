@@ -4,7 +4,7 @@
 
 ![pad_d](imgstore/pad_d.png)
 
-![logisim pad_d](logisim\pad_d.png)
+![logisim pad_d](logisim/pad_d.png)
 
 К сожалению, Logisim не поддерживает bidir транзисторы, поэтому работа вЫходной схемы (CPU -> Bus) показа для варианта когда транизисторы работают в нужную сторону.
 
