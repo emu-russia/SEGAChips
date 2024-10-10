@@ -2,7 +2,7 @@
 
 Официальное обозначение этого модуля - `Register Array`. Но мы будем использовать более употребительный термин "регблок".
 
-![regblock_modules](imgstore/regblock_modules.jpg)
+![regblock](imgstore/regblock.png)
 
 ## Сигналы
 
