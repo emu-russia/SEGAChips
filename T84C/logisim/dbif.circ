@@ -75,7 +75,7 @@
     </comp>
     <comp lib="0" loc="(200,240)" name="Pin">
       <a name="appearance" val="NewPins"/>
-      <a name="label" val="n_db_to_latch"/>
+      <a name="label" val="db_to_latch"/>
     </comp>
     <comp lib="0" loc="(200,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
@@ -118,7 +118,6 @@
     </comp>
     <comp lib="1" loc="(360,330)" name="NOT Gate"/>
     <comp lib="1" loc="(380,490)" name="NOT Gate"/>
-    <comp lib="1" loc="(490,590)" name="NOT Gate"/>
     <comp lib="1" loc="(510,60)" name="NOT Gate"/>
     <comp lib="1" loc="(510,90)" name="NOT Gate"/>
     <comp lib="1" loc="(520,620)" name="Controlled Inverter">
@@ -129,37 +128,37 @@
       <a name="control" val="left"/>
     </comp>
     <comp lib="1" loc="(860,620)" name="Buffer"/>
-    <comp lib="8" loc="(101,417)" name="Text">
+    <comp lib="8" loc="(100,415)" name="Text">
       <a name="text" val="from pad (active-low)"/>
     </comp>
     <comp lib="8" loc="(170,665)" name="Text">
       <a name="text" val="databus is active-low (inverse hold)"/>
     </comp>
-    <comp lib="8" loc="(497,646)" name="Text">
+    <comp lib="8" loc="(495,645)" name="Text">
       <a name="color" val="#0000ff"/>
       <a name="font" val="SansSerif bold 12"/>
       <a name="text" val="from_databus_tris"/>
     </comp>
-    <comp lib="8" loc="(500,577)" name="Text">
-      <a name="text" val="notif0"/>
-    </comp>
-    <comp lib="8" loc="(832,408)" name="Text">
+    <comp lib="8" loc="(496,584)" name="Text">
       <a name="text" val="notif1"/>
     </comp>
-    <comp lib="8" loc="(902,469)" name="Text">
-      <a name="text" val="1: force n_val_in = 0"/>
+    <comp lib="8" loc="(830,405)" name="Text">
+      <a name="text" val="notif1"/>
     </comp>
-    <comp lib="8" loc="(903,38)" name="Text">
+    <comp lib="8" loc="(90,595)" name="Text">
+      <a name="text" val="from databus"/>
+    </comp>
+    <comp lib="8" loc="(900,35)" name="Text">
       <a name="text" val="D pad drive enable"/>
     </comp>
-    <comp lib="8" loc="(906,356)" name="Text">
+    <comp lib="8" loc="(900,465)" name="Text">
+      <a name="text" val="1: force n_val_in = 0"/>
+    </comp>
+    <comp lib="8" loc="(905,355)" name="Text">
       <a name="text" val="to databus"/>
     </comp>
-    <comp lib="8" loc="(909,595)" name="Text">
+    <comp lib="8" loc="(905,595)" name="Text">
       <a name="text" val="to pad"/>
-    </comp>
-    <comp lib="8" loc="(93,595)" name="Text">
-      <a name="text" val="from databus"/>
     </comp>
     <comp loc="(540,300)" name="inv_tris_comp">
       <a name="label" val="feedback_tris"/>
@@ -183,7 +182,7 @@
     <wire from="(220,240)" to="(220,320)"/>
     <wire from="(220,320)" to="(220,590)"/>
     <wire from="(220,320)" to="(260,320)"/>
-    <wire from="(220,590)" to="(460,590)"/>
+    <wire from="(220,590)" to="(500,590)"/>
     <wire from="(240,200)" to="(240,300)"/>
     <wire from="(240,200)" to="(370,200)"/>
     <wire from="(240,300)" to="(260,300)"/>
@@ -210,7 +209,6 @@
     <wire from="(400,300)" to="(440,300)"/>
     <wire from="(410,320)" to="(410,330)"/>
     <wire from="(410,320)" to="(440,320)"/>
-    <wire from="(490,590)" to="(500,590)"/>
     <wire from="(500,590)" to="(500,610)"/>
     <wire from="(510,60)" to="(880,60)"/>
     <wire from="(510,90)" to="(530,90)"/>
