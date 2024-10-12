@@ -16,4 +16,17 @@
 
 ## Databus I/F
 
-TBD.
+![dbif_tran](imgstore/dbif_tran.jpg)
+
+|Сигнал|Откуда/Куда|Описание|
+|---|---|---|
+|val_out|на пад|Выход на пад |
+|n_oe|на пад|Комплемент oe |
+|oe|на пад|1: Output enable. Задрайвить пад внешней шины данных|
+|n_val_in|с пада|Вход с пада (active low) |
+|set_in|на пад|Сделать n_val_in = 0 (входное значение = 1)|
+|n_out_enable|с логики управления DataBus|Из этого сигнала получается 2 комплементных oe+/oe|
+|n_db_to_latch|с логики управления DataBus| Внутренняя Databus -> Data Latch|
+|latch_to_db|с логики управления DataBus| Data Latch -> Внутренняя Databus |
+|pad_to_latch|с логики управления DataBus| Pad -> Data Latch;  Если неактивны все сигналы x -> y, то DataLatch заколцовывается сам на себя (FF) |
+|db| |Внутренняя шина данных |

@@ -31,6 +31,7 @@ if __name__ == '__main__':
 
 	FusedImg = "../imgstore/topleft"
 	CropMaskImage (FusedImg, "../imgstore/clkgen_tran", [21, 183, 912, 1170], [(200,959,323,420)] )
+	CropImage (FusedImg, "../imgstore/dbif_tran", [10, 967, 569, 959] )
 
 	FusedImg = "../imgstore/regblock_modules"
 	CropImage (FusedImg, "../imgstore/regblock_hidmx_tran", [81, 376, 453, 1104] )
