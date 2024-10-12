@@ -9,15 +9,29 @@
 
 import os
 import sys
-from PIL import Image
+from PIL import Image, ImageDraw
 
 def CropImage (src, dest, rect):
 	im = Image.open(src + ".jpg")
 	a = im.crop([rect[0], rect[1], rect[0]+rect[2], rect[1]+rect[3]])
 	a.save("%s.jpg" % dest, quality=85)
 
+def CropMaskImage (src, dest, rect, mask=[]):
+	im = Image.open(src + ".jpg")
+	a = im.crop([rect[0], rect[1], rect[0]+rect[2], rect[1]+rect[3]])
+	draw = ImageDraw.Draw(a)
+	for r in mask:
+		ofsx = r[0]-rect[0]
+		ofsy = r[1]-rect[1]
+		draw.rectangle ((ofsx, ofsy, r[2]+ofsx, r[3]+ofsy), fill="#777777")
+	a.save("%s.jpg" % dest, quality=85)
+
 if __name__ == '__main__':
 	print ("Shredder Start")
+
+	FusedImg = "../imgstore/topleft"
+	CropMaskImage (FusedImg, "../imgstore/clkgen_tran", [21, 183, 912, 1170], [(200,959,323,420)] )
+
 	FusedImg = "../imgstore/regblock_modules"
 	CropImage (FusedImg, "../imgstore/regblock_hidmx_tran", [81, 376, 453, 1104] )
 	CropImage (FusedImg, "../imgstore/regblock_databus_io_tran", [417, 2256, 337, 159] )
@@ -32,7 +46,6 @@ if __name__ == '__main__':
 	CropImage (FusedImg, "../imgstore/regblock_cells_tran", [367, 2377, 3439, 510] )
 	CropImage (FusedImg, "../imgstore/regblock_top_tran", [237, 27, 3130, 432] )
 	CropImage (FusedImg, "../imgstore/regblock_buskeepers_tran", [75, 1543, 352, 531] )
-
 	CropImage (FusedImg, "../imgstore/regblock_duty_extend_tran", [1346, 2481, 175, 263] )
 
 	print ("Shredder End")
