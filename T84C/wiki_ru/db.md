@@ -4,9 +4,9 @@
 
 ## External Databus Pad
 
-![pad_d](imgstore/pad_d.png)
+![pad_d](../imgstore/pad_d.png)
 
-![logisim pad_d](logisim/pad_d.png)
+![logisim pad_d](../logisim/pad_d.png)
 
 К сожалению, Logisim не поддерживает bidir транзисторы, поэтому работа вЫходной схемы (CPU -> Bus) показана для варианта, когда транизисторы работают в нужную сторону.
 
@@ -18,7 +18,7 @@
 
 ## Databus I/F
 
-![dbif_tran](imgstore/dbif_tran.jpg)
+![dbif_tran](../imgstore/dbif_tran.jpg)
 
 |Сигнал|Откуда/Куда|Описание|
 |---|---|---|
@@ -33,7 +33,7 @@
 |pad_to_latch|с логики управления DataBus| Pad -> Data Latch;  Если неактивны все сигналы x -> y, то DataLatch заколцовывается сам на себя (FF) |
 |db| |Внутренняя шина данных |
 
-![dbif](logisim/dbif.png)
+![dbif](../logisim/dbif.png)
 
 Features:
 - Содержит прозрачную защёлку, которую принято называть просто "datalatch" (dl)

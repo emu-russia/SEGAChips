@@ -1,6 +1,6 @@
 # Pinout & Pads
 
-![pads](imgstore/pads.jpg)
+![pads](../imgstore/pads.jpg)
 
 |Pin/Pad|Direction|Description|
 |---|---|---|

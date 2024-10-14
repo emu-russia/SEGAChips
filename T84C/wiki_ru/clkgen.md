@@ -4,7 +4,7 @@
 
 Неинвертирующий пад с диодной защитой.
 
-![pad_clk](imgstore/pad_clk.png)
+![pad_clk](../imgstore/pad_clk.png)
 
 ## Clock Generator
 
@@ -14,6 +14,6 @@
 |clk|по всему чипу | CLK внутрь чипа |
 |cclk|по всему чипу |Комплемент clk|
 
-![clkgen_tran](imgstore/clkgen_tran.jpg)
+![clkgen_tran](../imgstore/clkgen_tran.jpg)
 
-![clkgen](logisim/clkgen.png)
+![clkgen](../logisim/clkgen.png)
