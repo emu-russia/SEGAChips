@@ -12,7 +12,7 @@ Unfortunately, Logisim does not support bidir transistors, so the operation of t
 
 The output circuit is essentially a Bufif1 with a complementary control input (oe + /oe).
 
-The input circuit (Bus -> CPU) is a regular nor, but with a small correction that one input of nor-a comes from the tri-state input pad, so it can float and is stored on the FET gate. To simulate this, just add transparent latch.
+The input circuit (Bus -> CPU) is a regular nor, but with a small correction that one input of the nor comes from the tri-state input pad, so it can float and is stored on the FET gate. To simulate this, just add transparent latch.
 
 The `set_in`=1 signal sets the n_val_in input to 0 (i.e. essentially 1, since the input is in inverse logic). Fucking inverse-inverse logic again, be careful.
 
