@@ -1,5 +1,7 @@
 # ClkGen
 
+![locator_clkgen](../imgstore/locator_clkgen.jpg)
+
 ## CLK Pad
 
 Неинвертирующий пад с диодной защитой.

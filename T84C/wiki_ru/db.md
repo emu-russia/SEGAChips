@@ -1,5 +1,7 @@
 # External Databus I/F
 
+![locator_dbif](../imgstore/locator_dbif.jpg)
+
 :warning: Жирное примечание. Внутренняя шина данных (шд) использует inverse-hold хранение значения. То есть 0x00 на шине - это по сути 0xFF.
 
 ## External Databus Pad

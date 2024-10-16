@@ -2,6 +2,8 @@
 
 The official designation of this module is `Register Array`. But we will use the more common term regblock.
 
+![locator_regblock](../imgstore/locator_regblock.jpg)
+
 ![regblock](../imgstore/regblock.png)
 
 (the mask shows the regblock and surrounding circuit elements - bus keepers, regblock control cells)

@@ -1,5 +1,7 @@
 # ClkGen
 
+![locator_clkgen](../imgstore/locator_clkgen.jpg)
+
 ## CLK Pad
 
 Non-inverting pad with diode protection (?)

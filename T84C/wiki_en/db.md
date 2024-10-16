@@ -1,5 +1,7 @@
 # External Databus I/F
 
+![locator_dbif](../imgstore/locator_dbif.jpg)
+
 :warning: Bold Note. The internal data bus (`db`) uses inverse-hold value storage. So 0x00 on the bus is essentially 0xFF.
 
 ## External Databus Pad
