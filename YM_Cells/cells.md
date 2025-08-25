@@ -33,11 +33,13 @@
 
 ## Ячейка 3 - comp_weak (Слабый комплементарный буфер)
 
+Используется совместно с aon22(aoi22) для построения многобитовых мультиплексоров. Однако для одиночных мультиплексоров используют aon22 (aoi22) в связке с обычным not. 
 |![image](https://user-images.githubusercontent.com/5828819/176184195-b4206385-b0a0-4d57-b295-6e443fd7b300.png)|![image](https://user-images.githubusercontent.com/15833655/176936333-18f0b75e-9423-4ce7-8b44-19c0661a3694.png)|![image](https://user-images.githubusercontent.com/5828819/176184217-fb85430c-144a-4f3c-b6a2-906d04506b27.png)|![image](https://user-images.githubusercontent.com/5828819/176501315-7175c1ed-7a8f-4f85-b485-0f0884859b8c.png)|
 |---|---|---|---|
 
 ## Ячейка 6 - comp_strong (Сильный комплементарный буфер)
 
+Используется исключительно для получения комплемента сигналов защелкивания C nC для статических защелок S-Latch (S-Latch_R) от двух и выше.
 Поскольку шнуровка для комплемента находится снаружи ячеек, для превращения одиночного "Enable" в два комплементарных сигнала используется этот комплементарный буфер. Плюс дополнительно он драйвит сигнал.
 
 |![image](https://user-images.githubusercontent.com/5828819/175828255-fcc3b21d-1581-41ae-8568-4f52225abaf9.png)|![image](https://user-images.githubusercontent.com/15833655/177044205-2abbf210-f28e-447f-ab6f-1bc9faf5d85c.png)|![image](https://user-images.githubusercontent.com/5828819/176503751-76d34ce6-9549-4cd7-9b3d-a70fc7bff106.png)|![6log](https://github.com/emu-russia/SEGAChips/assets/93550076/f854bc3f-339d-4443-a45e-11d2389c920b)|
@@ -69,7 +71,7 @@
 |![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)|![image](https://user-images.githubusercontent.com/15833655/177769964-c420b92b-7263-4720-91c8-75fa84346d05.png)|
 |---|---|
 
-## Ячейка 88 - DDLATCH
+## Ячейка 88 - DLATCH (Динамическая защёлка)
 
 |![87tran](https://user-images.githubusercontent.com/93550076/193691039-ef7d618e-7bfd-4ba4-953f-fe3475e32a55.JPG)|![87tr](https://user-images.githubusercontent.com/93550076/193691072-60a047be-72f4-46e8-bad5-511e4dc931c8.png)|
 |---|---|
