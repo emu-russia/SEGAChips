@@ -8,6 +8,11 @@
 
 Для всех ячеек - GND снизу (`ident` положение в группе).
 
+## Ячейка 50 n_FET
+Самая простая ячейка. Представляет собой один транзистор с n каналом, используется для закорачивания на общий плавающей шины.
+|![image](https://user-images.githubusercontent.com/15833655/177050941-e9b54348-8909-43fa-ba21-0b4a2387e780.png)|![image](https://user-images.githubusercontent.com/15833655/177775875-d8d45190-33e5-4405-bc83-c97ceaec9d8c.png)|
+|---|---|
+
 ## Ячейка 1 - not
 
 |![image](https://user-images.githubusercontent.com/5828819/175828155-b9515f2e-2b66-4da4-86f1-a14564c949ac.png)|![image](https://user-images.githubusercontent.com/15833655/176936155-c1d773c3-9b63-45b1-a912-843bbd1a0af5.png)|![image](https://user-images.githubusercontent.com/5828819/175999883-90b013b2-fc58-4027-9236-9763d79340f4.png)|
@@ -438,10 +443,6 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 ## Ячейка 49 TRI
 Тристэйт буферизированный
 |![image](https://user-images.githubusercontent.com/15833655/177050899-c8dea0ef-3783-4412-9fff-cc909c7d14d1.png)|![image](https://user-images.githubusercontent.com/15833655/177774991-099bb6bd-4777-410e-9b04-09cc07a402d6.png)|
-|---|---|
-
-## Ячейка 50
-|![image](https://user-images.githubusercontent.com/15833655/177050941-e9b54348-8909-43fa-ba21-0b4a2387e780.png)|![image](https://user-images.githubusercontent.com/15833655/177775875-d8d45190-33e5-4405-bc83-c97ceaec9d8c.png)|
 |---|---|
 
 ## Ячейка 18 - cnt_bit
