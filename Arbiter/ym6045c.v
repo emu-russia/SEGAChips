@@ -1,4 +1,4 @@
-module ym6045c (  VA8_o, VA8_d, VA8_i, VA9_o, VA9_d, VA9_i, VA10_o, VA10_d, VA10_i, VA11_o, VA11_d, VA11_i, VA12_o, VA12_d, VA12_i, VA13_o, VA13_d, VA13_i, VA14_o, VA14_d, VA14_i, VA15_o, VA15_d, VA15_i, VA16_o, VA16_d, VA16_i, VA17_o, VA17_d, VA17_i, VA18_o, VA18_d, VA18_i, VA19_o, VA19_d, VA19_i, VA20_o, VA20_d, VA20_i, VA21_o, VA21_d, VA21_i, VA22_o, VA22_d, VA22_i, VA23_o, VA23_d, VA23_i, FC0, FC1, n_VPA, n_RESET, n_HALT, D8_o, D8_d, D8_i, VCLK, n_TIME, n_CAS0, n_DTACK_o, n_DTACK_d, n_DTACK_i, RW_i, RW_d, RW_o, n_LDS_o, n_LDS_d, n_LDS_i, n_UDS_i, n_UDS_d, n_UDS_o, n_AS_o, n_AS_d, n_AS_i, n_INTAK, n_VDPM, n_BG, n_BGACK_i, n_BGACK_d, n_BGACK_o, n_BR, i_EOE, IA14, n_NOE, EDCK, n_OE0, n_HSYNC, MCLK, TPAL, n_SOUND, ZCLK, n_WRES, n_ZRAM, n_REF, n_M1, n_ZRES, n_ZBR, n_WAIT_o, n_WAIT_d, n_WAIT_i, n_ZBAK, n_ZWR_o, n_ZWR_d, n_ZWR_i, n_ZRD_i, n_ZRD_d, n_ZRD_o, n_IREQ, n_MREQ_i, n_MREQ_d, n_MREQ_o, n_NMI, n_ZA0_i, n_ZA0_d, n_ZA0_o, ZA7, ZA8_i, ZA8_d, ZA8_o, ZA9_o, ZA9_d, ZA9_i, ZA10_i, ZA10_d, ZA10_o, ZA11_o, ZA11_d, ZA11_i, ZA12_o, ZA12_d, ZA12_i, ZA13_i, ZA13_d, ZA13_o, ZA14_o, ZA14_d, ZA14_i, ZA15_i, ZA15_d, ZA15_o, ZD0, n_FDWR, n_FDC, n_ROM, n_ASEL, n_CAS2, n_RAS2, n_CE0, n_VTOZ, n_ZTOV, n_SRES, n_IO, n_M3, n_CART, pin99, pin100);
+module ym6045c (  VA8_o, VA8_d, VA8_i, VA9_o, VA9_d, VA9_i, VA10_o, VA10_d, VA10_i, VA11_o, VA11_d, VA11_i, VA12_o, VA12_d, VA12_i, VA13_o, VA13_d, VA13_i, VA14_o, VA14_d, VA14_i, VA15_o, VA15_d, VA15_i, VA16_o, VA16_d, VA16_i, VA17_o, VA17_d, VA17_i, VA18_o, VA18_d, VA18_i, VA19_o, VA19_d, VA19_i, VA20_o, VA20_d, VA20_i, VA21_o, VA21_d, VA21_i, VA22_o, VA22_d, VA22_i, VA23_o, VA23_d, VA23_i, FC0, FC1, n_VPA, n_RESET, n_HALT, D8_o, D8_d, D8_i, VCLK, n_TIME, n_CAS0, n_DTACK_o, n_DTACK_d, n_DTACK_i, RW_i, RW_d, RW_o, n_LDS_o, n_LDS_d, n_LDS_i, n_UDS_i, n_UDS_d, n_UDS_o, n_AS_o, n_AS_d, n_AS_i, n_INTAK, n_VDPM, n_BG, n_BGACK_i, n_BGACK_d, n_BGACK_o, n_BR, i_EOE, IA14, n_NOE, EDCK, n_OE0, n_HSYNC, MCLK, TPAL, n_SOUND, ZCLK, n_WRES, n_ZRAM, n_REF, n_M1, n_ZRES, n_ZBR, n_WAIT_o, n_WAIT_d, n_WAIT_i, n_ZBAK, n_ZWR_o, n_ZWR_d, n_ZWR_i, n_ZRD_i, n_ZRD_d, n_ZRD_o, n_IREQ, n_MREQ_i, n_MREQ_d, n_MREQ_o, n_NMI, ZA0_i, ZA0_d, ZA0_o, ZA7, ZA8_i, ZA8_d, ZA8_o, ZA9_o, ZA9_d, ZA9_i, ZA10_i, ZA10_d, ZA10_o, ZA11_o, ZA11_d, ZA11_i, ZA12_o, ZA12_d, ZA12_i, ZA13_i, ZA13_d, ZA13_o, ZA14_o, ZA14_d, ZA14_i, ZA15_i, ZA15_d, ZA15_o, ZD0, n_FDWR, n_FDC, n_ROM, n_ASEL, n_CAS2, n_RAS2, n_CE0, n_VTOZ, n_ZTOV, n_SRES, n_IO, n_M3, n_CART, pin99, pin100);
 
 	output wire VA8_o;
 	output wire VA8_d;
@@ -112,9 +112,9 @@ module ym6045c (  VA8_o, VA8_d, VA8_i, VA9_o, VA9_d, VA9_i, VA10_o, VA10_d, VA10
 	output wire n_MREQ_d;
 	output wire n_MREQ_o;
 	output wire n_NMI;
-	input wire n_ZA0_i;
-	output wire n_ZA0_d;
-	output wire n_ZA0_o;
+	input wire ZA0_i;
+	output wire ZA0_d;
+	output wire ZA0_o;
 	input wire ZA7;
 	input wire ZA8_i;
 	output wire ZA8_d;
@@ -625,860 +625,828 @@ module ym6045c (  VA8_o, VA8_d, VA8_i, VA9_o, VA9_d, VA9_i, VA10_o, VA10_d, VA10
 	wire w464;
 	wire w465;
 	wire w466;
-	wire w467;
 
-	assign VA8_o = w451;
-	assign VA8_d = w461;
-	assign w92 = VA8_i;
-	assign VA9_o = w452;
-	assign VA9_d = w461;
-	assign w51 = VA9_i;
-	assign VA10_o = w453;
-	assign VA10_d = w461;
-	assign w62 = VA10_i;
-	assign VA11_o = w450;
-	assign VA11_d = w461;
-	assign w61 = VA11_i;
-	assign VA12_o = w454;
-	assign VA12_d = w461;
-	assign w299 = VA12_i;
-	assign VA13_o = w455;
-	assign VA13_d = w461;
-	assign w314 = VA13_i;
+	assign VA8_o = w438;
+	assign VA8_d = w455;
+	assign w81 = VA8_i;
+	assign VA9_o = w439;
+	assign VA9_d = w455;
+	assign w73 = VA9_i;
+	assign VA10_o = w461;
+	assign VA10_d = w455;
+	assign w142 = VA10_i;
+	assign VA11_o = w440;
+	assign VA11_d = w455;
+	assign w56 = VA11_i;
+	assign VA12_o = w441;
+	assign VA12_d = w455;
+	assign w287 = VA12_i;
+	assign VA13_o = w442;
+	assign VA13_d = w455;
+	assign w304 = VA13_i;
 	assign VA14_o = w456;
-	assign VA14_d = w461;
-	assign w110 = VA14_i;
-	assign VA15_o = w457;
-	assign VA15_d = w461;
-	assign w365 = VA15_i;
-	assign VA16_o = w465;
-	assign VA16_d = w461;
-	assign w113 = VA16_i;
-	assign VA17_o = w354;
-	assign VA17_d = w461;
-	assign w370 = VA17_i;
-	assign VA18_o = w458;
-	assign VA18_d = w461;
-	assign w372 = VA18_i;
-	assign VA19_o = w459;
-	assign VA19_d = w461;
-	assign w371 = VA19_i;
-	assign VA20_o = w467;
-	assign VA20_d = w461;
-	assign w381 = VA20_i;
-	assign VA21_o = w397;
-	assign VA21_d = w462;
-	assign w23 = VA21_i;
-	assign VA22_o = w396;
-	assign VA22_d = w462;
-	assign w294 = VA22_i;
-	assign VA23_o = w460;
-	assign VA23_d = w462;
-	assign w66 = VA23_i;
-	assign w399 = FC0;
-	assign w398 = FC1;
-	assign n_VPA = w400;
-	assign n_RESET = w463;
-	assign n_HALT = w463;
-	assign D8_o = w71;
-	assign D8_d = w413;
-	assign w190 = D8_i;
-	assign w188 = VCLK;
-	assign n_TIME = w289;
-	assign w291 = n_CAS0;
-	assign n_DTACK_o = w162;
-	assign n_DTACK_d = w161;
-	assign w220 = n_DTACK_i;
-	assign w56 = RW_i;
-	assign RW_d = w160;
-	assign RW_o = w63;
-	assign n_LDS_o = w120;
-	assign n_LDS_d = w464;
-	assign w191 = n_LDS_i;
-	assign w192 = n_UDS_i;
-	assign n_UDS_d = w464;
-	assign n_UDS_o = w116;
-	assign n_AS_o = w122;
-	assign n_AS_d = w464;
-	assign w82 = n_AS_i;
-	assign n_INTAK = w280;
-	assign n_VDPM = w121;
-	assign w126 = n_BG;
-	assign w217 = n_BGACK_i;
-	assign n_BGACK_d = w119;
-	assign n_BGACK_o = w115;
-	assign n_BR = w117;
-	assign i_EOE = w151;
-	assign IA14 = w153;
-	assign n_NOE = w158;
-	assign EDCK = w155;
-	assign w112 = n_OE0;
-	assign w100 = n_HSYNC;
-	assign w149 = MCLK;
-	assign w118 = TPAL;
-	assign n_SOUND = w108;
-	assign w157 = ZCLK;
-	assign w67 = n_WRES;
-	assign n_ZRAM = w69;
-	assign n_REF = w96;
-	assign w104 = n_M1;
-	assign n_ZRES = w94;
-	assign n_ZBR = w93;
-	assign n_WAIT_o = w68;
-	assign n_WAIT_d = w105;
-	assign w111 = n_WAIT_i;
-	assign w71 = n_ZBAK;
-	assign n_ZWR_o = w75;
-	assign n_ZWR_d = w70;
-	assign w63 = n_ZWR_i;
-	assign w102 = n_ZRD_i;
-	assign n_ZRD_d = w70;
-	assign n_ZRD_o = w95;
-	assign w109 = n_IREQ;
-	assign w125 = n_MREQ_i;
-	assign n_MREQ_d = w70;
-	assign n_MREQ_o = w103;
-	assign n_NMI = w74;
-	assign w123 = n_ZA0_i;
-	assign n_ZA0_d = w70;
-	assign n_ZA0_o = w73;
-	assign w20 = ZA7;
-	assign w27 = ZA8_i;
-	assign ZA8_d = w70;
-	assign ZA8_o = w92;
-	assign ZA9_o = w51;
-	assign ZA9_d = w70;
-	assign w21 = ZA9_i;
-	assign w19 = ZA10_i;
-	assign ZA10_d = w70;
-	assign ZA10_o = w62;
-	assign ZA11_o = w61;
-	assign ZA11_d = w70;
-	assign w39 = ZA11_i;
-	assign ZA12_o = w299;
-	assign ZA12_d = w70;
-	assign w40 = ZA12_i;
-	assign w55 = ZA13_i;
-	assign ZA13_d = w70;
-	assign ZA13_o = w314;
-	assign ZA14_o = w110;
-	assign ZA14_d = w70;
+	assign VA14_d = w455;
+	assign w92 = VA14_i;
+	assign VA15_o = w443;
+	assign VA15_d = w455;
+	assign w353 = VA15_i;
+	assign VA16_o = w444;
+	assign VA16_d = w455;
+	assign w265 = VA16_i;
+	assign VA17_o = w457;
+	assign VA17_d = w455;
+	assign w358 = VA17_i;
+	assign VA18_o = w445;
+	assign VA18_d = w455;
+	assign w360 = VA18_i;
+	assign VA19_o = w446;
+	assign VA19_d = w455;
+	assign w359 = VA19_i;
+	assign VA20_o = w448;
+	assign VA20_d = w455;
+	assign w369 = VA20_i;
+	assign VA21_o = w451;
+	assign VA21_d = w449;
+	assign w20 = VA21_i;
+	assign VA22_o = w383;
+	assign VA22_d = w449;
+	assign w281 = VA22_i;
+	assign VA23_o = w450;
+	assign VA23_d = w449;
+	assign w463 = VA23_i;
+	assign w385 = FC0;
+	assign w384 = FC1;
+	assign n_VPA = w386;
+	assign n_RESET = w465;
+	assign n_HALT = w465;
+	assign D8_o = w64;
+	assign D8_d = w399;
+	assign w173 = D8_i;
+	assign w171 = VCLK;
+	assign n_TIME = w275;
+	assign w278 = n_CAS0;
+	assign n_DTACK_o = w147;
+	assign n_DTACK_d = w143;
+	assign w203 = n_DTACK_i;
+	assign w50 = RW_i;
+	assign RW_d = w197;
+	assign RW_o = w57;
+	assign n_LDS_o = w100;
+	assign n_LDS_d = w437;
+	assign w174 = n_LDS_i;
+	assign w175 = n_UDS_i;
+	assign n_UDS_d = w437;
+	assign n_UDS_o = w96;
+	assign n_AS_o = w102;
+	assign n_AS_d = w437;
+	assign w146 = n_AS_i;
+	assign n_INTAK = w268;
+	assign n_VDPM = w101;
+	assign w105 = n_BG;
+	assign w200 = n_BGACK_i;
+	assign n_BGACK_d = w99;
+	assign n_BGACK_o = w95;
+	assign n_BR = w97;
+	assign i_EOE = w129;
+	assign IA14 = w131;
+	assign n_NOE = w139;
+	assign EDCK = w133;
+	assign w452 = n_OE0;
+	assign w436 = n_HSYNC;
+	assign w433 = MCLK;
+	assign w98 = TPAL;
+	assign n_SOUND = w89;
+	assign w138 = ZCLK;
+	assign w60 = n_WRES;
+	assign n_ZRAM = w62;
+	assign n_REF = w83;
+	assign w87 = n_M1;
+	assign n_ZRES = w82;
+	assign n_ZBR = w117;
+	assign n_WAIT_o = w61;
+	assign n_WAIT_d = w116;
+	assign w93 = n_WAIT_i;
+	assign w64 = n_ZBAK;
+	assign n_ZWR_o = w67;
+	assign n_ZWR_d = w63;
+	assign w57 = n_ZWR_i;
+	assign w109 = n_ZRD_i;
+	assign n_ZRD_d = w63;
+	assign n_ZRD_o = w115;
+	assign w91 = n_IREQ;
+	assign w182 = n_MREQ_i;
+	assign n_MREQ_d = w63;
+	assign n_MREQ_o = w90;
+	assign n_NMI = w66;
+	assign w103 = ZA0_i;
+	assign ZA0_d = w63;
+	assign ZA0_o = w65;
+	assign w25 = ZA7;
+	assign w24 = ZA8_i;
+	assign ZA8_d = w63;
+	assign ZA8_o = w81;
+	assign ZA9_o = w73;
+	assign ZA9_d = w63;
+	assign w18 = ZA9_i;
+	assign w17 = ZA10_i;
+	assign ZA10_d = w63;
+	assign ZA10_o = w142;
+	assign ZA11_o = w56;
+	assign ZA11_d = w63;
+	assign w37 = ZA11_i;
+	assign ZA12_o = w287;
+	assign ZA12_d = w63;
+	assign w38 = ZA12_i;
+	assign w236 = ZA13_i;
+	assign ZA13_d = w63;
+	assign ZA13_o = w304;
+	assign ZA14_o = w92;
+	assign ZA14_d = w63;
 	assign w239 = ZA14_i;
-	assign w34 = ZA15_i;
-	assign ZA15_d = w70;
-	assign ZA15_o = w1;
-	assign w245 = ZD0;
-	assign n_FDWR = w50;
-	assign n_FDC = w91;
-	assign n_ROM = w29;
-	assign n_ASEL = w2;
-	assign n_CAS2 = w49;
-	assign n_RAS2 = w64;
-	assign n_CE0 = w22;
-	assign n_VTOZ = w70;
-	assign n_ZTOV = w281;
-	assign w107 = n_SRES;
-	assign n_IO = w106;
-	assign w37 = n_M3;
-	assign w300 = n_CART;
-	assign pin99 = w83;
-	assign pin100 = w326;
+	assign w32 = ZA15_i;
+	assign ZA15_d = w63;
+	assign ZA15_o = w453;
+	assign w230 = ZD0;
+	assign n_FDWR = w454;
+	assign n_FDC = w155;
+	assign n_ROM = w27;
+	assign n_ASEL = w1;
+	assign n_CAS2 = w46;
+	assign n_RAS2 = w58;
+	assign n_CE0 = w19;
+	assign n_VTOZ = w63;
+	assign n_ZTOV = w269;
+	assign w88 = n_SRES;
+	assign n_IO = w86;
+	assign w35 = n_M3;
+	assign w288 = n_CART;
+	assign pin99 = w76;
+	assign pin100 = w315;
 
 	// Instances
 
-	ym6045c_cell_1 g1 (.i2(w140), .o3(w158) );
-	ym6045c_cell_6 g2 (.o2(w148), .i3(w142), .i4(w144) );
-	ym6045c_cell_5 g3 (.i1(w37), .i2(w128), .o3(w151) );
-	ym6045c_cell_7 g4 (.o2(w156), .i3(w152) );
-	ym6045c_cell_5 g5 (.i1(w110), .i2(w37), .o3(w153) );
-	ym6045c_cell_4 g6 (.i1(w143), .i2(w150), .i3(w141), .o4(w139) );
-	ym6045c_cell_16 g7 (.o2(w97), .i4(w142) );
-	ym6045c_cell_14 g8 (.o2(w144), .o3(w143), .i6(w149), .i7(w114), .i13(w154), .i14(w139), .i18(1'b1) );
-	ym6045c_cell_14 g9 (.o3(w150), .i6(w149), .i7(w114), .i13(1'b1), .i14(w139), .i18(w148) );
-	ym6045c_cell_1 g10 (.i2(w97), .o3(w99) );
-	ym6045c_cell_1 g11 (.i2(w100), .o3(w101) );
-	ym6045c_cell_7 g12 (.o2(w114), .i3(w107) );
-	ym6045c_cell_29 g13 (.o1(w65), .i2(w66), .i3(w23), .i4(w113), .i5(1'b1), .i6(w110), .i7(w207) );
-	ym6045c_cell_7 g14 (.o2(w130), .i3(w97) );
-	ym6045c_cell_30 g15 (.o2(w134), .i3(w136), .i4(w135), .i5(w129), .i6(w137) );
-	ym6045c_cell_14 g16 (.o3(w136), .i6(w130), .i7(w132), .i13(1'b0), .i14(w124), .i18(w133) );
-	ym6045c_cell_14 g17 (.o3(w135), .i6(w130), .i7(w132), .i13(1'b0), .i14(w124), .o15(w133), .i18(w145) );
-	ym6045c_cell_14 g18 (.o3(w137), .i6(w130), .i7(w132), .i13(1'b0), .i14(w124), .o15(w145), .i18(w131) );
-	ym6045c_cell_14 g19 (.o2(w142), .o3(w141), .i6(w149), .i7(w114), .i13(1'b0), .i14(w139), .i18(w144) );
-	ym6045c_cell_9 g20 (.i3(w97), .i4(w134), .i7(w132), .o11(w127) );
-	ym6045c_cell_31 g21 (.i2(w99), .i3(w101), .i4(1'b0), .i13(w156), .o16(w124), .o17(w154) );
-	ym6045c_cell_32 g22 (.i1(w97), .o2(w155) );
-	ym6045c_cell_27 g23 (.i2(1'b0) );
-	ym6045c_cell_33 g24 (.i2(1'b0) );
-	ym6045c_cell_6 g25 (.o2(w2), .i3(w3), .i4(w4) );
-	ym6045c_cell_34 g26 (.o1(w3), .i2(w11) );
-	ym6045c_cell_19 g27 (.o1(w22), .i2(w5), .i3(w14), .i4(w7), .i5(w15) );
-	ym6045c_cell_10 g28 (.i2(w8), .o3(w7), .i4(w13) );
-	ym6045c_cell_8 g29 (.o1(w12), .i2(w9), .i3(w13) );
-	ym6045c_cell_18 g30 (.o1(w5), .i2(w12), .i3(w16), .i4(w18) );
-	ym6045c_cell_1 g31 (.i2(w16), .o3(w6) );
-	ym6045c_cell_3 g32 (.i2h(w6), .i2l(w9), .i3h(w23), .i3l(w18), .o4(w17) );
-	ym6045c_cell_15 g33 (.o1(w64), .i2(w17), .i3(w8), .i4(w10) );
-	ym6045c_cell_27 g34 (.o1(w11), .i2(w36) );
-	ym6045c_cell_18 g35 (.o1(w14), .i2(w37), .i3(w34), .i4(w35) );
-	ym6045c_cell_1 g36 (.i2(w27), .o3(w30) );
-	ym6045c_cell_1 g37 (.i2(w19), .o3(w32) );
-	ym6045c_cell_24 g38 (.i1h(w26), .i1l(w30), .i2h(w25), .i2l(w32), .i4h(1'b1), .i4l(w31), .o7(w38) );
-	ym6045c_cell_1 g39 (.i2(w40), .o3(w25) );
-	ym6045c_cell_1 g40 (.i2(w39), .o3(w31) );
-	ym6045c_cell_24 g41 (.i1h(w27), .i1l(w19), .i2h(w21), .i2l(w39), .i4h(1'b1), .i4l(w40), .o7(w33) );
-	ym6045c_cell_1 g42 (.i2(w21), .o3(w26) );
-	ym6045c_cell_6 g43 (.o2(w29), .i3(w43), .i4(w248) );
-	ym6045c_cell_15 g44 (.o1(w49), .i2(w54), .i3(w279), .i4(w87) );
-	ym6045c_cell_21 g45 (.o1(w54), .i2(w239), .i3(w35), .i4(w60), .i5(w37) );
-	ym6045c_cell_23 g46 (.o2(w50), .o5(w53), .i10(w52), .i11(w188) );
-	ym6045c_cell_12 g47 (.o1(w52), .i2(w53), .i3(w91), .i4(w56) );
-	ym6045c_cell_1 g48 (.i2(w34), .o3(w60) );
-	ym6045c_cell_10 g49 (.i2(w59), .o3(w58), .i4(w33) );
-	ym6045c_cell_6 g50 (.o2(w41), .i3(w57), .i4(w58) );
-	ym6045c_cell_3 g51 (.i2h(w37), .i2l(w239), .i3h(w55), .i3l(w60), .o4(w59) );
-	ym6045c_cell_21 g52 (.o1(w236), .i2(w63), .i3(w35), .i4(w59), .i5(w38) );
-	ym6045c_cell_2 g53 (.o4(w57), .i9(w247), .i11(w237), .i13(w236) );
-	ym6045c_cell_33 g54 (.o1(w44), .i2(w238) );
-	ym6045c_cell_9 g55 (.i3(w235), .i4(w66), .i7(w234), .o13(w74) );
-	ym6045c_cell_10 g56 (.i2(w56), .o3(w75), .i4(w82) );
-	ym6045c_cell_6 g57 (.o2(w73), .i3(w192), .i4(w233) );
-	ym6045c_cell_23 g58 (.o5(w233), .i10(w192), .i11(w193) );
-	ym6045c_cell_1 g59 (.i2(w55), .o3(w76) );
-	ym6045c_cell_1 g60 (.i2(w35), .o3(w78) );
-	ym6045c_cell_5 g61 (.i1(w65), .i2(w244), .o3(w90) );
-	ym6045c_cell_24 g62 (.i1h(w76), .i1l(w60), .i2h(w78), .i2l(w239), .i4h(1'b1), .i4l(w37), .o7(w108) );
-	ym6045c_cell_3 g63 (.i2h(w78), .i2l(w37), .i3h(w72), .i3l(w60), .o4(w69) );
-	ym6045c_cell_1 g64 (.i2(w239), .o3(w72) );
-	ym6045c_cell_10 g65 (.i2(w71), .o3(w70), .i4(w258) );
-	ym6045c_cell_2 g66 (.o2(w275), .o4(w260), .i9(w259), .i11(w67), .i13(w235) );
-	ym6045c_cell_2 g67 (.o4(w264), .i9(w259), .i11(w260), .i13(w262) );
-	ym6045c_cell_8 g68 (.o1(w261), .i2(w264), .i3(w275) );
-	ym6045c_cell_6 g69 (.o2(w106), .i3(w175), .i4(w278) );
-	ym6045c_cell_18 g70 (.o1(w267), .i2(w265), .i3(w37), .i4(w109) );
-	ym6045c_cell_6 g71 (.o2(w278), .i3(w267), .i4(w266) );
-	ym6045c_cell_23 g72 (.o5(w266), .i10(w267), .i11(w157) );
-	ym6045c_cell_8 g73 (.o1(w269), .i2(w192), .i3(w56) );
-	ym6045c_cell_1 g74 (.i2(w104), .o3(w265) );
-	ym6045c_cell_23 g75 (.o2(w295), .o5(w247), .i10(w107), .i11(w188) );
-	ym6045c_cell_10 g76 (.i2(w82), .o3(w95), .i4(w185) );
-	ym6045c_cell_8 g77 (.o1(w183), .i2(w184), .i3(w82) );
-	ym6045c_cell_2 g78 (.o2(w93), .i9(w247), .i11(w190), .i13(w186) );
-	ym6045c_cell_10 g79 (.i2(w56), .o3(w186), .i4(w179) );
-	ym6045c_cell_4 g80 (.i1(w187), .i2(w168), .i3(w189), .o4(w103) );
-	ym6045c_cell_23 g81 (.o5(w189), .i10(w168), .i11(w188) );
-	ym6045c_cell_10 g82 (.i2(w93), .o3(w170), .i4(w71) );
-	ym6045c_cell_5 g83 (.i1(w94), .i2(w170), .o3(w167) );
-	ym6045c_cell_35 g84 (.o1(w193), .i2(w188) );
-	ym6045c_cell_8 g85 (.o1(w96), .i2(w221), .i3(w194) );
-	ym6045c_cell_1 g86 (.i2(w56), .o3(w185) );
-	ym6045c_cell_5 g87 (.i1(w191), .i2(w192), .o3(w168) );
-	ym6045c_cell_6 g88 (.o2(w195), .i3(w172), .i4(w112) );
-	ym6045c_cell_7 g89 (.o2(w223), .i3(w114) );
-	ym6045c_cell_1 g90 (.i2(w107), .o3(w224) );
-	ym6045c_cell_18 g91 (.o1(w226), .i2(w204), .i3(w197), .i4(w224) );
-	ym6045c_cell_1 g92 (.i2(w198), .o3(w197) );
-	ym6045c_cell_23 g93 (.o5(w196), .i10(w198), .i11(w188) );
-	ym6045c_cell_18 g94 (.o1(w105), .i2(w159), .i3(w204), .i4(w205) );
-	ym6045c_cell_10 g95 (.i2(w204), .o3(w199), .i4(w196) );
-	ym6045c_cell_1 g96 (.i2(w82), .o3(w207) );
-	ym6045c_cell_7 g97 (.o2(w132), .i3(w107) );
-	ym6045c_cell_14 g98 (.o3(w129), .i6(w130), .i7(w132), .i13(1'b1), .i14(w124), .o15(w131), .i18(w124) );
-	ym6045c_cell_1 g99 (.i2(w82), .o3(w201) );
-	ym6045c_cell_21 g100 (.o1(w202), .i2(w201), .i3(w204), .i4(w200), .i5(w126) );
-	ym6045c_cell_23 g101 (.o5(w211), .i10(w199), .i11(w188) );
-	ym6045c_cell_10 g102 (.i2(w211), .o3(w122), .i4(w204) );
-	ym6045c_cell_1 g103 (.i2(w158), .o3(w128) );
-	ym6045c_cell_23 g104 (.o5(w447), .i10(w122), .i11(w188) );
-	ym6045c_cell_10 g105 (.i2(w63), .o3(w212), .i4(w447) );
-	ym6045c_cell_10 g106 (.i2(w122), .o3(w215), .i4(w102) );
-	ym6045c_cell_6 g107 (.o2(w208), .i3(w212), .i4(w215) );
-	ym6045c_cell_10 g108 (.i2(w210), .o3(w121), .i4(w190) );
-	ym6045c_cell_1 g109 (.i2(w123), .o3(w209) );
-	ym6045c_cell_10 g110 (.i2(w208), .o3(w116), .i4(w123) );
-	ym6045c_cell_10 g111 (.i2(w208), .o3(w120), .i4(w209) );
-	ym6045c_cell_7 g112 (.o2(w152), .i3(w127) );
-	ym6045c_cell_23 g113 (.o5(w117), .i10(w226), .i11(w188) );
-	ym6045c_cell_1 g114 (.i2(w118), .o3(w159) );
-	ym6045c_cell_10 g115 (.i2(w160), .o3(w119), .i4(w159) );
-	ym6045c_cell_27 g116 (.i2(1'b0) );
-	ym6045c_cell_33 g117 (.i2(1'b0) );
-	ym6045c_cell_22 g118 (.i1(w37), .o2(w253), .i6(w19), .i7(w39), .i8(w21), .i9(w19), .o11(w255), .o12(w254), .i13(w21), .i14(w27), .i15(w20), .i17(w27), .o19(w251) );
-	ym6045c_cell_1 g119 (.i2(w45), .o3(w18) );
-	ym6045c_cell_26 g120 (.i2(w300), .i4(w294), .o5(w45) );
-	ym6045c_cell_1 g121 (.i2(w23), .o3(w448) );
-	ym6045c_cell_18 g122 (.o1(w42), .i2(w36), .i3(w45), .i4(w448) );
-	ym6045c_cell_6 g123 (.o2(w10), .i3(w42), .i4(w44) );
-	ym6045c_cell_18 g124 (.o1(w43), .i2(w45), .i3(w16), .i4(w23) );
-	ym6045c_cell_22 g125 (.i1(w37), .o2(w250), .i6(w239), .i7(w41), .i8(w55), .i9(w239), .o11(w249), .o12(w303), .i13(w55), .i14(w40), .i15(w39), .i17(w40), .o19(w256) );
-	ym6045c_cell_1 g126 (.i2(w45), .o3(w46) );
-	ym6045c_cell_18 g127 (.o1(w248), .i2(w80), .i3(w23), .i4(w45) );
-	ym6045c_cell_6 g128 (.o2(w15), .i3(w47), .i4(w88) );
-	ym6045c_cell_6 g129 (.o2(w87), .i3(w84), .i4(w85) );
-	ym6045c_cell_10 g130 (.i2(w48), .o3(w47), .i4(w46) );
-	ym6045c_cell_28 g131 (.i1(w13), .o2(w48), .i5(w36), .i6(w80) );
-	ym6045c_cell_10 g132 (.i2(w44), .o3(w88), .i4(w13) );
-	ym6045c_cell_10 g133 (.i2(w301), .o3(w36), .i4(w66) );
-	ym6045c_cell_10 g134 (.i2(w16), .o3(w81), .i4(w302) );
-	ym6045c_cell_18 g135 (.o1(w16), .i2(w66), .i3(w86), .i4(w82) );
-	ym6045c_cell_1 g136 (.i2(w37), .o3(w86) );
-	ym6045c_cell_8 g137 (.o1(w234), .i2(w240), .i3(w89) );
-	ym6045c_cell_8 g138 (.o1(w89), .i2(w240), .i3(w259) );
-	ym6045c_cell_36 g139 (.i1h(1'b0), .i1l(w61), .i2h(w90), .i2l(w62), .o3(w83), .i7h(w191), .i7l(w51), .i8h(w192), .i8l(w92) );
-	ym6045c_cell_17 g140 (.i2(w247), .o3(w237), .o10(w313), .o16(w241), .o23(w310), .o29(w242), .o36(w243), .o42(w298), .o49(w297), .i56(w245), .i57(w236) );
-	ym6045c_cell_10 g141 (.i2(w257), .o3(w238), .i4(w246) );
-	ym6045c_cell_34 g142 (.o1(w246), .i2(w279) );
-	ym6045c_cell_8 g143 (.o1(w312), .i2(w261), .i3(w311) );
-	ym6045c_cell_25 g144 (.i1(w314), .o2(w263), .o3(w276), .i6(w299), .o10(w273), .o11(w277) );
-	ym6045c_cell_4 g145 (.i1(w276), .i2(w315), .i3(w113), .o4(w174) );
-	ym6045c_cell_3 g146 (.i2h(w273), .i2l(w315), .i3h(w270), .i3l(w113), .o4(w274) );
-	ym6045c_cell_3 g147 (.i2h(w263), .i2l(w315), .i3h(w270), .i3l(w113), .o4(w180) );
-	ym6045c_cell_3 g148 (.i2h(w277), .i2l(w315), .i3h(w270), .i3l(w113), .o4(w175) );
-	ym6045c_cell_10 g149 (.i2(w82), .o3(w91), .i4(w274) );
-	ym6045c_cell_1 g150 (.i2(w37), .o3(w272) );
-	ym6045c_cell_18 g151 (.o1(w230), .i2(w35), .i3(w272), .i4(w60) );
-	ym6045c_cell_25 g152 (.i1(w51), .o3(w181), .i6(w92), .o10(w271), .o11(w270) );
-	ym6045c_cell_4 g153 (.i1(w232), .i2(w269), .i3(w271), .o4(w283) );
-	ym6045c_cell_4 g154 (.i1(w270), .i2(w232), .i3(w269), .o4(w268) );
-	ym6045c_cell_2 g155 (.o2(w13), .i9(w247), .i11(w190), .i13(w268) );
-	ym6045c_cell_10 g156 (.i2(w35), .o3(w231), .i4(w58) );
-	ym6045c_cell_6 g157 (.o2(w216), .i3(w231), .i4(w230) );
-	ym6045c_cell_8 g158 (.o1(w177), .i2(w182), .i3(w183) );
-	ym6045c_cell_1 g159 (.i2(w174), .o3(w232) );
-	ym6045c_cell_4 g160 (.i1(w232), .i2(w181), .i3(w178), .o4(w179) );
-	ym6045c_cell_1 g161 (.i2(w192), .o3(w178) );
-	ym6045c_cell_9 g162 (.i3(w193), .i4(w177), .i7(w167), .o11(w176), .o13(w184) );
-	ym6045c_cell_10 g163 (.i2(w82), .o3(w169), .i4(w258) );
-	ym6045c_cell_10 g164 (.i2(w82), .o3(w290), .i4(w174) );
-	ym6045c_cell_24 g165 (.i1h(w175), .i1l(w287), .i2h(w91), .i2l(w289), .i4h(w81), .i4l(w290), .o7(w165) );
-	ym6045c_cell_10 g166 (.i2(w180), .o3(w289), .i4(w82) );
-	ym6045c_cell_10 g167 (.i2(w171), .o3(w287), .i4(w169) );
-	ym6045c_cell_5 g168 (.i1(w218), .i2(w111), .o3(w171) );
-	ym6045c_cell_10 g169 (.i2(w195), .o3(w173), .i4(w288) );
-	ym6045c_cell_39 g170 (.o1(w140), .i2(w293), .i3(w173), .i4(w292) );
-	ym6045c_cell_21 g171 (.o1(w210), .i2(w37), .i3(w125), .i4(w190), .i5(w294) );
-	ym6045c_cell_12 g172 (.o1(w221), .i2(w286), .i3(w222), .i4(w125) );
-	ym6045c_cell_8 g173 (.o1(w194), .i2(w222), .i3(w285) );
-	ym6045c_cell_1 g174 (.i2(w37), .o3(w222) );
-	ym6045c_cell_6 g175 (.o2(w281), .i3(w37), .i4(w225) );
-	ym6045c_cell_10 g176 (.i2(w224), .o3(w225), .i4(w206) );
-	ym6045c_cell_18 g177 (.o1(w198), .i2(w204), .i3(w206), .i4(w224) );
-	ym6045c_cell_5 g178 (.i1(w176), .i2(w82), .o3(w229) );
-	ym6045c_cell_8 g179 (.o1(w205), .i2(w198), .i3(w220) );
-	ym6045c_cell_23 g180 (.o5(w219), .i10(w104), .i11(w157) );
-	ym6045c_cell_23 g181 (.o5(w228), .i10(w219), .i11(w157) );
-	ym6045c_cell_6 g182 (.o2(w214), .i3(w198), .i4(w202) );
-	ym6045c_cell_23 g183 (.o5(w206), .i10(w214), .i11(w193) );
-	ym6045c_cell_23 g184 (.o2(w187), .o5(w166), .i10(w284), .i11(w193) );
-	ym6045c_cell_1 g185 (.i2(w217), .o3(w200) );
-	ym6045c_cell_23 g186 (.o5(w213), .i10(w216), .i11(w157) );
-	ym6045c_cell_6 g187 (.o2(w204), .i3(w213), .i4(w216) );
-	ym6045c_cell_7 g188 (.o2(w160), .i3(w225) );
-	ym6045c_cell_6 g189 (.o2(w282), .i3(w281), .i4(w227) );
-	ym6045c_cell_10 g190 (.i2(w217), .o3(w227), .i4(w282) );
-	ym6045c_cell_23 g191 (.o2(w218), .i10(w164), .i11(w188) );
-	ym6045c_cell_18 g192 (.o1(w164), .i2(w163), .i3(w82), .i4(w166) );
-	ym6045c_cell_23 g193 (.o5(w163), .i10(w82), .i11(w188) );
-	ym6045c_cell_5 g194 (.i1(w165), .i2(w280), .o3(w161) );
-	ym6045c_cell_30 g195 (.o2(w339), .i3(w317), .i4(w327), .i5(w325), .i6(w329) );
-	ym6045c_cell_5 g196 (.i1(w330), .i2(w331), .o3(w318) );
-	ym6045c_cell_6 g197 (.o2(w319), .i3(w318), .i4(w337) );
-	ym6045c_cell_9 g198 (.i3(w188), .i4(w319), .i7(w308), .o11(w330), .o13(w332) );
-	ym6045c_cell_23 g199 (.o5(w334), .i10(w4), .i11(w193) );
-	ym6045c_cell_23 g200 (.o2(w309), .o5(w331), .i10(w333), .i11(w193) );
-	ym6045c_cell_10 g201 (.i2(w84), .o3(w333), .i4(w332) );
-	ym6045c_cell_8 g202 (.o1(w9), .i2(w309), .i3(w335) );
-	ym6045c_cell_10 g203 (.i2(w334), .o3(w84), .i4(w335) );
-	ym6045c_cell_23 g204 (.o5(w336), .i10(w335), .i11(w188) );
-	ym6045c_cell_10 g205 (.i2(w335), .o3(w4), .i4(w336) );
-	ym6045c_cell_10 g206 (.i2(w330), .o3(w302), .i4(w4) );
-	ym6045c_cell_10 g207 (.i2(w345), .o3(w337), .i4(w66) );
-	ym6045c_cell_1 g208 (.i2(w23), .o3(w304) );
-	ym6045c_cell_3 g209 (.i2h(w207), .i2l(w66), .i3h(w294), .i3l(w304), .o4(w326) );
-	ym6045c_cell_2 g210 (.o4(w305), .i9(w308), .i11(w309), .i13(w193) );
-	ym6045c_cell_8 g211 (.o1(w8), .i2(w305), .i3(w363) );
-	ym6045c_cell_10 g212 (.i2(w361), .o3(w80), .i4(w301) );
-	ym6045c_cell_18 g213 (.o1(w335), .i2(w306), .i3(w66), .i4(w362) );
-	ym6045c_cell_5 g214 (.i1(w307), .i2(w85), .o3(w306) );
-	ym6045c_cell_9 g215 (.i3(w193), .i4(w85), .i7(w308), .o13(w307) );
-	ym6045c_cell_21 g216 (.o1(w366), .i2(w365), .i3(w110), .i4(w62), .i5(w61) );
-	ym6045c_cell_9 g217 (.i3(w193), .i4(w360), .i7(w308), .o11(w363), .o13(w364) );
-	ym6045c_cell_6 g218 (.o2(w85), .i3(w360), .i4(w364) );
-	ym6045c_cell_6 g219 (.o2(w308), .i3(w37), .i4(w247) );
-	ym6045c_cell_6 g220 (.o2(w353), .i3(w237), .i4(w58) );
-	ym6045c_cell_6 g221 (.o2(w368), .i3(w58), .i4(w310) );
-	ym6045c_cell_6 g222 (.o2(w355), .i3(w241), .i4(w58) );
-	ym6045c_cell_6 g223 (.o2(w369), .i3(w313), .i4(w58) );
-	ym6045c_cell_37 g224 (.i1(w365), .i2(w299), .i3(w314), .i4(w370), .o5(w244), .i6(w372), .i7(w371), .i8(w381), .i9(w294) );
-	ym6045c_cell_21 g225 (.o1(w382), .i2(w371), .i3(w381), .i4(w370), .i5(w372) );
-	ym6045c_cell_1 g226 (.i2(w58), .o3(w359) );
-	ym6045c_cell_2 g227 (.o2(w311), .i9(w259), .i11(w380), .i13(w235) );
-	ym6045c_cell_2 g228 (.o4(w380), .i9(w259), .i11(w259), .i13(w235) );
-	ym6045c_cell_12 g229 (.o1(w315), .i2(w366), .i3(w382), .i4(w373) );
-	ym6045c_cell_18 g230 (.o1(w258), .i2(w113), .i3(w373), .i4(w382) );
-	ym6045c_cell_38 g231 (.o2(w235), .i10(w259), .i12(w383) );
-	ym6045c_cell_7 g232 (.o2(w259), .i3(w247) );
-	ym6045c_cell_1 g233 (.i2(w342), .o3(w262) );
-	ym6045c_cell_6 g234 (.o2(w385), .i3(w58), .i4(w297) );
-	ym6045c_cell_6 g235 (.o2(w384), .i3(w58), .i4(w298) );
-	ym6045c_cell_6 g236 (.o2(w386), .i3(w58), .i4(w243) );
-	ym6045c_cell_6 g237 (.o2(w388), .i3(w58), .i4(w242) );
-	ym6045c_cell_7 g238 (.o2(w324), .i3(w449) );
-	ym6045c_cell_8 g239 (.o1(w449), .i2(w367), .i3(w295) );
-	ym6045c_cell_8 g240 (.o1(w296), .i2(w377), .i3(w367) );
-	ym6045c_cell_8 g241 (.o1(w182), .i2(w295), .i3(w296) );
-	ym6045c_cell_9 g242 (.i3(w349), .i4(w390), .i7(w387), .o11(w390), .o13(w257) );
-	ym6045c_cell_1 g243 (.i2(w291), .o3(w349) );
-	ym6045c_cell_10 g244 (.i2(w301), .o3(w279), .i4(w291) );
-	ym6045c_cell_7 g245 (.o2(w395), .i3(w225) );
-	ym6045c_cell_1 g246 (.i2(w442), .o3(w391) );
-	ym6045c_cell_2 g247 (.o4(w392), .i9(w391), .i11(w111), .i13(w393) );
-	ym6045c_cell_6 g248 (.o2(w288), .i3(w291), .i4(w394) );
-	ym6045c_cell_2 g249 (.o2(w172), .o4(w441), .i9(w392), .i11(w434), .i13(w414) );
-	ym6045c_cell_2 g250 (.o2(w439), .o4(w293), .i9(w223), .i11(w394), .i13(w414) );
-	ym6045c_cell_39 g251 (.o1(w442), .i2(w439), .i3(w223), .i4(w394) );
-	ym6045c_cell_2 g252 (.o2(w292), .o4(w434), .i9(w392), .i11(w393), .i13(w188) );
-	ym6045c_cell_10 g253 (.i2(w179), .o3(w413), .i4(w185) );
-	ym6045c_cell_1 g254 (.i2(w188), .o3(w414) );
-	ym6045c_cell_1 g255 (.i2(w217), .o3(w393) );
-	ym6045c_cell_1 g256 (.i2(w37), .o3(w407) );
-	ym6045c_cell_18 g257 (.o1(w301), .i2(w409), .i3(w217), .i4(w407) );
-	ym6045c_cell_1 g258 (.i2(w282), .o3(w409) );
-	ym6045c_cell_1 g259 (.i2(w157), .o3(w412) );
-	ym6045c_cell_23 g260 (.o2(w415), .o5(w286), .i10(w228), .i11(w412) );
-	ym6045c_cell_23 g261 (.o2(w411), .i10(w410), .i11(w193) );
-	ym6045c_cell_5 g262 (.i1(w229), .i2(w285), .o3(w410) );
-	ym6045c_cell_4 g263 (.i1(w411), .i2(w285), .i3(w229), .o4(w284) );
-	ym6045c_cell_23 g264 (.o5(w285), .i10(w229), .i11(w193) );
-	ym6045c_cell_28 g265 (.i1(w37), .o2(w94), .i5(w312), .i6(w422) );
-	ym6045c_cell_2 g266 (.o4(w422), .i9(w312), .i11(w190), .i13(w283) );
-	ym6045c_cell_38 g267 (.o2(w420), .i10(w416), .i12(w408) );
-	ym6045c_cell_38 g268 (.o2(w433), .i10(w416), .i12(w420) );
-	ym6045c_cell_34 g269 (.o1(w418), .i2(w301) );
-	ym6045c_cell_5 g270 (.i1(w301), .i2(w418), .o3(w419) );
-	ym6045c_cell_33 g271 (.i2(1'b0) );
-	ym6045c_cell_27 g272 (.i2(1'b0) );
-	ym6045c_cell_6 g273 (.o2(w450), .i3(w316), .i4(w253) );
-	ym6045c_cell_6 g274 (.o2(w451), .i3(w316), .i4(w251) );
-	ym6045c_cell_6 g275 (.o2(w452), .i3(w316), .i4(w254) );
-	ym6045c_cell_6 g276 (.o2(w453), .i3(w316), .i4(w255) );
-	ym6045c_cell_14 g277 (.o3(w317), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .o15(w321), .i18(w322) );
-	ym6045c_cell_14 g278 (.o3(w329), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .o15(w338), .i18(w321) );
-	ym6045c_cell_14 g279 (.o3(w325), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .o15(w328), .i18(w338) );
-	ym6045c_cell_14 g280 (.o3(w327), .i6(w188), .i7(1'b1), .i13(w37), .i14(w324), .i18(w328) );
-	ym6045c_cell_6 g281 (.o2(w454), .i3(w316), .i4(w256) );
-	ym6045c_cell_6 g282 (.o2(w455), .i3(w316), .i4(w303) );
-	ym6045c_cell_6 g283 (.o2(w456), .i3(w249), .i4(w316) );
-	ym6045c_cell_6 g284 (.o2(w457), .i3(w250), .i4(w316) );
-	ym6045c_cell_15 g285 (.o1(w322), .i2(w324), .i3(w344), .i4(w344) );
-	ym6045c_cell_5 g286 (.i1(w343), .i2(w66), .o3(w347) );
-	ym6045c_cell_6 g287 (.o2(w348), .i3(w347), .i4(w346) );
-	ym6045c_cell_4 g288 (.i1(w342), .i2(w345), .i3(w344), .o4(w346) );
-	ym6045c_cell_2 g289 (.o2(w345), .o4(w343), .i9(w342), .i11(w342), .i13(w341) );
-	ym6045c_cell_1 g290 (.i2(w362), .o3(w341) );
-	ym6045c_cell_1 g291 (.i2(w37), .o3(w340) );
-	ym6045c_cell_10 g292 (.i2(w82), .o3(w362), .i4(w340) );
-	ym6045c_cell_1 g293 (.i2(w359), .o3(w316) );
-	ym6045c_cell_9 g294 (.i3(w188), .i4(w348), .i7(w308), .o13(w360) );
-	ym6045c_cell_6 g295 (.o2(w367), .i3(w344), .i4(w339) );
-	ym6045c_cell_15 g296 (.o1(w361), .i2(w66), .i3(w352), .i4(w349) );
-	ym6045c_cell_9 g297 (.i3(w349), .i4(w66), .i7(w351), .o13(w352) );
-	ym6045c_cell_1 g298 (.i2(w301), .o3(w351) );
-	ym6045c_cell_10 g299 (.i2(w23), .o3(w350), .i4(w125) );
-	ym6045c_cell_22 g300 (.i1(w37), .o2(w459), .i6(w109), .i7(w368), .i8(w125), .i9(w355), .o11(w458), .o12(w354), .i13(w369), .i14(w350), .i15(w34), .i17(w353), .o19(w465) );
-	ym6045c_cell_1 g301 (.i2(w301), .o3(w357) );
-	ym6045c_cell_30 g302 (.o2(w358), .i3(w343), .i4(w357), .i5(w344), .i6(w356) );
-	ym6045c_cell_9 g303 (.i3(w188), .i4(w379), .i7(w247), .o11(w342), .o13(w356) );
-	ym6045c_cell_12 g304 (.o1(w379), .i2(w358), .i3(w367), .i4(w377) );
-	ym6045c_cell_1 g305 (.i2(w294), .o3(w466) );
-	ym6045c_cell_3 g306 (.i2h(w37), .i2l(w466), .i3h(w66), .i3l(w23), .o4(w373) );
-	ym6045c_cell_38 g307 (.o2(w378), .i10(w374), .i12(w375) );
-	ym6045c_cell_38 g308 (.o2(w375), .i10(w374), .i12(w376) );
-	ym6045c_cell_38 g309 (.o2(w376), .i10(w374), .i12(w445) );
-	ym6045c_cell_8 g310 (.o1(w445), .i2(w342), .i3(w440) );
-	ym6045c_cell_38 g311 (.o2(w437), .i10(w374), .i12(w378) );
-	ym6045c_cell_10 g312 (.i2(w359), .o3(w389), .i4(w385) );
-	ym6045c_cell_10 g313 (.i2(w384), .o3(w444), .i4(w359) );
-	ym6045c_cell_22 g314 (.i1(w37), .o2(w460), .i6(1'b0), .i7(w389), .i8(1'b0), .i9(w444), .o11(w396), .o12(w397), .i13(w386), .i14(1'b0), .i15(w94), .i17(w388), .o19(w467) );
-	ym6045c_cell_1 g315 (.i2(w295), .o3(w374) );
-	ym6045c_cell_10 g316 (.i2(w159), .o3(w461), .i4(w281) );
-	ym6045c_cell_10 g317 (.i2(w395), .o3(w462), .i4(w159) );
-	ym6045c_cell_10 g318 (.i2(w415), .o3(w35), .i4(w125) );
-	ym6045c_cell_8 g319 (.o1(w377), .i2(w240), .i3(w406) );
-	ym6045c_cell_1 g320 (.i2(w295), .o3(w416) );
-	ym6045c_cell_2 g321 (.o4(w394), .i9(w392), .i11(w441), .i13(w188) );
-	ym6045c_cell_38 g322 (.o2(w383), .i10(w416), .i12(w433) );
-	ym6045c_cell_6 g323 (.o2(w387), .i3(w66), .i4(w419) );
-	ym6045c_cell_7 g324 (.o2(w240), .i3(w37) );
-	ym6045c_cell_8 g325 (.o1(w440), .i2(w240), .i3(w436) );
-	ym6045c_cell_10 g326 (.i2(w438), .o3(w401), .i4(w437) );
-	ym6045c_cell_8 g327 (.o1(w438), .i2(w240), .i3(w435) );
-	ym6045c_cell_1 g328 (.i2(w405), .o3(w406) );
-	ym6045c_cell_1 g329 (.i2(w403), .o3(w435) );
-	ym6045c_cell_1 g330 (.i2(w404), .o3(w436) );
-	ym6045c_cell_25 g331 (.i1(w398), .o2(w402), .o3(w403), .i6(w399), .o10(w404), .o11(w405) );
-	ym6045c_cell_5 g332 (.i1(w402), .i2(w281), .o3(w280) );
-	ym6045c_cell_10 g333 (.i2(w280), .o3(w400), .i4(w82) );
-	ym6045c_cell_38 g334 (.o2(w408), .i10(w416), .i12(w401) );
-	ym6045c_cell_6 g335 (.o2(w463), .i3(w312), .i4(w37) );
-	ym6045c_cell_6 g336 (.o2(w344), .i3(1'b1), .i4(w431) );
-	ym6045c_cell_14 g337 (.o3(w425), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .i18(w423) );
-	ym6045c_cell_14 g338 (.o3(w428), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .o15(w423), .i18(w424) );
-	ym6045c_cell_30 g339 (.o2(w431), .i3(w425), .i4(w428), .i5(w430), .i6(w421) );
-	ym6045c_cell_14 g340 (.o3(w430), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .o15(w424), .i18(w427) );
-	ym6045c_cell_14 g341 (.o3(w421), .i6(w188), .i7(1'b1), .i13(1'b0), .i14(w324), .o15(w427), .i18(w432) );
-	ym6045c_cell_15 g342 (.o1(w432), .i2(w324), .i3(1'b1), .i4(1'b1) );
-	ym6045c_cell_10 g343 (.i2(w159), .o3(w464), .i4(w160) );
+	ym6045c_NOT g_1 (.A(w140), .nZ(w139) );
+	ym6045c_AND g_2 (.Z(w127), .B(w120), .A(w122) );
+	ym6045c_NAND g_3 (.A(w35), .B(w107), .Z(w129) );
+	ym6045c_BUF g_4 (.Z(w134), .A(w130) );
+	ym6045c_NAND g_5 (.A(w92), .B(w35), .Z(w131) );
+	ym6045c_NAND3 g_6 (.A(w121), .B(w128), .C(w124), .Z(w119) );
+	ym6045c_BUF g_7 (.Z(w84), .A(w120) );
+	ym6045c_CNT_BIT g_8 (.Q(w122), .nQ(w121), .C(w433), .RES(w94), .D(w132), .nLD(w119), .CI(1'b1) );
+	ym6045c_CNT_BIT g_9 (.nQ(w128), .C(w433), .RES(w94), .D(1'b1), .nLD(w119), .CI(w127) );
+	ym6045c_NOT g_10 (.A(w84), .nZ(w85) );
+	ym6045c_NOT g_11 (.A(w436), .nZ(w135) );
+	ym6045c_BUF g_12 (.Z(w94), .A(w88) );
+	ym6045c_AND6 g_13 (.Z(w59), .F(w75), .E(w20), .D(w265), .C(1'b1), .B(w92), .A(w190) );
+	ym6045c_BUF g_14 (.Z(w108), .A(w84) );
+	ym6045c_NOR4 g_15 (.Z(w136), .D(w114), .C(w113), .B(w432), .A(w141) );
+	ym6045c_CNT_BIT g_16 (.nQ(w114), .C(w108), .RES(w111), .D(1'b0), .nLD(w104), .CI(w112) );
+	ym6045c_CNT_BIT g_17 (.nQ(w113), .C(w108), .RES(w111), .D(1'b0), .nLD(w104), .CO(w112), .CI(w123) );
+	ym6045c_CNT_BIT g_18 (.nQ(w141), .C(w108), .RES(w111), .D(1'b0), .nLD(w104), .CO(w123), .CI(w110) );
+	ym6045c_CNT_BIT g_19 (.Q(w120), .nQ(w124), .C(w433), .RES(w94), .D(1'b0), .nLD(w119), .CI(w122) );
+	ym6045c_DFFSPOS g_20 (.C(w84), .D(w136), .nSET(w111), .nQ(w106) );
+	ym6045c_JKFF g_21 (.C(w85), .K(w135), .J(1'b0), .nSET(w134), .nQ(w104), .Q(w132) );
+	ym6045c_BUF g_22 (.A(w84), .Z(w133) );
+	ym6045c_AND g_25 (.Z(w1), .B(w2), .A(w3) );
+	ym6045c_DELAY g_26 (.Z(w2), .A(w10) );
+	ym6045c_AND4 g_27 (.Z(w19), .D(w4), .C(w13), .B(w6), .A(w77) );
+	ym6045c_OR g_28 (.A(w7), .Z(w6), .B(w12) );
+	ym6045c_NOR g_29 (.Z(w11), .B(w8), .A(w12) );
+	ym6045c_OR3 g_30 (.Z(w4), .C(w11), .B(w14), .A(w16) );
+	ym6045c_NOT g_31 (.A(w14), .nZ(w5) );
+	ym6045c_NAND4 g_32 (.B(w5), .C(w8), .A(w20), .D(w16), .Z(w15) );
+	ym6045c_AND3 g_33 (.Z(w58), .C(w15), .B(w7), .A(w9) );
+	ym6045c_DELAY_S g_34 (.Z(w10), .A(w34) );
+	ym6045c_OR3 g_35 (.Z(w13), .C(w35), .B(w32), .A(w33) );
+	ym6045c_NOT g_36 (.A(w24), .nZ(w28) );
+	ym6045c_NOT g_37 (.A(w17), .nZ(w30) );
+	ym6045c_NAND6 g_38 (.C(w23), .D(w28), .B(w22), .E(w30), .A(1'b1), .F(w29), .Z(w36) );
+	ym6045c_NOT g_39 (.A(w38), .nZ(w22) );
+	ym6045c_NOT g_40 (.A(w37), .nZ(w29) );
+	ym6045c_NAND6 g_41 (.A(w24), .F(w17), .B(w18), .E(w37), .C(1'b1), .D(w38), .Z(w31) );
+	ym6045c_NOT g_42 (.A(w18), .nZ(w23) );
+	ym6045c_AND g_43 (.Z(w27), .B(w40), .A(w235) );
+	ym6045c_AND3 g_44 (.Z(w46), .C(w49), .B(w267), .A(w462) );
+	ym6045c_OR4 g_45 (.Z(w49), .D(w239), .C(w33), .B(w55), .A(w35) );
+	ym6045c_DFFPOS g_46 (.nQ(w454), .Q(w48), .D(w47), .C(w171) );
+	ym6045c_NOR3 g_47 (.Z(w47), .C(w48), .B(w155), .A(w50) );
+	ym6045c_NOT g_48 (.A(w32), .nZ(w55) );
+	ym6045c_OR g_49 (.B(w54), .Z(w53), .A(w31) );
+	ym6045c_AND g_50 (.Z(w52), .B(w51), .A(w53) );
+	ym6045c_NAND4 g_51 (.B(w35), .D(w239), .A(w236), .C(w55), .Z(w54) );
+	ym6045c_OR4 g_52 (.Z(w224), .A(w57), .B(w33), .C(w54), .D(w36) );
+	ym6045c_DFFRPOS g_53 (.Q(w51), .nRES(w253), .D(w225), .C(w224) );
+	ym6045c_DELAY g_54 (.Z(w41), .A(w231) );
+	ym6045c_DFFSPOS g_55 (.C(w223), .D(w75), .nSET(w222), .Q(w66) );
+	ym6045c_OR g_56 (.B(w50), .Z(w67), .A(w146) );
+	ym6045c_AND g_57 (.Z(w65), .B(w175), .A(w221) );
+	ym6045c_DFFPOS g_58 (.Q(w221), .D(w175), .C(w176) );
+	ym6045c_NOT g_59 (.A(w236), .nZ(w68) );
+	ym6045c_NOT g_60 (.A(w33), .nZ(w70) );
+	ym6045c_NAND g_61 (.A(w59), .B(w233), .Z(w234) );
+	ym6045c_NAND6 g_62 (.C(w68), .D(w55), .B(w70), .E(w239), .A(1'b1), .F(w35), .Z(w89) );
+	ym6045c_NAND4 g_63 (.B(w70), .C(w35), .A(w71), .D(w55), .Z(w62) );
+	ym6045c_NOT g_64 (.A(w239), .nZ(w71) );
+	ym6045c_OR g_65 (.A(w64), .Z(w63), .B(w266) );
+	ym6045c_DFFRPOS g_66 (.nQ(w261), .Q(w245), .nRES(w244), .D(w60), .C(w223) );
+	ym6045c_DFFRPOS g_67 (.Q(w249), .nRES(w244), .D(w245), .C(w247) );
+	ym6045c_NOR g_68 (.Z(w246), .B(w249), .A(w261) );
+	ym6045c_AND g_69 (.Z(w86), .B(w157), .A(w264) );
+	ym6045c_OR3 g_70 (.Z(w252), .C(w250), .B(w35), .A(w91) );
+	ym6045c_AND g_71 (.Z(w264), .B(w252), .A(w251) );
+	ym6045c_DFFPOS g_72 (.Q(w251), .D(w252), .C(w138) );
+	ym6045c_NOR g_73 (.Z(w256), .B(w175), .A(w50) );
+	ym6045c_NOT g_74 (.A(w87), .nZ(w250) );
+	ym6045c_DFFPOS g_75 (.nQ(w283), .Q(w253), .D(w88), .C(w171) );
+	ym6045c_OR g_76 (.A(w146), .Z(w115), .B(w168) );
+	ym6045c_NOR g_77 (.Z(w166), .B(w167), .A(w146) );
+	ym6045c_DFFRPOS g_78 (.nQ(w117), .nRES(w253), .D(w173), .C(w169) );
+	ym6045c_OR g_79 (.B(w50), .Z(w169), .A(w162) );
+	ym6045c_NAND3 g_80 (.A(w170), .B(w151), .C(w172), .Z(w90) );
+	ym6045c_DFFPOS g_81 (.Q(w172), .D(w151), .C(w171) );
+	ym6045c_OR g_82 (.A(w117), .Z(w153), .B(w64) );
+	ym6045c_NAND g_83 (.A(w82), .B(w153), .Z(w150) );
+	ym6045c_NOT g_84 (.Z(w176), .A(w171) );
+	ym6045c_NOR g_85 (.Z(w83), .B(w204), .A(w206) );
+	ym6045c_NOT g_86 (.A(w50), .nZ(w168) );
+	ym6045c_NAND g_87 (.A(w174), .B(w175), .Z(w151) );
+	ym6045c_AND g_88 (.Z(w177), .B(w154), .A(w452) );
+	ym6045c_BUF g_89 (.Z(w208), .A(w94) );
+	ym6045c_NOT g_90 (.A(w88), .nZ(w209) );
+	ym6045c_OR3 g_91 (.Z(w212), .C(w186), .B(w178), .A(w209) );
+	ym6045c_NOT g_92 (.A(w179), .nZ(w178) );
+	ym6045c_DFFPOS g_93 (.Q(w189), .D(w179), .C(w171) );
+	ym6045c_OR3 g_94 (.Z(w116), .C(w213), .B(w186), .A(w187) );
+	ym6045c_OR g_95 (.B(w186), .Z(w180), .A(w189) );
+	ym6045c_NOT g_96 (.A(w146), .nZ(w190) );
+	ym6045c_BUF g_97 (.Z(w111), .A(w88) );
+	ym6045c_CNT_BIT g_98 (.nQ(w432), .C(w108), .RES(w111), .D(1'b1), .nLD(w104), .CO(w110), .CI(w104) );
+	ym6045c_NOT g_99 (.A(w146), .nZ(w183) );
+	ym6045c_OR4 g_100 (.Z(w184), .D(w183), .C(w186), .B(w181), .A(w105) );
+	ym6045c_DFFPOS g_101 (.Q(w194), .D(w180), .C(w171) );
+	ym6045c_OR g_102 (.A(w194), .Z(w102), .B(w186) );
+	ym6045c_NOT g_103 (.A(w139), .nZ(w107) );
+	ym6045c_DFFPOS g_104 (.Q(w466), .D(w102), .C(w171) );
+	ym6045c_OR g_105 (.B(w57), .Z(w214), .A(w466) );
+	ym6045c_OR g_106 (.A(w102), .B(w109), .Z(w198) );
+	ym6045c_AND g_107 (.Z(w191), .B(w214), .A(w198) );
+	ym6045c_OR g_108 (.B(w193), .Z(w101), .A(w173) );
+	ym6045c_NOT g_109 (.A(w103), .nZ(w192) );
+	ym6045c_OR g_110 (.B(w191), .Z(w96), .A(w103) );
+	ym6045c_OR g_111 (.B(w191), .Z(w100), .A(w192) );
+	ym6045c_BUF g_112 (.Z(w130), .A(w106) );
+	ym6045c_DFFPOS g_113 (.Q(w97), .D(w212), .C(w171) );
+	ym6045c_NOT g_114 (.A(w98), .nZ(w213) );
+	ym6045c_OR g_115 (.B(w197), .Z(w99), .A(w213) );
+	ym6045c_MUX4BIT g_118 (.C(w35), .Z0(w241), .B1(w17), .A1(w37), .B2(w18), .A2(w17), .Z1(w243), .Z2(w242), .A3(w18), .B3(w24), .B4(w25), .A4(w24), .Z3(w240) );
+	ym6045c_NOT g_119 (.A(w42), .nZ(w16) );
+	ym6045c_XNOR g_120 (.A(w288), .B(w281), .Z(w42) );
+	ym6045c_NOT g_121 (.A(w20), .nZ(w434) );
+	ym6045c_OR3 g_122 (.Z(w39), .C(w34), .B(w42), .A(w434) );
+	ym6045c_AND g_123 (.B(w39), .A(w41), .Z(w9) );
+	ym6045c_OR3 g_124 (.Z(w40), .C(w42), .B(w14), .A(w20) );
+	ym6045c_MUX4BIT g_125 (.C(w35), .Z0(w238), .B1(w239), .A1(w52), .B2(w236), .A2(w239), .Z1(w237), .Z2(w328), .A3(w236), .B3(w38), .B4(w37), .A4(w38), .Z3(w291) );
+	ym6045c_NOT g_126 (.nZ(w43), .A(w42) );
+	ym6045c_OR3 g_127 (.Z(w235), .C(w74), .B(w20), .A(w42) );
+	ym6045c_AND g_128 (.Z(w77), .B(w44), .A(w79) );
+	ym6045c_AND g_129 (.Z(w462), .B(w292), .A(w295) );
+	ym6045c_OR g_130 (.A(w45), .Z(w44), .B(w43) );
+	ym6045c_MUX g_131 (.C(w12), .Z(w45), .A(w34), .B(w74) );
+	ym6045c_OR g_132 (.B(w41), .Z(w79), .A(w12) );
+	ym6045c_OR g_133 (.A(w289), .Z(w34), .B(w75) );
+	ym6045c_OR g_134 (.A(w14), .Z(w158), .B(w290) );
+	ym6045c_OR3 g_135 (.Z(w14), .C(w75), .B(w78), .A(w146) );
+	ym6045c_NOT g_136 (.A(w35), .nZ(w78) );
+	ym6045c_NOR g_137 (.Z(w222), .B(w226), .A(w80) );
+	ym6045c_NOR g_138 (.Z(w80), .B(w226), .A(w244) );
+	ym6045c_OR8 g_139 (.A(1'b0), .E(w56), .B(w234), .F(w142), .Z(w76), .C(w174), .G(w73), .D(w175), .H(w81) );
+	ym6045c_SIPO_8BIT g_140 (.nRES(w253), .Q0(w225), .Q1(w303), .Q2(w227), .Q3(w300), .Q4(w228), .Q5(w229), .Q6(w286), .Q7(w285), .D(w230), .C(w224) );
+	ym6045c_OR g_141 (.A(w284), .Z(w231), .B(w232) );
+	ym6045c_DELAY g_142 (.Z(w232), .A(w267) );
+	ym6045c_NOR g_143 (.Z(w302), .B(w246), .A(w301) );
+	ym6045c_DEC_2TO4 g_144 (.A1(w304), .Z3(w248), .Z2(w259), .A0(w287), .Z0(w263), .Z1(w262) );
+	ym6045c_NAND3 g_145 (.A(w262), .B(w305), .C(w265), .Z(w156) );
+	ym6045c_NAND4 g_146 (.B(w259), .C(w305), .A(w255), .D(w265), .Z(w260) );
+	ym6045c_NAND4 g_147 (.B(w248), .C(w305), .A(w255), .D(w265), .Z(w163) );
+	ym6045c_NAND4 g_148 (.B(w263), .C(w305), .A(w255), .D(w265), .Z(w157) );
+	ym6045c_OR g_149 (.B(w146), .Z(w155), .A(w260) );
+	ym6045c_NOT g_150 (.A(w35), .nZ(w258) );
+	ym6045c_OR3 g_151 (.Z(w218), .C(w33), .B(w258), .A(w55) );
+	ym6045c_NAND3 g_153 (.A(w220), .B(w256), .C(w257), .Z(w282) );
+	ym6045c_NAND3 g_154 (.A(w255), .B(w220), .C(w256), .Z(w254) );
+	ym6045c_DFFRPOS g_155 (.nQ(w12), .nRES(w253), .D(w173), .C(w254) );
+	ym6045c_OR g_156 (.A(w33), .Z(w219), .i4(w53) );
+	ym6045c_AND g_157 (.Z(w199), .B(w219), .A(w218) );
+	ym6045c_NOR g_158 (.Z(w160), .B(w165), .A(w166) );
+	ym6045c_NOT g_159 (.A(w156), .nZ(w220) );
+	ym6045c_NAND3 g_160 (.A(w220), .B(w164), .C(w161), .Z(w162) );
+	ym6045c_NOT g_161 (.A(w175), .nZ(w161) );
+	ym6045c_DFFSPOS g_162 (.C(w176), .D(w160), .nSET(w150), .nQ(w159), .Q(w167) );
+	ym6045c_OR g_163 (.B(w146), .Z(w152), .A(w266) );
+	ym6045c_OR g_164 (.B(w146), .Z(w277), .A(w156) );
+	ym6045c_NAND6 g_165 (.C(w157), .D(w276), .B(w155), .E(w275), .A(w158), .F(w277), .Z(w148) );
+	ym6045c_OR g_166 (.A(w163), .Z(w275), .B(w146) );
+	ym6045c_OR g_167 (.B(w205), .Z(w276), .A(w152) );
+	ym6045c_NAND g_168 (.A(w201), .B(w93), .Z(w205) );
+	ym6045c_OR g_169 (.B(w177), .Z(w211), .A(w274) );
+	ym6045c_OAI21 g_170 (.Z(w140), .A2(w280), .B(w211), .A1(w279) );
+	ym6045c_OR4 g_171 (.Z(w193), .D(w35), .C(w182), .B(w173), .A(w281) );
+	ym6045c_NOR3 g_172 (.Z(w204), .C(w272), .B(w207), .A(w182) );
+	ym6045c_NOR g_173 (.Z(w206), .B(w207), .A(w273) );
+	ym6045c_NOT g_174 (.A(w35), .nZ(w207) );
+	ym6045c_AND g_175 (.Z(w269), .B(w35), .A(w210) );
+	ym6045c_OR g_176 (.A(w209), .Z(w210), .B(w188) );
+	ym6045c_OR3 g_177 (.Z(w179), .C(w186), .B(w188), .A(w209) );
+	ym6045c_NAND g_178 (.A(w159), .B(w146), .Z(w217) );
+	ym6045c_NOR g_179 (.Z(w187), .B(w179), .A(w203) );
+	ym6045c_DFFPOS g_180 (.Q(w202), .D(w87), .C(w138) );
+	ym6045c_DFFPOS g_181 (.Q(w216), .D(w202), .C(w138) );
+	ym6045c_AND g_182 (.Z(w196), .B(w179), .A(w184) );
+	ym6045c_DFFPOS g_183 (.D(w196), .C(w176), .Q(w188) );
+	ym6045c_DFFPOS g_184 (.nQ(w170), .Q(w149), .D(w271), .C(w176) );
+	ym6045c_NOT g_185 (.A(w200), .nZ(w181) );
+	ym6045c_DFFPOS g_186 (.Q(w195), .D(w199), .C(w138) );
+	ym6045c_AND g_187 (.Z(w186), .B(w195), .A(w199) );
+	ym6045c_BUF g_188 (.Z(w197), .A(w210) );
+	ym6045c_AND g_189 (.Z(w270), .B(w269), .A(w215) );
+	ym6045c_OR g_190 (.B(w200), .Z(w215), .A(w270) );
+	ym6045c_DFFPOS g_191 (.nQ(w201), .D(w145), .C(w171) );
+	ym6045c_OR3 g_192 (.Z(w145), .C(w144), .B(w146), .A(w149) );
+	ym6045c_DFFPOS g_193 (.Q(w144), .D(w146), .C(w171) );
+	ym6045c_NAND g_194 (.A(w148), .B(w268), .Z(w143) );
+	ym6045c_NOR4 g_195 (.Z(w330), .D(w307), .C(w316), .B(w314), .A(w319) );
+	ym6045c_NAND g_196 (.A(w320), .B(w321), .Z(w308) );
+	ym6045c_AND g_197 (.Z(w309), .B(w308), .A(w327) );
+	ym6045c_DFFSPOS g_198 (.C(w171), .D(w309), .nSET(w298), .nQ(w320), .Q(w322) );
+	ym6045c_DFFPOS g_199 (.Q(w324), .D(w3), .C(w176) );
+	ym6045c_DFFPOS g_200 (.nQ(w299), .Q(w321), .D(w323), .C(w176) );
+	ym6045c_OR g_201 (.B(w292), .Z(w323), .A(w322) );
+	ym6045c_NOR g_202 (.Z(w8), .A(w325), .B(w299) );
+	ym6045c_OR g_203 (.A(w324), .Z(w292), .B(w325) );
+	ym6045c_DFFPOS g_204 (.Q(w326), .D(w325), .C(w171) );
+	ym6045c_OR g_205 (.B(w325), .Z(w3), .A(w326) );
+	ym6045c_OR g_206 (.B(w320), .Z(w290), .A(w3) );
+	ym6045c_OR g_207 (.B(w335), .Z(w327), .A(w75) );
+	ym6045c_NOT g_208 (.A(w20), .nZ(w293) );
+	ym6045c_NAND4 g_209 (.B(w190), .C(w75), .A(w281), .D(w293), .Z(w315) );
+	ym6045c_DFFRPOS g_210 (.nQ(w294), .nRES(w298), .D(w299), .C(w176) );
+	ym6045c_NOR g_211 (.Z(w7), .B(w294), .A(w350) );
+	ym6045c_OR g_212 (.A(w349), .Z(w74), .B(w289) );
+	ym6045c_OR3 g_213 (.Z(w325), .C(w296), .B(w75), .A(w351) );
+	ym6045c_NAND g_214 (.A(w297), .B(w295), .Z(w296) );
+	ym6045c_DFFSPOS g_215 (.C(w176), .D(w295), .nSET(w298), .Q(w297) );
+	ym6045c_OR4 g_216 (.Z(w354), .D(w353), .C(w92), .B(w142), .A(w56) );
+	ym6045c_DFFSPOS g_217 (.C(w176), .D(w348), .nSET(w298), .nQ(w350), .Q(w352) );
+	ym6045c_AND g_218 (.Z(w295), .A(w348), .B(w352) );
+	ym6045c_AND g_219 (.Z(w298), .A(w35), .B(w253) );
+	ym6045c_AND g_220 (.Z(w342), .A(w225), .B(w53) );
+	ym6045c_AND g_221 (.Z(w356), .A(w53), .B(w300) );
+	ym6045c_AND g_222 (.Z(w343), .A(w227), .B(w53) );
+	ym6045c_AND g_223 (.Z(w357), .A(w303), .B(w53) );
+	ym6045c_NOR8 g_224 (.A(w353), .B(w287), .C(w304), .D(w358), .Z(w233), .E(w360), .F(w359), .G(w369), .H(w281) );
+	ym6045c_OR4 g_225 (.Z(w370), .D(w359), .C(w369), .B(w358), .A(w360) );
+	ym6045c_NOT g_226 (.A(w53), .nZ(w347) );
+	ym6045c_DFFRPOS g_227 (.nQ(w301), .nRES(w244), .D(w368), .C(w223) );
+	ym6045c_DFFRPOS g_228 (.Q(w368), .nRES(w244), .D(w244), .C(w223) );
+	ym6045c_NOR3 g_229 (.Z(w305), .C(w354), .B(w370), .A(w361) );
+	ym6045c_OR3 g_230 (.Z(w266), .C(w265), .B(w361), .A(w370) );
+	ym6045c_TFF g_231 (.nQ(w223), .C(w371), .T(w244) );
+	ym6045c_BUF g_232 (.Z(w244), .A(w253) );
+	ym6045c_NOT g_233 (.A(w332), .nZ(w247) );
+	ym6045c_AND g_234 (.Z(w373), .A(w53), .B(w285) );
+	ym6045c_AND g_235 (.Z(w372), .A(w53), .B(w286) );
+	ym6045c_AND g_236 (.Z(w374), .A(w53), .B(w229) );
+	ym6045c_AND g_237 (.Z(w376), .A(w53), .B(w228) );
+	ym6045c_BUF g_238 (.Z(w317), .A(w458) );
+	ym6045c_NOR g_239 (.Z(w458), .B(w355), .A(w283) );
+	ym6045c_NOR g_240 (.Z(w459), .B(w365), .A(w355) );
+	ym6045c_NOR g_241 (.Z(w165), .B(w283), .A(w459) );
+	ym6045c_DFFSPOS g_242 (.C(w338), .D(w378), .nSET(w375), .nQ(w378), .Q(w284) );
+	ym6045c_NOT g_243 (.A(w278), .nZ(w338) );
+	ym6045c_OR g_244 (.B(w289), .Z(w267), .A(w278) );
+	ym6045c_BUF g_245 (.Z(w460), .A(w210) );
+	ym6045c_NOT g_246 (.A(w427), .nZ(w379) );
+	ym6045c_DFFRPOS g_247 (.Q(w380), .nRES(w379), .D(w93), .C(w381) );
+	ym6045c_AND g_248 (.Z(w274), .B(w278), .A(w382) );
+	ym6045c_DFFRPOS g_249 (.nQ(w154), .Q(w426), .nRES(w380), .D(w419), .C(w400) );
+	ym6045c_DFFRPOS g_250 (.nQ(w424), .Q(w280), .nRES(w208), .D(w382), .C(w400) );
+	ym6045c_OAI21 g_251 (.Z(w427), .A1(w424), .B(w208), .A2(w382) );
+	ym6045c_DFFRPOS g_252 (.nQ(w279), .Q(w419), .nRES(w380), .D(w381), .C(w171) );
+	ym6045c_OR g_253 (.B(w162), .Z(w399), .A(w168) );
+	ym6045c_NOT g_254 (.A(w171), .nZ(w400) );
+	ym6045c_NOT g_255 (.A(w200), .nZ(w381) );
+	ym6045c_NOT g_256 (.A(w35), .nZ(w393) );
+	ym6045c_OR3 g_257 (.Z(w289), .C(w395), .B(w200), .A(w393) );
+	ym6045c_NOT g_258 (.A(w270), .nZ(w395) );
+	ym6045c_NOT g_259 (.A(w138), .nZ(w398) );
+	ym6045c_DFFPOS g_260 (.nQ(w401), .Q(w272), .D(w216), .C(w398) );
+	ym6045c_DFFPOS g_261 (.nQ(w397), .D(w396), .C(w176) );
+	ym6045c_NAND g_262 (.A(w217), .B(w273), .Z(w396) );
+	ym6045c_NAND3 g_263 (.A(w397), .B(w273), .C(w217), .Z(w271) );
+	ym6045c_DFFPOS g_264 (.Q(w273), .D(w217), .C(w176) );
+	ym6045c_MUX g_265 (.C(w35), .Z(w82), .A(w302), .B(w407) );
+	ym6045c_DFFRPOS g_266 (.Q(w407), .nRES(w302), .D(w173), .C(w282) );
+	ym6045c_TFF g_267 (.Q(w405), .C(w394), .T(w402) );
+	ym6045c_TFF g_268 (.Q(w417), .C(w405), .T(w402) );
+	ym6045c_DELAY g_269 (.Z(w403), .A(w289) );
+	ym6045c_NAND g_270 (.A(w289), .B(w403), .Z(w404) );
+	ym6045c_AND g_273 (.Z(w440), .B(w306), .A(w241) );
+	ym6045c_AND g_274 (.Z(w438), .B(w306), .A(w240) );
+	ym6045c_AND g_275 (.Z(w439), .B(w306), .A(w242) );
+	ym6045c_AND g_276 (.Z(w461), .B(w306), .A(w243) );
+	ym6045c_CNT_BIT g_277 (.nQ(w307), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CO(w311), .CI(w312) );
+	ym6045c_CNT_BIT g_278 (.nQ(w319), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CO(w329), .CI(w311) );
+	ym6045c_CNT_BIT g_279 (.nQ(w314), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CO(w318), .CI(w329) );
+	ym6045c_CNT_BIT g_280 (.nQ(w316), .C(w171), .RES(1'b1), .D(w35), .nLD(w317), .CI(w318) );
+	ym6045c_AND g_281 (.Z(w441), .B(w306), .A(w291) );
+	ym6045c_AND g_282 (.Z(w442), .B(w306), .A(w328) );
+	ym6045c_AND g_283 (.Z(w456), .B(w237), .A(w306) );
+	ym6045c_AND g_284 (.Z(w443), .B(w238), .A(w306) );
+	ym6045c_AND3 g_285 (.Z(w312), .A(w317), .B(w334), .C(w334) );
+	ym6045c_NAND g_286 (.A(w333), .B(w75), .Z(w336) );
+	ym6045c_AND g_287 (.Z(w337), .B(w336), .A(w435) );
+	ym6045c_NAND3 g_288 (.A(w332), .B(w335), .C(w334), .Z(w435) );
+	ym6045c_DFFRPOS g_289 (.nQ(w335), .Q(w333), .nRES(w332), .D(w332), .C(w331) );
+	ym6045c_NOT g_290 (.A(w351), .nZ(w331) );
+	ym6045c_NOT g_291 (.A(w35), .nZ(w464) );
+	ym6045c_OR g_292 (.B(w146), .Z(w351), .A(w464) );
+	ym6045c_NOT g_293 (.A(w347), .nZ(w306) );
+	ym6045c_DFFSPOS g_294 (.C(w171), .D(w337), .nSET(w298), .Q(w348) );
+	ym6045c_AND g_295 (.Z(w355), .B(w334), .A(w330) );
+	ym6045c_AND3 g_296 (.Z(w349), .C(w75), .B(w341), .A(w338) );
+	ym6045c_DFFSPOS g_297 (.C(w338), .D(w75), .nSET(w340), .Q(w341) );
+	ym6045c_NOT g_298 (.A(w289), .nZ(w340) );
+	ym6045c_OR g_299 (.B(w20), .Z(w339), .A(w182) );
+	ym6045c_MUX4BIT g_300 (.C(w35), .Z0(w446), .B1(w91), .A1(w356), .B2(w182), .A2(w343), .Z1(w445), .Z2(w457), .A3(w357), .B3(w339), .B4(w32), .A4(w342), .Z3(w444) );
+	ym6045c_NOT g_301 (.A(w289), .nZ(w344) );
+	ym6045c_NOR4 g_302 (.Z(w345), .D(w333), .C(w344), .B(w334), .A(w346) );
+	ym6045c_DFFSPOS g_303 (.C(w171), .D(w367), .nSET(w253), .nQ(w332), .Q(w346) );
+	ym6045c_NOR3 g_304 (.Z(w367), .C(w345), .B(w355), .A(w365) );
+	ym6045c_NOT g_305 (.A(w281), .nZ(w447) );
+	ym6045c_NAND4 g_306 (.B(w35), .C(w447), .A(w75), .D(w20), .Z(w361) );
+	ym6045c_TFF g_307 (.Q(w366), .C(w363), .T(w362) );
+	ym6045c_TFF g_308 (.Q(w363), .C(w364), .T(w362) );
+	ym6045c_TFF g_309 (.Q(w364), .C(w430), .T(w362) );
+	ym6045c_NOR g_310 (.Z(w430), .B(w332), .A(w425) );
+	ym6045c_TFF g_311 (.Q(w422), .C(w366), .T(w362) );
+	ym6045c_OR g_312 (.B(w347), .Z(w377), .A(w373) );
+	ym6045c_OR g_313 (.A(w372), .o3(w429), .B(w347) );
+	ym6045c_MUX4BIT g_314 (.C(w35), .Z0(w450), .B1(1'b0), .A1(w377), .B2(1'b0), .A2(w429), .Z1(w383), .Z2(w451), .A3(w374), .B3(1'b0), .B4(w82), .A4(w376), .Z3(w448) );
+	ym6045c_NOT g_315 (.A(w283), .nZ(w362) );
+	ym6045c_OR g_316 (.A(w213), .Z(w455), .B(w269) );
+	ym6045c_OR g_317 (.A(w460), .Z(w449), .B(w213) );
+	ym6045c_OR g_318 (.A(w401), .Z(w33), .B(w182) );
+	ym6045c_NOR g_319 (.Z(w365), .B(w226), .A(w392) );
+	ym6045c_NOT g_320 (.A(w283), .nZ(w402) );
+	ym6045c_DFFRPOS g_321 (.Q(w382), .nRES(w380), .D(w426), .C(w171) );
+	ym6045c_TFF g_322 (.Q(w371), .C(w417), .T(w402) );
+	ym6045c_AND g_323 (.Z(w375), .B(w463), .A(w404) );
+	ym6045c_BUF g_324 (.Z(w226), .A(w35) );
+	ym6045c_NOR g_325 (.Z(w425), .B(w226), .A(w421) );
+	ym6045c_OR g_326 (.A(w423), .Z(w387), .B(w422) );
+	ym6045c_NOR g_327 (.Z(w423), .B(w226), .A(w420) );
+	ym6045c_NOT g_328 (.A(w391), .nZ(w392) );
+	ym6045c_NOT g_329 (.A(w389), .nZ(w420) );
+	ym6045c_NOT g_330 (.A(w390), .nZ(w421) );
+	ym6045c_DEC_2TO4 g_331 (.A1(w384), .Z3(w388), .Z1(w389), .A0(w385), .Z2(w390), .Z0(w391) );
+	ym6045c_NAND g_332 (.A(w388), .B(w269), .Z(w268) );
+	ym6045c_OR g_333 (.B(w268), .Z(w386), .A(w146) );
+	ym6045c_TFF g_334 (.Q(w394), .C(w387), .T(w402) );
+	ym6045c_AND g_335 (.Z(w465), .B(w302), .A(w35) );
+	ym6045c_AND g_336 (.Z(w334), .B(1'b1), .A(w418) );
+	ym6045c_CNT_BIT g_337 (.nQ(w410), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CI(w408) );
+	ym6045c_CNT_BIT g_338 (.nQ(w413), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CO(w408), .CI(w409) );
+	ym6045c_NOR4 g_339 (.Z(w418), .D(w410), .C(w413), .B(w416), .A(w406) );
+	ym6045c_CNT_BIT g_340 (.nQ(w416), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CO(w409), .CI(w412) );
+	ym6045c_CNT_BIT g_341 (.nQ(w406), .C(w171), .RES(1'b1), .D(1'b0), .nLD(w317), .CO(w412), .CI(w415) );
+	ym6045c_AND3 g_342 (.Z(w415), .C(w317), .B(1'b1), .A(1'b1) );
+	ym6045c_OR g_343 (.A(w213), .Z(w437), .B(w197) );
+	ym6045c_DEC_2TO4 g_152 (.A0(w81), .A1(w73), .Z2(w257), .Z0(w255), .Z1(w164) );
 endmodule // ym6045c
 
 // Module Definitions [It is possible to wrap here on your primitives]
 
-module ym6045c_cell_1 (  i2, o3);
+module ym6045c_NOT (  A, nZ);
 
-	input wire i2;
-	output wire o3;
+	input wire A;
+	output wire nZ;
 
-endmodule // ym6045c_cell_1
+endmodule // ym6045c_NOT
 
-module ym6045c_cell_6 (  o2, i3, i4);
+module ym6045c_AND (  Z, B, A);
 
-	output wire o2;
-	input wire i3;
-	input wire i4;
+	output wire Z;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_6
+endmodule // ym6045c_AND
 
-module ym6045c_cell_5 (  i1, i2, o3);
+module ym6045c_NAND (  A, B, Z);
 
-	input wire i1;
-	input wire i2;
-	output wire o3;
+	input wire A;
+	input wire B;
+	output wire Z;
 
-endmodule // ym6045c_cell_5
+endmodule // ym6045c_NAND
 
-module ym6045c_cell_7 (  o2, i3);
+module ym6045c_BUF (  Z, A);
 
-	output wire o2;
-	input wire i3;
+	output wire Z;
+	input wire A;
 
-endmodule // ym6045c_cell_7
+endmodule // ym6045c_BUF
 
-module ym6045c_cell_4 (  i1, i2, i3, o4);
+module ym6045c_NAND3 (  A, B, C, Z);
 
-	input wire i1;
-	input wire i2;
-	input wire i3;
-	output wire o4;
+	input wire A;
+	input wire B;
+	input wire C;
+	output wire Z;
 
-endmodule // ym6045c_cell_4
+endmodule // ym6045c_NAND3
 
-module ym6045c_cell_16 (  o2, i4);
+module ym6045c_CNT_BIT (  Q, nQ, C, RES, D, nLD, CO, CI);
 
-	output wire o2;
-	input wire i4;
+	output wire Q;
+	output wire nQ;
+	input wire C;
+	input wire RES;
+	input wire D;
+	input wire nLD;
+	output wire CO;
+	input wire CI;
 
-endmodule // ym6045c_cell_16
+endmodule // ym6045c_CNT_BIT
 
-module ym6045c_cell_14 (  o2, o3, i6, i7, i13, i14, o15, i18);
+module ym6045c_AND6 (  Z, F, E, D, C, B, A);
 
-	output wire o2;
-	output wire o3;
-	input wire i6;
-	input wire i7;
-	input wire i13;
-	input wire i14;
-	output wire o15;
-	input wire i18;
+	output wire Z;
+	input wire F;
+	input wire E;
+	input wire D;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_14
+endmodule // ym6045c_AND6
 
-module ym6045c_cell_29 (  o1, i2, i3, i4, i5, i6, i7);
+module ym6045c_NOR4 (  Z, D, C, B, A);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
-	input wire i5;
-	input wire i6;
-	input wire i7;
+	output wire Z;
+	input wire D;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_29
+endmodule // ym6045c_NOR4
 
-module ym6045c_cell_30 (  o2, i3, i4, i5, i6);
+module ym6045c_DFFSPOS (  C, D, nSET, nQ, Q);
 
-	output wire o2;
-	input wire i3;
-	input wire i4;
-	input wire i5;
-	input wire i6;
+	input wire C;
+	input wire D;
+	input wire nSET;
+	output wire nQ;
+	output wire Q;
 
-endmodule // ym6045c_cell_30
+endmodule // ym6045c_DFFSPOS
 
-module ym6045c_cell_9 (  i3, i4, i7, o11, o13);
+module ym6045c_JKFF (  C, K, J, nSET, nQ, Q);
 
-	input wire i3;
-	input wire i4;
-	input wire i7;
-	output wire o11;
-	output wire o13;
+	input wire C;
+	input wire K;
+	input wire J;
+	input wire nSET;
+	output wire nQ;
+	output wire Q;
 
-endmodule // ym6045c_cell_9
+endmodule // ym6045c_JKFF
 
-module ym6045c_cell_31 (  i2, i3, i4, i13, o16, o17);
+module ym6045c_DELAY (  Z, A);
 
-	input wire i2;
-	input wire i3;
-	input wire i4;
-	input wire i13;
-	output wire o16;
-	output wire o17;
+	output wire Z;
+	input wire A;
 
-endmodule // ym6045c_cell_31
+endmodule // ym6045c_DELAY
 
-module ym6045c_cell_32 (  i1, o2);
+module ym6045c_AND4 (  Z, D, C, B, A);
 
-	input wire i1;
-	output wire o2;
+	output wire Z;
+	input wire D;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_32
+endmodule // ym6045c_AND4
 
-module ym6045c_cell_27 (  o1, i2);
+module ym6045c_OR (  A, Z, B);
 
-	output wire o1;
-	input wire i2;
+	input wire A;
+	output wire Z;
+	input wire B;
 
-endmodule // ym6045c_cell_27
+endmodule // ym6045c_OR
 
-module ym6045c_cell_33 (  o1, i2);
+module ym6045c_NOR (  Z, B, A);
 
-	output wire o1;
-	input wire i2;
+	output wire Z;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_33
+endmodule // ym6045c_NOR
 
-module ym6045c_cell_34 (  o1, i2);
+module ym6045c_OR3 (  Z, C, B, A);
 
-	output wire o1;
-	input wire i2;
+	output wire Z;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_34
+endmodule // ym6045c_OR3
 
-module ym6045c_cell_19 (  o1, i2, i3, i4, i5);
+module ym6045c_NAND4 (  B, C, A, D, Z);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
-	input wire i5;
+	input wire B;
+	input wire C;
+	input wire A;
+	input wire D;
+	output wire Z;
 
-endmodule // ym6045c_cell_19
+endmodule // ym6045c_NAND4
 
-module ym6045c_cell_10 (  i2, o3, i4);
+module ym6045c_AND3 (  Z, C, B, A);
 
-	input wire i2;
-	output wire o3;
-	input wire i4;
+	output wire Z;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_10
+endmodule // ym6045c_AND3
 
-module ym6045c_cell_8 (  o1, i2, i3);
+module ym6045c_DELAY_S (  Z, A);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
+	output wire Z;
+	input wire A;
 
-endmodule // ym6045c_cell_8
+endmodule // ym6045c_DELAY_S
 
-module ym6045c_cell_18 (  o1, i2, i3, i4);
+module ym6045c_NAND6 (  C, D, B, E, A, F, Z);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
+	input wire C;
+	input wire D;
+	input wire B;
+	input wire E;
+	input wire A;
+	input wire F;
+	output wire Z;
 
-endmodule // ym6045c_cell_18
+endmodule // ym6045c_NAND6
 
-module ym6045c_cell_3 (  i2h, i2l, i3h, i3l, o4);
+module ym6045c_OR4 (  Z, D, C, B, A);
 
-	input wire i2h;
-	input wire i2l;
-	input wire i3h;
-	input wire i3l;
-	output wire o4;
+	output wire Z;
+	input wire D;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_3
+endmodule // ym6045c_OR4
 
-module ym6045c_cell_15 (  o1, i2, i3, i4);
+module ym6045c_DFFPOS (  nQ, Q, D, C);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
+	output wire nQ;
+	output wire Q;
+	input wire D;
+	input wire C;
 
-endmodule // ym6045c_cell_15
+endmodule // ym6045c_DFFPOS
 
-module ym6045c_cell_24 (  i1h, i1l, i2h, i2l, i4h, i4l, o7);
+module ym6045c_NOR3 (  Z, C, B, A);
 
-	input wire i1h;
-	input wire i1l;
-	input wire i2h;
-	input wire i2l;
-	input wire i4h;
-	input wire i4l;
-	output wire o7;
+	output wire Z;
+	input wire C;
+	input wire B;
+	input wire A;
 
-endmodule // ym6045c_cell_24
+endmodule // ym6045c_NOR3
 
-module ym6045c_cell_21 (  o1, i2, i3, i4, i5);
+module ym6045c_DFFRPOS (  nQ, Q, nRES, D, C);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
-	input wire i5;
+	output wire nQ;
+	output wire Q;
+	input wire nRES;
+	input wire D;
+	input wire C;
 
-endmodule // ym6045c_cell_21
+endmodule // ym6045c_DFFRPOS
 
-module ym6045c_cell_23 (  o2, o5, i10, i11);
+module ym6045c_MUX4BIT (  C, Z0, B1, A1, B2, A2, Z1, Z2, A3, B3, B4, A4, Z3);
 
-	output wire o2;
-	output wire o5;
-	input wire i10;
-	input wire i11;
+	input wire C;
+	output wire Z0;
+	input wire B1;
+	input wire A1;
+	input wire B2;
+	input wire A2;
+	output wire Z1;
+	output wire Z2;
+	input wire A3;
+	input wire B3;
+	input wire B4;
+	input wire A4;
+	output wire Z3;
 
-endmodule // ym6045c_cell_23
+endmodule // ym6045c_MUX4BIT
 
-module ym6045c_cell_12 (  o1, i2, i3, i4);
+module ym6045c_XNOR (  A, B, Z);
 
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
+	input wire A;
+	input wire B;
+	output wire Z;
 
-endmodule // ym6045c_cell_12
+endmodule // ym6045c_XNOR
 
-module ym6045c_cell_2 (  o2, o4, i9, i11, i13);
+module ym6045c_MUX (  C, Z, A, B);
 
-	output wire o2;
-	output wire o4;
-	input wire i9;
-	input wire i11;
-	input wire i13;
+	input wire C;
+	output wire Z;
+	input wire A;
+	input wire B;
 
-endmodule // ym6045c_cell_2
+endmodule // ym6045c_MUX
 
-module ym6045c_cell_35 (  o1, i2);
+module ym6045c_OR8 (  A, E, B, F, Z, C, G, D, H);
 
-	output wire o1;
-	input wire i2;
+	input wire A;
+	input wire E;
+	input wire B;
+	input wire F;
+	output wire Z;
+	input wire C;
+	input wire G;
+	input wire D;
+	input wire H;
 
-endmodule // ym6045c_cell_35
+endmodule // ym6045c_OR8
 
-module ym6045c_cell_22 (  i1, o2, i6, i7, i8, i9, o11, o12, i13, i14, i15, i17, o19);
+module ym6045c_SIPO_8BIT (  nRES, Q0, Q1, Q2, Q3, Q4, Q5, Q6, Q7, D, C);
 
-	input wire i1;
-	output wire o2;
-	input wire i6;
-	input wire i7;
-	input wire i8;
-	input wire i9;
-	output wire o11;
-	output wire o12;
-	input wire i13;
-	input wire i14;
-	input wire i15;
-	input wire i17;
-	output wire o19;
+	input wire nRES;
+	output wire Q0;
+	output wire Q1;
+	output wire Q2;
+	output wire Q3;
+	output wire Q4;
+	output wire Q5;
+	output wire Q6;
+	output wire Q7;
+	input wire D;
+	input wire C;
 
-endmodule // ym6045c_cell_22
+endmodule // ym6045c_SIPO_8BIT
 
-module ym6045c_cell_26 (  i2, i4, o5);
+module ym6045c_DEC_2TO4 (  A1, Z3, Z2, A0, Z0, Z1);
 
-	input wire i2;
-	input wire i4;
-	output wire o5;
+	input wire A1;
+	output wire Z3;
+	output wire Z2;
+	input wire A0;
+	output wire Z0;
+	output wire Z1;
 
-endmodule // ym6045c_cell_26
+endmodule // ym6045c_DEC_2TO4
 
-module ym6045c_cell_28 (  i1, o2, i5, i6);
+module ym6045c_OAI21 (  Z, A2, B, A1);
 
-	input wire i1;
-	output wire o2;
-	input wire i5;
-	input wire i6;
+	output wire Z;
+	input wire A2;
+	input wire B;
+	input wire A1;
 
-endmodule // ym6045c_cell_28
+endmodule // ym6045c_OAI21
 
-module ym6045c_cell_36 (  i1h, i1l, i2h, i2l, o3, i7h, i7l, i8h, i8l);
+module ym6045c_NOR8 (  A, B, C, D, Z, E, F, G, H);
 
-	input wire i1h;
-	input wire i1l;
-	input wire i2h;
-	input wire i2l;
-	output wire o3;
-	input wire i7h;
-	input wire i7l;
-	input wire i8h;
-	input wire i8l;
+	input wire A;
+	input wire B;
+	input wire C;
+	input wire D;
+	output wire Z;
+	input wire E;
+	input wire F;
+	input wire G;
+	input wire H;
 
-endmodule // ym6045c_cell_36
+endmodule // ym6045c_NOR8
 
-module ym6045c_cell_17 (  i2, o3, o10, o16, o23, o29, o36, o42, o49, i56, i57);
+module ym6045c_TFF (  Q, nQ, C, T);
 
-	input wire i2;
-	output wire o3;
-	output wire o10;
-	output wire o16;
-	output wire o23;
-	output wire o29;
-	output wire o36;
-	output wire o42;
-	output wire o49;
-	input wire i56;
-	input wire i57;
+	output wire Q;
+	output wire nQ;
+	input wire C;
+	input wire T;
 
-endmodule // ym6045c_cell_17
+endmodule // ym6045c_TFF
 
-module ym6045c_cell_25 (  i1, o2, o3, i6, o10, o11);
 
-	input wire i1;
-	output wire o2;
-	output wire o3;
-	input wire i6;
-	output wire o10;
-	output wire o11;
 
-endmodule // ym6045c_cell_25
-
-module ym6045c_cell_39 (  o1, i2, i3, i4);
-
-	output wire o1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
-
-endmodule // ym6045c_cell_39
-
-module ym6045c_cell_37 (  i1, i2, i3, i4, o5, i6, i7, i8, i9);
-
-	input wire i1;
-	input wire i2;
-	input wire i3;
-	input wire i4;
-	output wire o5;
-	input wire i6;
-	input wire i7;
-	input wire i8;
-	input wire i9;
-
-endmodule // ym6045c_cell_37
-
-module ym6045c_cell_38 (  o1, o2, i10, i12);
-
-	output wire o1;
-	output wire o2;
-	input wire i10;
-	input wire i12;
-
-endmodule // ym6045c_cell_38
 
