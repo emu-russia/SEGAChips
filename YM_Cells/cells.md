@@ -73,7 +73,7 @@
 |---|---|
 
 ## Ячейка 45 - EDGE DETECT
-|![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)|![image](https://user-images.githubusercontent.com/15833655/177769964-c420b92b-7263-4720-91c8-75fa84346d05.png)|
+|![image](https://user-images.githubusercontent.com/15833655/177050210-c686bb5e-d5c9-4f14-bc38-dd92c4028276.png)|<img width="719" height="320" alt="EDGE_DET" src="https://github.com/user-attachments/assets/9be98f70-8236-4137-b643-1870429dc441" />|
 |---|---|
 
 ## Ячейка 88 - DLATCH (Динамическая защёлка)
