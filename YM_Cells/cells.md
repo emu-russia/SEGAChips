@@ -207,7 +207,7 @@ http://www.vlsitechnology.org/html/cells/vsclib013/aoi21.html
 
 ## Ячейка 87 - COMB1
 
-|![86](https://user-images.githubusercontent.com/93550076/193420963-f3373066-13e0-4b03-a99f-ca509092a053.JPG)|![86tran](https://user-images.githubusercontent.com/93550076/193420974-866d34b6-b6de-4338-b92f-be7a0ca158e0.jpg)|![86log](https://user-images.githubusercontent.com/93550076/193420983-0285cdb2-fbc5-4613-a976-86375cbfb85d.png)|
+|![86](https://user-images.githubusercontent.com/93550076/193420963-f3373066-13e0-4b03-a99f-ca509092a053.JPG)|![86tran](https://user-images.githubusercontent.com/93550076/193420974-866d34b6-b6de-4338-b92f-be7a0ca158e0.jpg)|<img width="697" height="425" alt="comb1_LOG" src="https://github.com/user-attachments/assets/022e329a-684b-47b5-be4f-a889419e7878" />|
 |---|---|---|
 
 ## Ячейка 19 - aon22 (2x 2-AND into 2-OR gate)
