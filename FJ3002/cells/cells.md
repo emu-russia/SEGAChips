@@ -17,3 +17,9 @@ GND is left rail
 
 # Cell 5
 <img width="198" height="68" alt="image" src="https://github.com/user-attachments/assets/d50ba2ac-aae5-407e-815b-3dc82eac33ff" />
+
+# Cell 6
+<img width="197" height="90" alt="image" src="https://github.com/user-attachments/assets/8624a7d0-ca02-48b1-90f9-d2e7ef27c4ea" />
+
+# Cell 7 - dff chain
+<img width="197" height="1080" alt="image" src="https://github.com/user-attachments/assets/94cdaef5-2ce6-4c56-a333-a1866d85b3d4" />
