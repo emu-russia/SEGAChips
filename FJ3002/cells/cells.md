@@ -3,23 +3,32 @@ Yamaha FJ3002 cells
 
 GND is left rail
 
-# Cell 1
+# Cell 1 - clk edge
 <img width="130" height="681" alt="image" src="https://github.com/user-attachments/assets/a8ea05b0-48be-4cd1-b4e8-11e42279f978" />
 
-# Cell 2
+# Cell 2 - clk buf
 <img width="193" height="221" alt="image" src="https://github.com/user-attachments/assets/859fb52e-f4fb-4f33-bfa9-9c271c824cfc" />
 
-# Cell 3
+# Cell 3 - dff
 <img width="197" height="306" alt="image" src="https://github.com/user-attachments/assets/4d1c82f5-c303-4408-a26f-d9fb345301c0" />
 
-# Cell 4
+# Cell 4 - fa
 <img width="193" height="223" alt="image" src="https://github.com/user-attachments/assets/bf8431c2-b53b-4214-b9c3-59b7157985e2" />
 
-# Cell 5
+# Cell 5 - nor
 <img width="198" height="68" alt="image" src="https://github.com/user-attachments/assets/d50ba2ac-aae5-407e-815b-3dc82eac33ff" />
 
-# Cell 6
+# Cell 6 - buf
 <img width="197" height="90" alt="image" src="https://github.com/user-attachments/assets/8624a7d0-ca02-48b1-90f9-d2e7ef27c4ea" />
 
 # Cell 7 - dff chain
 <img width="197" height="1080" alt="image" src="https://github.com/user-attachments/assets/94cdaef5-2ce6-4c56-a333-a1866d85b3d4" />
+
+# Cell 8 - or5
+<img width="132" height="106" alt="image" src="https://github.com/user-attachments/assets/8dc2f691-536f-4214-b2d7-ef0630f47796" />
+
+# Cell 9 - or
+<img width="198" height="72" alt="image" src="https://github.com/user-attachments/assets/04b1fc30-55e4-43cd-a306-fbc632600282" />
+
+# Cell 10 - cnt_bit
+<img width="197" height="457" alt="image" src="https://github.com/user-attachments/assets/e1b45663-3c49-432c-a90a-62f59790fff6" />
